@@ -45,7 +45,6 @@
 
 📺央视频道,#genre#
 CCTV1,http://kxrj.site:9125/6655/mg9.php?id=cctv1$自用源00
-CCTV1,http://kxrj.site:9125/php/mg9.php?id=cctv1$自用源1
 CCTV1,http://171.124.180.101:8899/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV1,http://221.224.4.170:1111/tsfile/live/0001_1.m3u8$订阅源
 CCTV1,http://221.224.4.170:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -60,7 +59,6 @@ CCTV1,http://119.98.39.85:4022/rtp/239.254.96.96:8550$组播源
 CCTV1,http://119.98.39.85:4022/rtp/239.254.96.3:7992$组播源
 CCTV1,http://60.223.69.250:10000/rtp/226.0.2.153:9136$组播源
 CCTV2,http://kxrj.site:9125/6655/mg9.php?id=cctv2$自用源00
-CCTV2,http://kxrj.site:9125/php/mg9.php?id=cctv2$自用源1
 CCTV2,http://171.124.180.101:8899/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV2,http://221.224.4.170:1111/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV2,http://221.224.4.170:1111/tsfile/live/0002_1.m3u8$订阅源
@@ -75,7 +73,6 @@ CCTV2,http://119.98.39.85:4022/rtp/239.254.96.154:8998$组播源
 CCTV2,http://60.223.69.250:10000/rtp/226.0.2.154:9144$组播源
 CCTV2,http://119.98.133.74:4022/rtp/239.69.1.102:10250$组播源
 CCTV3,http://kxrj.site:9125/6655/mg9.php?id=cctv3$自用源00
-CCTV3,http://kxrj.site:9125/php/mg9.php?id=cctv3$自用源1
 CCTV3,http://171.124.180.101:8899/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV3,http://221.224.4.170:1111/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV3,http://221.224.4.170:1111/tsfile/live/0003_1.m3u8$订阅源
@@ -90,7 +87,6 @@ CCTV3,http://60.223.69.250:10000/rtp/226.0.2.208:9576$组播源
 CCTV3,http://119.98.133.74:4022/rtp/239.69.1.122:10370$组播源
 CCTV3,http://111.196.135.75:8686/rtp/239.3.1.172:8001$组播源
 CCTV4,http://kxrj.site:9125/6655/mg9.php?id=cctv4$自用源00
-CCTV4,http://kxrj.site:9125/php/mg9.php?id=cctv4$自用源1
 CCTV4,http://171.124.180.101:8899/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV4,http://221.224.4.170:1111/tsfile/live/0004_1.m3u8$订阅源
 CCTV4,http://221.224.4.170:1111/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -105,7 +101,6 @@ CCTV4,http://119.98.39.85:4022/rtp/239.254.96.155:9004$组播源
 CCTV4,http://60.223.69.250:10000/rtp/226.0.2.156:9160$组播源
 CCTV4,http://119.98.133.74:4022/rtp/239.69.1.138:10466$组播源
 CCTV5,http://kxrj.site:9125/6655/mg9.php?id=cctv5$自用源00
-CCTV5,http://kxrj.site:9125/php/mg9.php?id=cctv5$自用源1
 CCTV5,http://171.124.180.101:8899/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV5,http://221.224.4.170:1111/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV5,http://221.224.4.170:1111/tsfile/live/0005_1.m3u8$订阅源
@@ -120,7 +115,6 @@ CCTV5,http://60.223.69.250:10000/rtp/226.0.2.209:9584$组播源
 CCTV5,http://119.98.133.74:4022/rtp/239.69.1.123:10376$组播源
 CCTV5,http://111.196.135.75:8686/rtp/239.3.1.173:8001$组播源
 CCTV5+,http://kxrj.site:9125/6655/mg9.php?id=cctv5p$自用源00
-CCTV5+,http://kxrj.site:9125/php/mg9.php?id=cctv5p$自用源1
 CCTV5+,http://171.124.180.101:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV5+,http://27.14.153.181:9901/tsfile/live/0016_2.m3u8$订阅源
 CCTV5+,http://111.8.242.107:9999/tsfile/live/1052_1.m3u8$订阅源
@@ -135,7 +129,6 @@ CCTV5+,http://119.98.39.85:4022/rtp/239.254.96.99:8568$组播源
 CCTV5+,http://60.223.69.250:10000/rtp/226.0.2.168:9256$组播源
 CCTV5+,http://119.98.133.74:4022/rtp/239.69.1.12:9712$组播源
 CCTV6,http://kxrj.site:9125/6655/mg9.php?id=cctv6$自用源00
-CCTV6,http://kxrj.site:9125/php/mg9.php?id=cctv6$自用源1
 CCTV6,http://171.124.180.101:8899/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV6,http://221.224.4.170:1111/tsfile/live/0006_1.m3u8$订阅源
 CCTV6,http://221.224.4.170:1111/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -150,7 +143,6 @@ CCTV6,http://60.223.69.250:10000/rtp/226.0.2.210:9592$组播源
 CCTV6,http://119.98.133.74:4022/rtp/239.69.1.124:10382$组播源
 CCTV6,http://111.196.135.75:8686/rtp/239.3.1.174:8001$组播源
 CCTV7,http://kxrj.site:9125/6655/mg9.php?id=cctv7$自用源00
-CCTV7,http://kxrj.site:9125/php/mg9.php?id=cctv7$自用源1
 CCTV7,http://171.124.180.101:8899/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV7,http://221.224.4.170:1111/tsfile/live/0007_1.m3u8$订阅源
 CCTV7,http://221.224.4.170:1111/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -165,7 +157,6 @@ CCTV7,http://119.98.39.85:4022/rtp/239.254.96.156:9130$组播源
 CCTV7,http://119.98.39.85:4022/rtp/239.69.1.103:10256$组播源
 CCTV7,http://60.223.69.250:10000/rtp/226.0.2.159:9184$组播源
 CCTV8,http://kxrj.site:9125/6655/mg9.php?id=cctv8$自用源00
-CCTV8,http://kxrj.site:9125/php/mg9.php?id=cctv8$自用源1
 CCTV8,http://171.124.180.101:8899/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV8,http://221.224.4.170:1111/tsfile/live/0008_1.m3u8$订阅源
 CCTV8,http://221.224.4.170:1111/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -180,7 +171,6 @@ CCTV8,http://60.223.69.250:10000/rtp/226.0.2.211:9600$组播源
 CCTV8,http://119.98.133.74:4022/rtp/239.69.1.125:10388$组播源
 CCTV8,http://111.196.135.75:8686/rtp/239.3.1.175:8001$组播源
 CCTV9,http://kxrj.site:9125/6655/mg9.php?id=cctv9$自用源00
-CCTV9,http://kxrj.site:9125/php/mg9.php?id=cctv9$自用源1
 CCTV9,http://171.124.180.101:8899/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV9,http://221.224.4.170:1111/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV9,http://221.224.4.170:1111/tsfile/live/0009_1.m3u8$订阅源
@@ -195,7 +185,6 @@ CCTV9,http://119.98.39.85:4022/rtp/239.254.96.157:9016$组播源
 CCTV9,http://60.223.69.250:10000/rtp/226.0.2.161:9200$组播源
 CCTV9,http://119.98.133.74:4022/rtp/239.69.1.104:10262$组播源
 CCTV10,http://kxrj.site:9125/6655/mg9.php?id=cctv10$自用源00
-CCTV10,http://kxrj.site:9125/php/mg9.php?id=cctv10$自用源1
 CCTV10,http://171.124.180.101:8899/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV10,http://221.224.4.170:1111/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV10,http://221.224.4.170:1111/tsfile/live/0010_1.m3u8$订阅源
@@ -210,7 +199,6 @@ CCTV10,http://119.98.39.85:4022/rtp/239.254.96.158:9022$组播源
 CCTV10,http://119.98.39.85:4022/rtp/239.69.1.105:10268$组播源
 CCTV10,http://60.223.69.250:10000/rtp/226.0.2.162:9208$组播源
 CCTV11,http://kxrj.site:9125/6655/mg9.php?id=cctv11$自用源00
-CCTV11,http://kxrj.site:9125/php/mg9.php?id=cctv11$自用源1
 CCTV11,http://171.124.180.101:8899/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV11,http://221.224.4.170:1111/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV11,http://221.224.4.170:1111/tsfile/live/0011_1.m3u8$订阅源
@@ -225,7 +213,6 @@ CCTV11,http://60.223.69.250:10000/rtp/226.0.2.28:8136$组播源
 CCTV11,http://119.98.133.74:4022/rtp/239.69.1.154:10560$组播源
 CCTV11,http://111.196.135.75:8686/rtp/239.3.1.152:8120$组播源
 CCTV12,http://kxrj.site:9125/6655/mg9.php?id=cctv12$自用源00
-CCTV12,http://kxrj.site:9125/php/mg9.php?id=cctv12$自用源1
 CCTV12,http://171.124.180.101:8899/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV12,http://221.224.4.170:1111/tsfile/live/0012_1.m3u8$订阅源
 CCTV12,http://221.224.4.170:1111/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -240,7 +227,6 @@ CCTV12,http://119.98.39.85:4022/rtp/239.69.1.106:10274$组播源
 CCTV12,http://119.98.39.85:4022/rtp/239.254.96.160:9034$组播源
 CCTV12,http://60.223.69.250:10000/rtp/226.0.2.164:9224$组播源
 CCTV13,http://kxrj.site:9125/6655/mg9.php?id=cctv13$自用源00
-CCTV13,http://kxrj.site:9125/php/mg9.php?id=cctv13$自用源1
 CCTV13,http://171.124.180.101:8899/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV13,http://221.224.4.170:1111/tsfile/live/0013_1.m3u8$订阅源
 CCTV13,http://221.224.4.170:1111/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -255,7 +241,6 @@ CCTV13,http://119.98.39.85:4022/rtp/239.254.96.11:8040$组播源
 CCTV13,http://60.223.69.250:10000/rtp/226.0.2.165:9232$组播源
 CCTV13,http://119.98.133.74:4022/rtp/239.254.96.161:9040$组播源
 CCTV14,http://kxrj.site:9125/6655/mg9.php?id=cctv14$自用源00
-CCTV14,http://kxrj.site:9125/php/mg9.php?id=cctv14$自用源1
 CCTV14,http://171.124.180.101:8899/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV14,http://221.224.4.170:1111/tsfile/live/0014_1.m3u8$订阅源
 CCTV14,http://221.224.4.170:1111/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -270,7 +255,6 @@ CCTV14,http://119.98.39.85:4022/rtp/239.69.1.107:10280$组播源
 CCTV14,http://60.223.69.250:10000/rtp/226.0.2.166:9240$组播源
 CCTV14,http://119.98.133.74:4022/rtp/239.69.1.107:10280$组播源
 CCTV15,http://kxrj.site:9125/6655/mg9.php?id=cctv15$自用源00
-CCTV15,http://kxrj.site:9125/php/mg9.php?id=cctv15$自用源1
 CCTV15,http://171.124.180.101:8899/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV15,http://221.224.4.170:1111/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV15,http://221.224.4.170:1111/tsfile/live/0015_1.m3u8$订阅源
@@ -285,7 +269,6 @@ CCTV15,http://119.98.39.85:4022/rtp/239.69.1.155:10566$组播源
 CCTV15,http://119.98.39.85:4022/rtp/239.254.96.13:8052$组播源
 CCTV15,http://60.223.69.250:10000/rtp/226.0.2.32:8168$组播源
 CCTV16,http://kxrj.site:9125/6655/mg9.php?id=cctv16$自用源00
-CCTV16,http://kxrj.site:9125/php/mg9.php?id=cctv16$自用源1
 CCTV16,http://171.213.130.53:9100/udp/239.93.42.53:5140$订阅源
 CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540$订阅源
 CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?$订阅源
@@ -300,7 +283,6 @@ CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540?#http://114.249.230.
 CCTV16,http://60.223.69.250:10000/rtp/226.0.2.169:9264$组播源
 CCTV16,http://119.98.133.74:4022/rtp/239.69.1.247:11124$组播源
 CCTV17,http://kxrj.site:9125/6655/mg9.php?id=cctv17$自用源00
-CCTV17,http://kxrj.site:9125/php/mg9.php?id=cctv17$自用源1
 CCTV17,http://111.8.242.107:9999/tsfile/live/1025_1.m3u8$订阅源
 CCTV17,http://175.16.180.250:9901/tsfile/live/0019_1.m3u8$订阅源
 CCTV17,http://171.213.130.53:9100/udp/239.93.0.92:5140$订阅源
