@@ -144,7 +144,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8$订阅源-IPv6-1920x1080
 浙江卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eo6BokfP3WkB3SIXSrgvRBA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNP3w4GkbU9L7iRQ8H2vgzhF%2CEND$订阅源-IPv6-1920x1080
 浙江卫视,http://yc.myds.me:35455/itv/1000000001000014260.m3u8?cdn=ystenlive$订阅源-IPv6-1920x1080
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源-IPv6-1920x1080
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8?a=1000&amp;d=d396e340de48108a9576134d5b090354&amp;k=60ede3db45d8640ab1db2b9f0dfa7549&amp;t=1671539989$订阅源-IPv6-1920x1080
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$订阅源-IPv6-1920x1080
 浙江卫视,http://[2409:8087:1a01:df::4043]:80/TVOD/88888888/224/3221225959/main.m3u8$订阅源-IPv6-1920x1080
 北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$订阅源-IPv6-1920x1080
@@ -224,7 +224,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 江苏卫视,http://[2409:8087:74f0:22::6]:6410/270000001128/9900000524/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000524$订阅源-IPv6-1920x1080
 江西卫视,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND$订阅源-IPv6-1920x1080
 江西卫视,http://yc.myds.me:35455/itv/1000000006000268001.m3u8?cdn=ystenlive$订阅源-IPv6-1920x1080
-江西卫视,http://php.jdshipin.com:8880/jxtv2.php?id=1$订阅源-IPv6-1920x1080
+江西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010060$订阅源-IPv6-1920x1080
 江西卫视,https://www.freetv.top/migu/783847495.m3u8?migutoken=fddcc05dc0245329d3208607a5b1f5a1980bc31a7ced510e345af6cc68f5b86d2d9178b45706a0b6a0ceddc82ce06e53375cfedbc96fd0b00c12195c7d77b6f23811a67970bcfeb47629aa5aa6$订阅源-IPv6-1920x1080
 江西卫视,http://[2409:8087:1a01:df::4027]:80/TVOD/88888888/224/3221225935/main.m3u8$订阅源-IPv6-1920x1080
 辽宁卫视,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226488/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0dsu8dOBmGQQO7fSrvySew%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN4l9PIxeExdzsncIMJiPZb%2CEND$订阅源-IPv6-1920x1080
@@ -283,7 +283,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 天津卫视,http://[2409:8087:74f0:22::6]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000530$订阅源-IPv6-1920x1080
 天津卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$订阅源-IPv6-1920x1080
 西藏卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EmHuqUIe0F51C4h6xZanhig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND$订阅源-IPv6-1920x1080
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws$订阅源-IPv6-1920x1080
+西藏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225638$订阅源-IPv6-1920x1080
 西藏卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225723/2/index.m3u8$订阅源-IPv6-1920x1080
 西藏卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000317/index.m3u8?IAS$订阅源-IPv6-1920x1080
 西藏卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8$订阅源-IPv6-1920x1080
@@ -299,7 +299,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 云南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$订阅源-IPv6-1920x1080
 
 🌊港·澳·台,#genre#
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2$订阅源-IPv6-1920x1080
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$订阅源-IPv6-1920x1080
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$订阅源-IPv6-1920x1080
 翡翠台,http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8$订阅源-IPv6-1920x1080
 翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8$订阅源-IPv6-1920x1080
@@ -313,7 +313,9 @@ TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe###HLS\\n$订阅源-IPv6-
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8$订阅源-IPv6-1920x1080
 TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe$订阅源-IPv6-1920x1080
 TVB明珠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2$订阅源-IPv6-1920x1080
+TVB明珠台,https://345iptv.com/?act=play&token=5a592ca5f9a4e277577d75c5ed9a2a0f&tid=gt&id=9&p=0$订阅源-IPv6-1920x1080
 TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn###HLS\\n$订阅源-IPv6-1920x1080
+TVB翡翠台,https://345iptv.com/?act=play&token=dc1bc1fa919aba49d4719d69c838fcfa&tid=gt&id=5&p=0$订阅源-IPv6-1920x1080
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源-IPv6-1920x1080
 凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd$订阅源-IPv6-1920x1080
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8$订阅源-IPv6-1920x1080
@@ -356,4 +358,4 @@ CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 林正英,https://live.iill.top/huya/29985109$订阅源-IPv6-1920x1080
 
 🕘️更新时间,#genre#
-2025-04-03 17:08:46,http://121.11.160.7:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$自用源00
+2025-04-04 06:55:12,http://121.11.160.7:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$自用源00
