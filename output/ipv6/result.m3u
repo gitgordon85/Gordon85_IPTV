@@ -621,6 +621,8 @@ http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8$订阅源-I
 http://cdn9.163189.xyz/smt1.1.php?id=Xinhe$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🌊港·澳·台",TVB星河
 http://j.s.bkpcp.top/jj/tvbxht$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🌊港·澳·台",TVB星河
+http://z.b.bkpcp.top/m.php?id=tvbxht$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png" group-title="🌊港·澳·台",无线星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="无线星河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/无线星河.png" group-title="🌊港·澳·台",无线星河
@@ -633,10 +635,14 @@ https://345iptv.com/?act=play&token=5a592ca5f9a4e277577d75c5ed9a2a0f&tid=gt&id=9
 https://video.mytvsuper.xyz/live/61ea51c90fc0c71dab94749f05bb3c9209114e3aad97f551100bd3a133dc5608.m3u8?token=825716213175186$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠台.png" group-title="🌊港·澳·台",TVB明珠台
 http://mytv.hstv.space:2095/live/TVBP/index.m3u8$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠台.png" group-title="🌊港·澳·台",TVB明珠台
+http://z.b.bkpcp.top/m.php?id=tvbmzt$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png" group-title="🌊港·澳·台",TVB翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn###HLS\\n$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png" group-title="🌊港·澳·台",TVB翡翠台
 https://345iptv.com/?act=play&token=dc1bc1fa919aba49d4719d69c838fcfa&tid=gt&id=5&p=0$订阅源-IPv6-1920x1080
+#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png" group-title="🌊港·澳·台",TVB翡翠台
+http://z.b.bkpcp.top/m.php?id=tvbfct$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
 https://k44991.kylintv.tv/live/pxna_iphone.m3u8$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🌊港·澳·台",凤凰中文
@@ -727,5 +733,5 @@ https://live.iill.top/huya/29985109$订阅源-IPv6-1920x1080
 https://live.metshop.top/huya/11342421$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="林正英" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林正英.png" group-title="🎬电影频道",林正英
 http://www.52sw.top:678/play/huya.php?id=11342421$订阅源-IPv6-1920x1080
-#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="🕘️更新时间",2025-05-01 17:10:01
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮州综合.png" group-title="🕘️更新时间",2025-05-02 01:23:30
 http://121.11.160.7:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$自用源00
