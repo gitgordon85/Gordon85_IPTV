@@ -73,6 +73,6 @@ jobs:
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}  
           dst_token:  ${{ secrets.GITEE_TOKEN }}  
           force_update: true
-          static_list: "iptv-api"
-          account_type: org   		
+          static_list: "Gordon85_IPTV"
+          account_type: user   		
           debug: true
