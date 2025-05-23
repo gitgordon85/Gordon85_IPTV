@@ -3,5 +3,7 @@
 http://211.97.63.3:801/hls/503/index.m3u8$自用源
 #EXTINF:-1 tvg-name="潮州综合高清" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合高清.png" group-title="☘️广东频道",潮州综合高清
 http://211.97.63.3:801/hls/503/index.m3u8$自用源
-#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合.png" group-title="🕘️更新时间",2025-05-23 18:17:13
+#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/揭阳综合.png" group-title="☘️广东频道",揭阳综合
+rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=bf98b2873ad5403290a37d16569d7a06&t=639de420$自用源
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合.png" group-title="🕘️更新时间",2025-05-23 19:39:43
 http://211.97.63.3:801/hls/503/index.m3u8$自用源
