@@ -56,7 +56,7 @@ CCTV-4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$订阅源
 CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4$订阅源
 CCTV-4,http://goo.bkpcp.top/mg/cctv4m$订阅源
 CCTV-4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8$订阅源
-CCTV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226725/1.m3u8$订阅源
+CCTV-4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8$订阅源
 CCTV-5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8$订阅源
 CCTV-5,https://smart.pendy.dpdns.org/Smart.php?id=cctv5$订阅源
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai$订阅源
@@ -160,12 +160,12 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws$订阅源
 浙江卫视,http://goo.bkpcp.top/mg/zjws$订阅源
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1748286009&sign=d667d6ad67d06baefe8bf7a25796d8c5
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1748322009&sign=bc1a3033b206b3c9ca686da86a137537
 北京卫视,http://z.b.bkpcp.top/m.php?id=bjws$订阅源
 北京卫视,http://j.x.bkpcp.top/jx/BEIJHD$订阅源
-北京卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND$订阅源
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8$订阅源
 北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing$订阅源
+北京卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003870776.m3u8$订阅源
 湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws$订阅源
 湖北卫视,http://j.x.bkpcp.top/jx/HUBEIHD$订阅源
 湖北卫视,http://goo.bkpcp.top/mg/hubws$订阅源
@@ -362,7 +362,6 @@ CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555
 CHC高清电影,http://[2409:8087:4c0d:22:2::157]:6610/170000001115/UmaiCHAN6380764b172c9/1.m3u8?m3u8_level=2$LR•IPV6『线路1』
 CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8$LR•IPV6『线路2』
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8$LR•IPV4『线路24』
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8$订阅源
 周星驰,https://www.goodiptv.club/huya/11342412$订阅源
 周星驰,https://live.iill.top/huya/$订阅源
 周星驰,https://live.iill.top/huya/24551$订阅源
@@ -385,4 +384,4 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 林正英,http://www.52sw.top:678/play/huya.php?id=11342421$订阅源
 
 🕘️更新时间,#genre#
-2025-05-27 06:22:35,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301$自用源
+2025-05-27 16:51:25,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301$自用源
