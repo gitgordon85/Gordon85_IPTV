@@ -38,7 +38,6 @@ CCTV-1,http://www.745612.xyz:7788/rtp/235.254.198.51:1480$订阅源
 CCTV-1,http://114.246.201.137:7088/rtp/239.3.1.129:8008$LR•IPV4『线路45』
 CCTV-2,http://goo.bkpcp.top/mg/cctv2$备用源
 CCTV-2,http://113.65.7.94:8888/udp/239.77.1.158:5146$订阅源
-CCTV-2,http://www.lizhinas.top:1009/udp/239.252.220.183:5140$订阅源
 CCTV-2,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.61:1025$订阅源
 CCTV-2,http://www.745612.xyz:7788/rtp/235.254.198.52:1484$订阅源
 CCTV-2,http://222.212.84.190:54123/udp/239.93.1.23:6000$订阅源
@@ -48,7 +47,6 @@ CCTV-3,http://goo.bkpcp.top/mg/cctv3$备用源
 CCTV-3,http://39.164.180.36:19901/tsfile/live/0001_1.m3u8$订阅源
 CCTV-3,http://php.cqshushu.ggff.net/jzb.php?id=cctv3&公众号【医工学习日志】$LR•IPV4『线路35』
 CCTV-3,http://web9916.w.computerqwq.cf/jzb.php?id=cctv3&公众号【医工学习日志】$LR•IPV4『线路36』
-CCTV-3,http://www.lizhinas.top:1009/udp/239.252.219.252:5140$订阅源
 CCTV-3,http://hongzhijiaoyu.net:8188/udp/239.77.0.175:5146$订阅源
 CCTV-3,http://e2.woc.iiiya.cn:28888/rtp/239.61.4.120:1025$订阅源
 CCTV-3,http://222.134.245.16:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -63,7 +61,6 @@ CCTV-5,http://goo.bkpcp.top/mg/cctv5$备用源
 CCTV-5,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=558cf5&tk=922ba46651d3$订阅源
 CCTV-5,http://nas.hssvm.com:8888/udp/225.1.1.160:5002$订阅源
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000$订阅源
-CCTV-5,http://www.lizhinas.top:1009/udp/239.252.219.236:5140$订阅源
 CCTV-5,http://114.254.35.230:18888/rtp/239.3.1.173:8001$LR•IPV4『线路55』
 CCTV-5,http://222.212.84.190:54123/udp/239.93.42.37:5140$订阅源
 CCTV-5,http://114.246.201.137:7088/rtp/239.3.1.173:8001$LR•IPV4『线路49』
@@ -80,7 +77,6 @@ CCTV-6,http://web9916.w.computerqwq.cf/jzb.php?id=cctv6&公众号【医工学习
 CCTV-6,http://114.246.201.137:7088/rtp/239.3.1.174:8001$LR•IPV4『线路52』
 CCTV-6,http://www.189pan.cn:8008/udp/239.252.219.237:5140$订阅源
 CCTV-6,http://omnix.cn:4000/udp/225.1.8.84:8000$订阅源
-CCTV-6,http://www.lizhinas.top:1009/udp/239.252.219.237:5140$订阅源
 CCTV-6,http://114.254.35.230:18888/rtp/239.3.1.174:8001$订阅源
 CCTV-6,http://hongzhijiaoyu.net:8188/udp/239.77.0.171:5146$订阅源
 CCTV-7,http://goo.bkpcp.top/mg/cctv7$备用源
