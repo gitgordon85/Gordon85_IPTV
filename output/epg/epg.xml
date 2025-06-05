@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250605021120 +0800">
+<tv date="20250605070138 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -943,7 +943,7 @@
 		<display-name lang="zh">CCTV-9</display-name>
 	</channel>
 	<programme channel="CCTV-9" start="20250605000000 +0800" stop="20250605000300 +0800">
-		<title lang="zh">自然协奏曲(2)</title>
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="CCTV-9" start="20250605000300 +0800" stop="20250605005900 +0800">
 		<title lang="zh">大太平洋(3)</title>
@@ -1787,6 +1787,117 @@
 	</programme>
 	<programme channel="CCTV-17" start="20250605233300 +0800" stop="20250605235959 +0800">
 		<title lang="zh">三农群英汇</title>
+	</programme>
+	<channel id="CGTN纪录">
+		<display-name lang="zh">CGTN纪录</display-name>
+	</channel>
+	<programme channel="CGTN纪录" start="20250605000000 +0800" stop="20250605005600 +0800">
+		<title lang="zh">特别呈现(英)2025133</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605010000 +0800" stop="20250605013000 +0800">
+		<title lang="zh">发现之路(英)2025133</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605013000 +0800" stop="20250605020000 +0800">
+		<title lang="zh">历史传奇(英)2025133</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605020000 +0800" stop="20250605025600 +0800">
+		<title lang="zh">味道王国2025133</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605030000 +0800" stop="20250605032700 +0800">
+		<title lang="zh">今天我C位2025133</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605033000 +0800" stop="20250605040000 +0800">
+		<title lang="zh">青萍微览2025133</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605040000 +0800" stop="20250605045600 +0800">
+		<title lang="zh">精彩放送(英)2025266</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605050000 +0800" stop="20250605052700 +0800">
+		<title lang="zh">人文地理(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605053000 +0800" stop="20250605060000 +0800">
+		<title lang="zh">时代写真(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605060000 +0800" stop="20250605065600 +0800">
+		<title lang="zh">特别呈现(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605070000 +0800" stop="20250605073000 +0800">
+		<title lang="zh">发现之路(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605073000 +0800" stop="20250605080000 +0800">
+		<title lang="zh">历史传奇(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605080000 +0800" stop="20250605085600 +0800">
+		<title lang="zh">味道王国2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605090000 +0800" stop="20250605092700 +0800">
+		<title lang="zh">今天我C位2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605093000 +0800" stop="20250605100000 +0800">
+		<title lang="zh">青萍微览2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605100000 +0800" stop="20250605105600 +0800">
+		<title lang="zh">精彩放送(英)2025266</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605110000 +0800" stop="20250605112700 +0800">
+		<title lang="zh">人文地理(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605113000 +0800" stop="20250605120000 +0800">
+		<title lang="zh">时代写真(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605120000 +0800" stop="20250605125600 +0800">
+		<title lang="zh">特别呈现(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605130000 +0800" stop="20250605133000 +0800">
+		<title lang="zh">发现之路(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605133000 +0800" stop="20250605140000 +0800">
+		<title lang="zh">历史传奇(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605140000 +0800" stop="20250605145600 +0800">
+		<title lang="zh">味道王国2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605150000 +0800" stop="20250605152700 +0800">
+		<title lang="zh">今天我C位2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605153000 +0800" stop="20250605160000 +0800">
+		<title lang="zh">青萍微览2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605160000 +0800" stop="20250605165600 +0800">
+		<title lang="zh">精彩放送(英)2025266</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605170000 +0800" stop="20250605172700 +0800">
+		<title lang="zh">人文地理(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605173000 +0800" stop="20250605180000 +0800">
+		<title lang="zh">时代写真(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605180000 +0800" stop="20250605185600 +0800">
+		<title lang="zh">特别呈现(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605190000 +0800" stop="20250605193000 +0800">
+		<title lang="zh">发现之路(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605193000 +0800" stop="20250605200000 +0800">
+		<title lang="zh">历史传奇(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605200000 +0800" stop="20250605205600 +0800">
+		<title lang="zh">味道王国2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605210000 +0800" stop="20250605212700 +0800">
+		<title lang="zh">今天我C位2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605213000 +0800" stop="20250605220000 +0800">
+		<title lang="zh">青萍微览2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605220000 +0800" stop="20250605225600 +0800">
+		<title lang="zh">精彩放送(英)2025266</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605230000 +0800" stop="20250605232700 +0800">
+		<title lang="zh">人文地理(英)2025134</title>
+	</programme>
+	<programme channel="CGTN纪录" start="20250605233000 +0800" stop="20250605235959 +0800">
+		<title lang="zh">时代写真(英)2025134</title>
 	</programme>
 	<channel id="重庆卫视">
 		<display-name lang="zh">重庆卫视</display-name>
@@ -3306,19 +3417,19 @@
 	<programme channel="山东卫视" start="20250605000000 +0800" stop="20250605000300 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="山东卫视" start="20250605000300 +0800" stop="20250605003000 +0800">
+	<programme channel="山东卫视" start="20250605000300 +0800" stop="20250605003700 +0800">
 		<title lang="zh">都挺好24</title>
 	</programme>
-	<programme channel="山东卫视" start="20250605003000 +0800" stop="20250605010000 +0800">
+	<programme channel="山东卫视" start="20250605003700 +0800" stop="20250605011600 +0800">
 		<title lang="zh">殊死七日29</title>
 	</programme>
-	<programme channel="山东卫视" start="20250605010000 +0800" stop="20250605012700 +0800">
+	<programme channel="山东卫视" start="20250605011600 +0800" stop="20250605015600 +0800">
 		<title lang="zh">殊死七日30</title>
 	</programme>
-	<programme channel="山东卫视" start="20250605012700 +0800" stop="20250605021800 +0800">
+	<programme channel="山东卫视" start="20250605015600 +0800" stop="20250605024600 +0800">
 		<title lang="zh">行进中国</title>
 	</programme>
-	<programme channel="山东卫视" start="20250605021800 +0800" stop="20250605030800 +0800">
+	<programme channel="山东卫视" start="20250605024600 +0800" stop="20250605030800 +0800">
 		<title lang="zh">行进中国</title>
 	</programme>
 	<programme channel="山东卫视" start="20250605030800 +0800" stop="20250605044000 +0800">
@@ -4974,11 +5085,14 @@
 	<programme channel="内蒙古卫视" start="20250605000000 +0800" stop="20250605001700 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="内蒙古卫视" start="20250605001700 +0800" stop="20250605005300 +0800">
+	<programme channel="内蒙古卫视" start="20250605001700 +0800" stop="20250605003500 +0800">
 		<title lang="zh">锻刀之绝地重生</title>
 	</programme>
+	<programme channel="内蒙古卫视" start="20250605003500 +0800" stop="20250605005300 +0800">
+		<title lang="zh">包青天之七侠五义</title>
+	</programme>
 	<programme channel="内蒙古卫视" start="20250605005300 +0800" stop="20250605013000 +0800">
-		<title lang="zh">锻刀之绝地重生</title>
+		<title lang="zh">包青天之七侠五义</title>
 	</programme>
 	<programme channel="内蒙古卫视" start="20250605013000 +0800" stop="20250605020000 +0800">
 		<title lang="zh">纪录片</title>
@@ -5979,14 +6093,17 @@
 	<channel id="山西卫视">
 		<display-name lang="zh">山西卫视</display-name>
 	</channel>
-	<programme channel="山西卫视" start="20250605000000 +0800" stop="20250605010000 +0800">
-		<title lang="zh">战火兵魂</title>
+	<programme channel="山西卫视" start="20250605000000 +0800" stop="20250605005600 +0800">
+		<title lang="zh">开始</title>
 	</programme>
-	<programme channel="山西卫视" start="20250605010000 +0800" stop="20250605040000 +0800">
+	<programme channel="山西卫视" start="20250605005600 +0800" stop="20250605031800 +0800">
 		<title lang="zh">汉武大帝</title>
+	</programme>
+	<programme channel="山西卫视" start="20250605031800 +0800" stop="20250605040000 +0800">
+		<title lang="zh">百年巨匠Ⅱ</title>
 	</programme>
 	<programme channel="山西卫视" start="20250605040000 +0800" stop="20250605042000 +0800">
-		<title lang="zh">汉武大帝</title>
+		<title lang="zh">百年巨匠Ⅱ</title>
 	</programme>
 	<programme channel="山西卫视" start="20250605042000 +0800" stop="20250605062000 +0800">
 		<title lang="zh">战神</title>
