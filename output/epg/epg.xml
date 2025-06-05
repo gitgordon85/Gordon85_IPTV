@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250604185705 +0800">
+<tv date="20250605021120 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7827,25 +7827,10 @@
 	<channel id="CHC高清电影">
 		<display-name lang="zh">CHC高清电影</display-name>
 	</channel>
-	<programme channel="CHC高清电影" start="20250605000000 +0800" stop="20250605014600 +0800">
-		<title lang="zh">荞麦疯长</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20250605014600 +0800" stop="20250605040000 +0800">
-		<title lang="zh">龙马精神</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20250605040000 +0800" stop="20250605050600 +0800">
-		<title lang="zh">龙马精神</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20250605050600 +0800" stop="20250605060000 +0800">
-		<title lang="zh">龙马精神</title>
-	</programme>
 	<programme channel="CHC高清电影" start="20250605060000 +0800" stop="20250605073600 +0800">
 		<title lang="zh">韬瓴秘术</title>
 	</programme>
-	<programme channel="CHC高清电影" start="20250605073600 +0800" stop="20250605080000 +0800">
-		<title lang="zh">红海行动</title>
-	</programme>
-	<programme channel="CHC高清电影" start="20250605080000 +0800" stop="20250605095400 +0800">
+	<programme channel="CHC高清电影" start="20250605073600 +0800" stop="20250605095400 +0800">
 		<title lang="zh">红海行动</title>
 	</programme>
 	<programme channel="CHC高清电影" start="20250605095400 +0800" stop="20250605114900 +0800">
