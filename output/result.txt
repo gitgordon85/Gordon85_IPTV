@@ -31,7 +31,7 @@
 揭阳综合,http://119.131.24.84:9003/udp/239.77.0.157:5146$订阅源
 
 📺央视频道,#genre#
-CCTV-1,http://goo.bkpcp.top/mg/cctv1
+CCTV-1,http://goo.bkpcp.top/mg/cctv1|自用源
 CCTV-1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV-1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
 CCTV-1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
@@ -51,7 +51,7 @@ CCTV-1,http://home.yulei.online:9999/rtp/226.0.2.153:9136$订阅源
 CCTV-1,http://61.156.228.12:8154/tsfile/live/0001_1.m3u8$订阅源
 CCTV-1,http://xg.52sw.top/play/kzb/play.php?id=cctv1$订阅源
 CCTV-1,http://112.123.243.37:50085/tsfile/live/0001_1.m3u8$订阅源
-CCTV-2,http://goo.bkpcp.top/mg/cctv2$备用源
+CCTV-2,http://goo.bkpcp.top/mg/cctv2|自用源
 CCTV-2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
 CCTV-2,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
 CCTV-2,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
@@ -71,7 +71,7 @@ CCTV-2,http://112.132.10.54:9901/tsfile/live/0002_1.m3u8$订阅源
 CCTV-2,http://111.9.163.109:9901/tsfile/live/0002_1.m3u8$订阅源
 CCTV-2,http://222.169.85.8:9901/tsfile/live/0002_1.m3u8$订阅源
 CCTV-2,http://112.101.78.50:9901/tsfile/live/0002_1.m3u8$订阅源
-CCTV-3,http://goo.bkpcp.top/mg/cctv3$备用源
+CCTV-3,http://goo.bkpcp.top/mg/cctv3|自用源
 CCTV-3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
 CCTV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226720/1.m3u8
 CCTV-3,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
@@ -91,7 +91,7 @@ CCTV-3,http://xg.52sw.top/play/kzb/play.php?id=cctv3$订阅源
 CCTV-3,http://112.132.10.54:9901/tsfile/live/0003_1.m3u8$订阅源
 CCTV-3,http://59.39.89.130:60901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-3,http://222.67.24.171:1688/rtp/239.45.1.68:5140$订阅源
-CCTV-4,http://goo.bkpcp.top/mg/cctv4$备用源
+CCTV-4,http://goo.bkpcp.top/mg/cctv4|自用源
 CCTV-4,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
 CCTV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226725/1.m3u8
 CCTV-4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
