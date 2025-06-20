@@ -19,9 +19,12 @@
 
 揭阳综合,http://home.l-ht.cn:4000/rtp/239.77.0.229:5146$!自用源
 揭阳生活,http://home.l-ht.cn:4000/rtp/239.77.0.251:5146$!自用源
-揭阳综合,http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8$!自用源
 揭阳综合,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=bf98b2873ad5403290a37d16569d7a06&t=639de420$!自用源
 揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8$!自用源
+
+揭阳综合,http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8$!自用源
+揭阳生活,http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8$!自用源
+
 
 CCTV1,http://goo.bkpcp.top/mg/cctv1$!自用源
 CCTV2,http://goo.bkpcp.top/mg/cctv2$!自用源
