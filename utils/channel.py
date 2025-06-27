@@ -877,17 +877,10 @@ def process_write_content(
         if open_url_info and update_time_item["extra_info"]:
             update_time_item_url = add_url_info(update_time_item_url, update_time_item["extra_info"])
         value = f"{rtmp_url}{update_time_item["id"]}" if rtmp_url else update_time_item_url
-        
-         # 添加微信交流信息行，保持原有格式
-        help_line = "交流微信,https://gitee.com/gordon85/my_-musicfree/raw/master/%E4%B8%8B%E9%9B%A8%E5%A4%A9.mp4"
-        # =============== 新增代码结束 ===============
-        
         if config.update_time_position == "top":
-            content = f"🕘️更新时间,#genre#\n{now},{value}\n{help_line}\n\n{content}"
+            content = f"🕘️更新时间,#genre#\n{now},{value}\n\n{content}"
         else:
-            content += f"\n\n🕘️更新时间,#genre#\n{now},{value}\n{help_line}"
-        # =============== 修改代码结束 ===============
-    
+            content += f"\n\n🕘️更新时间,#genre#\n{now},{value}"
     if rtmp_url:
         conn = get_db_connection(constants.rtmp_data_path)
         try:
