@@ -879,7 +879,7 @@ def process_write_content(
         value = f"{rtmp_url}{update_time_item["id"]}" if rtmp_url else update_time_item_url
         
          # 添加微信交流信息行，保持原有格式
-        help_line = "交流微信,https://gitee.com/gordon85/my_-musicfree/raw/master/mmqrcode1750410684570.png"
+        help_line = "交流微信,https://gitee.com/gordon85/my_-musicfree/raw/master/%E4%B8%8B%E9%9B%A8%E5%A4%A9.mp4"
         # =============== 新增代码结束 ===============
         
         if config.update_time_position == "top":
