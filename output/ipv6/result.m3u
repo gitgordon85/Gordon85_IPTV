@@ -112,6 +112,8 @@ http://106.52.196.79:80/TV/mui.php?id=cctv4$自用源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://vip.lqcc.xyz:35455/mgtv/631780421.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4
+http://weixin.qq.home.kg/smtv.php?id=cctv4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://cdn.jdshipin.com/jisu.php?id=cctv4
@@ -181,6 +183,8 @@ http://106.52.196.79:80/TV/mui.php?id=cctv6$自用源
 http://vip.lqcc.xyz:35455/mgtv/624878396.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="📺央视频道",CCTV-6
 http://182.32.159.109:85/tsfile/live/0006_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="📺央视频道",CCTV-6
+http://weixin.qq.home.kg/smtv.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="📺央视频道",CCTV-6
 http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="📺央视频道",CCTV-6
@@ -333,6 +337,8 @@ http://goo.bkpcp.top/mg/cctv12$自用源
 http://106.52.196.79:80/TV/mui.php?id=cctv12$自用源
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="📺央视频道",CCTV-12
 http://vip.lqcc.xyz:35455/mgtv/673168185.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="📺央视频道",CCTV-12
+http://weixin.qq.home.kg/smtv.php?id=cctv12
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="📺央视频道",CCTV-12
 http://qwt.zhibotv.top:2016/全网通.php?id=CCTV12
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="📺央视频道",CCTV-12
@@ -516,6 +522,8 @@ http://goo.bkpcp.top/mg/gdws$自用源
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=广东卫视
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://weixin.qq.home.kg/smtv.php?id=guangdongweishi_twn
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://cdn.jdshipin.com/jisu.php?id=gdws
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
@@ -535,6 +543,8 @@ http://web9916.w.computerqwq.cf/jzb.php?id=gdws&公众号【医工学习日志�
 http://goo.bkpcp.top/mg/bjws$自用源
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://vip.lqcc.xyz:35455/nptv/beijing.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="📡卫视频道",北京卫视
+http://weixin.qq.home.kg/smtv.php?id=beijing
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://cdn.jdshipin.com/jisu.php?id=bjws
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="📡卫视频道",北京卫视
@@ -559,6 +569,8 @@ http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225728/.m3u8$黑龙�
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226450/.m3u8$黑龙江
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://vip.lqcc.xyz:35455/nptv/hunan.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+http://weixin.qq.home.kg/smtv.php?id=hunan_twn
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="📡卫视频道",湖南卫视
@@ -585,6 +597,8 @@ http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226307/.m3u8$黑龙�
 http://goo.bkpcp.top/mg/jsws$自用源
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://vip.lqcc.xyz:35455/mgtv/623899368.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="📡卫视频道",江苏卫视
+http://weixin.qq.home.kg/smtv.php?id=jiangsu_twn
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=江苏卫视
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="📡卫视频道",江苏卫视
@@ -614,6 +628,8 @@ http://goo.bkpcp.top/mg/zjws$自用源
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://vip.lqcc.xyz:35455/nptv/zhejiang.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://weixin.qq.home.kg/smtv.php?id=zhejiang_twn
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://cdn.jdshipin.com/jisu.php?id=zjws
@@ -639,6 +655,8 @@ http://goo.bkpcp.top/mg/hubws$自用源
 http://106.52.196.79:80/TV/mui.php?id=hubws$自用源
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://vip.lqcc.xyz:35455/nptv/hubei.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="📡卫视频道",湖北卫视
+http://weixin.qq.home.kg/smtv.php?id=hubei
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=湖北卫视
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="📡卫视频道",湖北卫视
@@ -736,9 +754,9 @@ http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226409/.m3u8$黑龙�
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://goo.bkpcp.top/mg/dfws$自用源
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
-http://106.52.196.79:80/TV/mui.php?id=dfws$自用源
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://vip.lqcc.xyz:35455/mgtv/651632648.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
+http://weixin.qq.home.kg/smtv.php?id=dongfangweishi_twn
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
@@ -807,6 +825,8 @@ http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225633/.m3u8
 http://goo.bkpcp.top/mg/gxws$自用源
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://vip.lqcc.xyz:35455/nptv/guangxi.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西卫视.png" group-title="📡卫视频道",广西卫视
+http://weixin.qq.home.kg/smtv.php?id=guangxi
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://cdn.jdshipin.com/jisu.php?id=gxws
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西卫视.png" group-title="📡卫视频道",广西卫视
@@ -943,8 +963,6 @@ http://web9916.w.computerqwq.cf/jzb.php?id=jlws&公众号【医工学习日志�
 http://php.cqshushu.ggff.net/jzb.php?id=jlws&公众号【医工学习日志】
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://goo.bkpcp.top/mg/jxws$自用源
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="📡卫视频道",江西卫视
-http://106.52.196.79:80/TV/mui.php?id=jxws$自用源
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://vip.lqcc.xyz:35455/mgtv/783847495.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="📡卫视频道",江西卫视
@@ -1100,6 +1118,8 @@ http://web9916.w.computerqwq.cf/jzb.php?id=sxws&公众号【医工学习日志�
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://vip.lqcc.xyz:35455/nptv/sichuan.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://weixin.qq.home.kg/smtv.php?id=sichuan_twn
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://cdn.jdshipin.com/jisu.php?id=scws
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226659/1.m3u8
@@ -1121,6 +1141,8 @@ http://web9916.w.computerqwq.cf/jzb.php?id=scws&公众号【医工学习日志�
 http://goo.bkpcp.top/mg/szws$自用源
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://vip.lqcc.xyz:35455/nptv/shenzheng.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="📡卫视频道",深圳卫视
+http://weixin.qq.home.kg/smtv.php?id=shenzhen
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://qwt.zhibotv.top:2016/全网通.php?id=深圳卫视
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="📡卫视频道",深圳卫视
@@ -1279,5 +1301,5 @@ http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225661/.m3u8
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$移动线路
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
-#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合.png" group-title="🕘️更新时间",2025-07-09 05:50:49
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合.png" group-title="🕘️更新时间",2025-07-09 10:29:51
 http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301$自用源
