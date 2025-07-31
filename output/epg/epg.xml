@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250731132012 +0800">
+<tv date="20250731155320 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8226,6 +8226,9 @@
 	<programme channel="黑莓动画" start="20250731191800 +0800" stop="20250731204600 +0800">
 		<title lang="zh">太空勇狗队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250731204600 +0800" stop="20250731221000 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -8267,6 +8270,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250731194800 +0800" stop="20250731211300 +0800">
 		<title lang="zh">探清水河：重生</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250731211300 +0800" stop="20250731224900 +0800">
+		<title lang="zh">魔幻岛奇遇</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
