@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250804190444 +0800">
+<tv date="20250804215115 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5754,6 +5754,126 @@
 	<programme channel="翡翠台" start="20250805050000 +0800" stop="20250805060000 +0800">
 		<title lang="zh">是日播映完毕</title>
 	</programme>
+	<programme channel="翡翠台" start="20250805060000 +0800" stop="20250805074000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805074000 +0800" stop="20250805074500 +0800">
+		<title lang="zh">环球新闻档案[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805074500 +0800" stop="20250805081000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805081000 +0800" stop="20250805084000 +0800">
+		<title lang="zh">香港早晨[粤] 及 交通消息[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805084000 +0800" stop="20250805090000 +0800">
+		<title lang="zh">香港早晨[粤] 及 周游东涌[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805090000 +0800" stop="20250805100000 +0800">
+		<title lang="zh">交易现场[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805100000 +0800" stop="20250805100500 +0800">
+		<title lang="zh">劲歌推介[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805100500 +0800" stop="20250805103500 +0800">
+		<title lang="zh">我爱玫瑰园#108[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805103500 +0800" stop="20250805113500 +0800">
+		<title lang="zh">川内相亲#25[粤/普][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805113500 +0800" stop="20250805114000 +0800">
+		<title lang="zh">宣传易[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805114000 +0800" stop="20250805121500 +0800">
+		<title lang="zh">交易现场[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805121500 +0800" stop="20250805125000 +0800">
+		<title lang="zh">新派煮意[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805125000 +0800" stop="20250805125500 +0800">
+		<title lang="zh">宣传易[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805125500 +0800" stop="20250805130000 +0800">
+		<title lang="zh">周游东涌[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805130000 +0800" stop="20250805132000 +0800">
+		<title lang="zh">午间新闻[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805132000 +0800" stop="20250805141000 +0800">
+		<title lang="zh">流行都市[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805141000 +0800" stop="20250805144000 +0800">
+		<title lang="zh">呃钱[粤][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805144000 +0800" stop="20250805145000 +0800">
+		<title lang="zh">宣传易[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805145000 +0800" stop="20250805155000 +0800">
+		<title lang="zh">亲亲我好妈#11[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805155000 +0800" stop="20250805162000 +0800">
+		<title lang="zh">交易现场[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805162000 +0800" stop="20250805165000 +0800">
+		<title lang="zh">樱桃小丸子[粤/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805165000 +0800" stop="20250805172000 +0800">
+		<title lang="zh">Hands Up[粤] 及 成语动画廊[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805172000 +0800" stop="20250805175000 +0800">
+		<title lang="zh">屁屁侦探[粤/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805175000 +0800" stop="20250805180000 +0800">
+		<title lang="zh">财经新闻[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805180000 +0800" stop="20250805182500 +0800">
+		<title lang="zh">最强生命线[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805182500 +0800" stop="20250805183000 +0800">
+		<title lang="zh">新闻档案[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805183000 +0800" stop="20250805191500 +0800">
+		<title lang="zh">六点半新闻报道[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805191500 +0800" stop="20250805192500 +0800">
+		<title lang="zh">世界观[粤] 及 天气报告[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805192500 +0800" stop="20250805193000 +0800">
+		<title lang="zh">有理说得清[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805193000 +0800" stop="20250805193500 +0800">
+		<title lang="zh">周游东涌[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805193500 +0800" stop="20250805200000 +0800">
+		<title lang="zh">东张西望[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805200000 +0800" stop="20250805203000 +0800">
+		<title lang="zh">爱．回家之开心速递#2613[粤] 及 外币汇率[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805203000 +0800" stop="20250805213000 +0800">
+		<title lang="zh">麻雀乐团#7[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805213000 +0800" stop="20250805223000 +0800">
+		<title lang="zh">藏海传#2[粤/普][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805223000 +0800" stop="20250805230000 +0800">
+		<title lang="zh">玩转粤东粤北懒人包[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805230000 +0800" stop="20250805231500 +0800">
+		<title lang="zh">娱乐头条[粤] 及 环球新闻档案[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805231500 +0800" stop="20250805234500 +0800">
+		<title lang="zh">晚间新闻[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805234500 +0800" stop="20250805235000 +0800">
+		<title lang="zh">新闻档案[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805235000 +0800" stop="20250805235500 +0800">
+		<title lang="zh">天气报告[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250805235500 +0800" stop="20250805235900 +0800">
+		<title lang="zh">茶是故乡浓#22[粤]</title>
+	</programme>
 	<channel id="西藏卫视">
 		<display-name lang="zh">西藏卫视</display-name>
 	</channel>
@@ -6561,11 +6681,17 @@
 	<programme channel="黑莓动画" start="20250805015500 +0800" stop="20250805033600 +0800">
 		<title lang="zh">画江湖之天罡</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250805033600 +0800" stop="20250805051400 +0800">
+		<title lang="zh">01_假面骑士令和第一世代（日语版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20250805003900 +0800" stop="20250805024000 +0800">
 		<title lang="zh">印度暴徒</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250805024000 +0800" stop="20250805040200 +0800">
+		<title lang="zh">兴安岭猎人传说</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
