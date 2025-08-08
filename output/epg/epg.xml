@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250808132413 +0800">
+<tv date="20250808155453 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8057,6 +8057,12 @@
 	</programme>
 	<programme channel="黑莓动画" start="20250808191300 +0800" stop="20250808201900 +0800">
 		<title lang="zh">角落小伙伴电影版 魔法绘本里的新朋友（普通话）</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250808201900 +0800" stop="20250808212300 +0800">
+		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250808212300 +0800" stop="20250808230000 +0800">
+		<title lang="zh">银魂最终篇</title>
 	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
