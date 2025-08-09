@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250809131546 +0800">
+<tv date="20250809155140 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7902,6 +7902,12 @@
 	<programme channel="黑莓动画" start="20250809183800 +0800" stop="20250809201900 +0800">
 		<title lang="zh">画江湖之天罡</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250809201900 +0800" stop="20250809215600 +0800">
+		<title lang="zh">银魂最终篇</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250809215600 +0800" stop="20250809233900 +0800">
+		<title lang="zh">蜡笔小新：激战！涂鸦王国和约四位勇士</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7943,6 +7949,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250809195500 +0800" stop="20250809214000 +0800">
 		<title lang="zh">夏洛特烦恼</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250809214000 +0800" stop="20250809000800 +0800">
+		<title lang="zh">封神第一部：朝歌风云</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
