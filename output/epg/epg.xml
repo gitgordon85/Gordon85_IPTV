@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250811070630 +0800">
+<tv date="20250811095806 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7816,6 +7816,9 @@
 	<programme channel="黑莓动画" start="20250811135600 +0800" stop="20250811153700 +0800">
 		<title lang="zh">蜡笔小新：我的搬家物语 仙人掌大袭击</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250811153700 +0800" stop="20250811171200 +0800">
+		<title lang="zh">蜡笔小新：决一胜负！逆袭的机器人爸爸</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7845,6 +7848,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250811123600 +0800" stop="20250811141200 +0800">
 		<title lang="zh">见习排爆手</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250811141200 +0800" stop="20250811153800 +0800">
+		<title lang="zh">酒剑</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250811153800 +0800" stop="20250811172600 +0800">
+		<title lang="zh">绝密特勤队</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
