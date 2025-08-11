@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250811132028 +0800">
+<tv date="20250811155353 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7855,6 +7855,9 @@
 	<programme channel="黑莓动画" start="20250811184500 +0800" stop="20250811204000 +0800">
 		<title lang="zh">战栗的乐谱 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250811204000 +0800" stop="20250811223200 +0800">
+		<title lang="zh">业火的向日葵 日语版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7896,6 +7899,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250811190600 +0800" stop="20250811205200 +0800">
 		<title lang="zh">解救吾先生</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250811205200 +0800" stop="20250811223900 +0800">
+		<title lang="zh">鲍勃b7马利：一份爱</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
