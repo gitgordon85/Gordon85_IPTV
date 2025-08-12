@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250812041757 +0800">
+<tv date="20250812070457 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8032,6 +8032,12 @@
 	<programme channel="黑莓动画" start="20250812102700 +0800" stop="20250812115400 +0800">
 		<title lang="zh">汪汪队立大功大电影2：超能大冒险</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250812115400 +0800" stop="20250812133600 +0800">
+		<title lang="zh">天空的遇难船 中文版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250812133600 +0800" stop="20250812152900 +0800">
+		<title lang="zh">业火的向日葵 日语版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -8055,6 +8061,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250812090900 +0800" stop="20250812104100 +0800">
 		<title lang="zh">时空之旅</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250812104100 +0800" stop="20250812120600 +0800">
+		<title lang="zh">神探徐有功</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250812120600 +0800" stop="20250812140100 +0800">
+		<title lang="zh">战栗的乐谱</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
