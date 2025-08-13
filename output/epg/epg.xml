@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250813042137 +0800">
+<tv date="20250813070620 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8038,6 +8038,15 @@
 	<programme channel="黑莓动画" start="20250813092200 +0800" stop="20250813104800 +0800">
 		<title lang="zh">奇妙萌可大电影</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250813104800 +0800" stop="20250813121500 +0800">
+		<title lang="zh">葫芦兄弟电影版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250813121500 +0800" stop="20250813131500 +0800">
+		<title lang="zh">哪吒闹海</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250813131500 +0800" stop="20250813143800 +0800">
+		<title lang="zh">邋遢大王奇遇记电影版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -8058,6 +8067,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250813093200 +0800" stop="20250813110500 +0800">
 		<title lang="zh">狄仁杰之通天谜案</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250813110500 +0800" stop="20250813123100 +0800">
+		<title lang="zh">极海迷窟</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250813123100 +0800" stop="20250813141700 +0800">
+		<title lang="zh">疯狂特警队</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
