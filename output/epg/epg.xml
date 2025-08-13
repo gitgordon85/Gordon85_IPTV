@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250813070620 +0800">
+<tv date="20250813095548 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8047,6 +8047,12 @@
 	<programme channel="黑莓动画" start="20250813131500 +0800" stop="20250813143800 +0800">
 		<title lang="zh">邋遢大王奇遇记电影版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250813143800 +0800" stop="20250813155900 +0800">
+		<title lang="zh">黑猫警长之翡翠之星</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250813155900 +0800" stop="20250813172500 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -8073,6 +8079,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250813123100 +0800" stop="20250813141700 +0800">
 		<title lang="zh">疯狂特警队</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250813141700 +0800" stop="20250813155900 +0800">
+		<title lang="zh">天空的遇难船</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250813155900 +0800" stop="20250813173200 +0800">
+		<title lang="zh">火线追凶2之鹈鹕行动</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
