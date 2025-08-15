@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250815042133 +0800">
+<tv date="20250815070343 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8068,6 +8068,12 @@
 	<programme channel="黑莓动画" start="20250815094700 +0800" stop="20250815111600 +0800">
 		<title lang="zh">西游记之七十二变</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250815111600 +0800" stop="20250815125200 +0800">
+		<title lang="zh">01_草船能借到十万支箭吗</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250815125200 +0800" stop="20250815143200 +0800">
+		<title lang="zh">第十四个目标 中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -8091,6 +8097,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250815100100 +0800" stop="20250815121200 +0800">
 		<title lang="zh">无名战士</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250815121200 +0800" stop="20250815140600 +0800">
+		<title lang="zh">武动乾坤：涅槃神石</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
