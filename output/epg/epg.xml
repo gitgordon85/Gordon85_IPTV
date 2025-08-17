@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250817070151 +0800">
+<tv date="20250817095129 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7785,6 +7785,12 @@
 	</programme>
 	<programme channel="黑莓动画" start="20250817125700 +0800" stop="20250817143000 +0800">
 		<title lang="zh">蜡笔小新：梦境世界大突击</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250817143000 +0800" stop="20250817153600 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250817153600 +0800" stop="20250817172700 +0800">
+		<title lang="zh">名侦探柯南：纯黑的恶梦 中文版</title>
 	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
