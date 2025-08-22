@@ -21,6 +21,10 @@ CCTV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m
 CCTV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
 CCTV-1,http://8.138.7.223/tv/migu3.php?id=cctv1
 CCTV-1,http://go.bkpcp.top/mg/cctv1
+CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
+CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
+CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8
 CCTV-1,http://106.52.196.79:80/TV/mui.php?id=cctv1
 CCTV-1,http://weixin.qq.home.kg/smtv.php?id=cctv1
 CCTV-1,http://cdn.jdshipin.com/jisu.php?id=cctv1
@@ -31,12 +35,10 @@ CCTV-1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
 CCTV-1,http://39.134.67.108/PLTV/88888888/224/3221226119/1.m3u8
 CCTV-1,http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
 CCTV-1,http://39.134.64.87:6610/PLTV/88888888/224/3221226559/index.m3u8?IASHttpSessionId=
-CCTV-1,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226016/.m3u8$黑龙江
-CCTV-1,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$移动线路
-CCTV-1,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$移动线路
 CCTV-2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
 CCTV-2,http://8.138.7.223/tv/migu3.php?id=cctv2
 CCTV-2,http://go.bkpcp.top/mg/cctv2
+CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
 CCTV-2,http://106.52.196.79:80/TV/mui.php?id=cctv2
 CCTV-2,http://weixin.qq.home.kg/smtv.php?id=cctv2
 CCTV-2,http://cdn.jdshipin.com/jisu.php?id=cctv2
@@ -51,6 +53,8 @@ CCTV-2,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212255
 CCTV-3,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
 CCTV-3,http://8.138.7.223/tv/migu3.php?id=cctv3
 CCTV-3,http://go.bkpcp.top/mg/cctv3
+CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
+CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
 CCTV-3,http://106.52.196.79:80/TV/mui.php?id=cctv3
 CCTV-3,http://weixin.qq.home.kg/smtv.php?id=cctv3
 CCTV-3,http://cdn.jdshipin.com/jisu.php?id=cctv3
@@ -66,6 +70,7 @@ CCTV-4,http://8.138.7.223/tv/migu3.php?id=cctv4
 CCTV-4,http://8.138.7.223/tv/migu3.php?id=cctv4a
 CCTV-4,http://8.138.7.223/tv/migu3.php?id=cctv4o
 CCTV-4,http://go.bkpcp.top/mg/cctv4
+CCTV-4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
 CCTV-4,http://106.52.196.79:80/TV/mui.php?id=cctv4
 CCTV-4,http://weixin.qq.home.kg/smtv.php?id=cctv4
 CCTV-4,http://cdn.jdshipin.com/jisu.php?id=cctv4
@@ -80,6 +85,8 @@ CCTV-4,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212260
 CCTV-5,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
 CCTV-5,http://8.138.7.223/tv/migu3.php?id=cctv5
 CCTV-5,http://go.bkpcp.top/mg/cctv5
+CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
+CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
 CCTV-5,http://106.52.196.79:80/TV/mui.php?id=cctv5
 CCTV-5,http://weixin.qq.home.kg/smtv.php?id=cctv5
 CCTV-5,http://cdn.jdshipin.com/jisu.php?id=cctv5
@@ -102,6 +109,8 @@ CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 CCTV-6,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
 CCTV-6,http://8.138.7.223/tv/migu3.php?id=cctv6
 CCTV-6,http://go.bkpcp.top/mg/cctv6
+CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
+CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
 CCTV-6,http://106.52.196.79:80/TV/mui.php?id=cctv6
 CCTV-6,http://weixin.qq.home.kg/smtv.php?id=cctv6
 CCTV-6,http://cdn.jdshipin.com/jisu.php?id=cctv6
@@ -115,6 +124,9 @@ CCTV-6,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212260
 CCTV-7,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
 CCTV-7,http://8.138.7.223/tv/migu3.php?id=cctv7
 CCTV-7,http://go.bkpcp.top/mg/cctv7
+CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
+CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
+CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
 CCTV-7,http://106.52.196.79:80/TV/mui.php?id=cctv7
 CCTV-7,http://weixin.qq.home.kg/smtv.php?id=cctv7
 CCTV-7,http://cdn.jdshipin.com/jisu.php?id=cctv7
@@ -128,6 +140,8 @@ CCTV-7,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 CCTV-8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
 CCTV-8,http://8.138.7.223/tv/migu3.php?id=cctv8
 CCTV-8,http://go.bkpcp.top/mg/cctv8
+CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
+CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
 CCTV-8,http://106.52.196.79:80/TV/mui.php?id=cctv8
 CCTV-8,http://weixin.qq.home.kg/smtv.php?id=cctv8hd
 CCTV-8,http://cdn.jdshipin.com/jisu.php?id=cctv8
@@ -155,6 +169,8 @@ CCTV-9,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 CCTV-10,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
 CCTV-10,http://8.138.7.223/tv/migu3.php?id=cctv10
 CCTV-10,http://go.bkpcp.top/mg/cctv10
+CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
+CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
 CCTV-10,http://106.52.196.79:80/TV/mui.php?id=cctv10
 CCTV-10,http://weixin.qq.home.kg/smtv.php?id=cctv10hd
 CCTV-10,http://cdn.jdshipin.com/jisu.php?id=cctv10
@@ -171,6 +187,8 @@ CCTV-10,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 CCTV-11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
 CCTV-11,http://8.138.7.223/tv/migu3.php?id=cctv11
 CCTV-11,http://go.bkpcp.top/mg/cctv11
+CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
+CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
 CCTV-11,http://106.52.196.79:80/TV/mui.php?id=cctv11
 CCTV-11,http://weixin.qq.home.kg/smtv.php?id=cctv11
 CCTV-11,http://cdn.jdshipin.com/jisu.php?id=cctv11
@@ -188,6 +206,8 @@ CCTV-12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.
 CCTV-12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226748/1.m3u8
 CCTV-12,http://8.138.7.223/tv/migu3.php?id=cctv12
 CCTV-12,http://go.bkpcp.top/mg/cctv12
+CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
+CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
 CCTV-12,http://106.52.196.79:80/TV/mui.php?id=cctv12
 CCTV-12,http://weixin.qq.home.kg/smtv.php?id=cctv12
 CCTV-12,http://cdn.jdshipin.com/jisu.php?id=cctv12
@@ -203,6 +223,7 @@ CCTV-12,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 CCTV-13,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
 CCTV-13,http://8.138.7.223/tv/migu3.php?id=cctv13
 CCTV-13,http://go.bkpcp.top/mg/cctv13
+CCTV-13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
 CCTV-13,http://weixin.qq.home.kg/smtv.php?id=cctv13
 CCTV-13,http://cdn.jdshipin.com/jisu.php?id=cctv13
 CCTV-13,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226717/1.m3u8
@@ -222,6 +243,8 @@ CCTV-14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.
 CCTV-14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
 CCTV-14,http://8.138.7.223/tv/migu3.php?id=cctv14
 CCTV-14,http://go.bkpcp.top/mg/cctv14
+CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
+CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
 CCTV-14,http://106.52.196.79:80/TV/mui.php?id=cctv14
 CCTV-14,http://weixin.qq.home.kg/smtv.php?id=cctv14
 CCTV-14,http://cdn.jdshipin.com/jisu.php?id=cctv14
@@ -235,6 +258,7 @@ CCTV-14,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225732/.m3u8
 CCTV-14,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$移动线路
 CCTV-15,http://8.138.7.223/tv/migu3.php?id=cctv15
 CCTV-15,http://go.bkpcp.top/mg/cctv15
+CCTV-15,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
 CCTV-15,http://106.52.196.79:80/TV/mui.php?id=cctv15
 CCTV-15,http://weixin.qq.home.kg/smtv.php?id=cctv15
 CCTV-15,http://cdn.jdshipin.com/jisu.php?id=cctv15
@@ -249,6 +273,7 @@ CCTV-15,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226
 CCTV-15,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$移动线路
 CCTV-16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 CCTV-16,http://go.bkpcp.top/mg/cctv16
+CCTV-16,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
 CCTV-16,http://cdn.jdshipin.com/jisu.php?id=cctv16
 CCTV-16,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8
 CCTV-16,http://php.cqshushu.ggff.net/jzb.php?id=cctv16&公众号【医工学习日志】
@@ -271,11 +296,15 @@ CCTV-17,http://39.134.64.87:6610/PLTV/88888888/224/3221225765/index.m3u8?IASHttp
 CCTV-17,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225765/.m3u8$黑龙江
 CCTV-17,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$移动线路
 CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m3u8
+CETV-1,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
+CETV-4,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
+CETV-4,https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227161/1.m3u8
 广东卫视,http://8.138.7.223/tv/migu3.php?id=gdws
 广东卫视,http://go.bkpcp.top/mg/gdws
+广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
 广东卫视,http://weixin.qq.home.kg/smtv.php?id=guangdongweishi_twn
 广东卫视,http://cdn.jdshipin.com/jisu.php?id=gdws
 广东卫视,http://php.cqshushu.ggff.net/jzb.php?id=gdws&公众号【医工学习日志】
@@ -287,6 +316,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 广东卫视,http://39.134.67.108/PLTV/88888888/224/3221225962/1.m3u8$东北线路
 北京卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 北京卫视,http://go.bkpcp.top/mg/bjws
+北京卫视,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
 北京卫视,http://weixin.qq.home.kg/smtv.php?id=beijing
 北京卫视,http://cdn.jdshipin.com/jisu.php?id=bjws
 北京卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226719/1.m3u8
@@ -302,6 +332,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 湖南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
 湖南卫视,http://8.138.7.223/tv/migu3.php?id=hunws
 湖南卫视,http://go.bkpcp.top/mg/hunws
+湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
 湖南卫视,http://weixin.qq.home.kg/smtv.php?id=hunan_twn
 湖南卫视,http://cdn.jdshipin.com/jisu.php?id=hunws
 湖南卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226698/1.m3u8
@@ -316,6 +347,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 江苏卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
 江苏卫视,http://8.138.7.223/tv/migu3.php?id=jsws
 江苏卫视,http://go.bkpcp.top/mg/jsws
+江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
 江苏卫视,http://weixin.qq.home.kg/smtv.php?id=jiangsu_twn
 江苏卫视,http://cdn.jdshipin.com/jisu.php?id=jsws
 江苏卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226692/1.m3u8
@@ -329,6 +361,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 江苏卫视,http://39.134.67.108/PLTV/88888888/224/3221225929/1.m3u8$东北线路
 江苏卫视,http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8$东北线路
 浙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
+浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
 浙江卫视,http://weixin.qq.home.kg/smtv.php?id=zhejiang_twn
 浙江卫视,http://cdn.jdshipin.com/jisu.php?id=zjws
 浙江卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226690/1.m3u8
@@ -342,6 +375,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 湖北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226713/1.m3u8
 湖北卫视,http://8.138.7.223/tv/migu3.php?id=hubws
 湖北卫视,http://go.bkpcp.top/mg/hubws
+湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
 湖北卫视,http://106.52.196.79:80/TV/mui.php?id=hubws
 湖北卫视,http://weixin.qq.home.kg/smtv.php?id=hubei
 湖北卫视,http://cdn.jdshipin.com/jisu.php?id=hubws
@@ -357,6 +391,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 湖北卫视,http://39.134.67.108/PLTV/88888888/224/3221226015/1.m3u8$东北线路
 黑龙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
 黑龙江卫视,http://go.bkpcp.top/mg/hljws
+黑龙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
 黑龙江卫视,http://cdn.jdshipin.com/jisu.php?id=hljws
 黑龙江卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226716/1.m3u8
 黑龙江卫视,http://php.cqshushu.ggff.net/jzb.php?id=hljws&公众号【医工学习日志】
@@ -366,6 +401,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 黑龙江卫视,http://39.134.67.108/PLTV/88888888/224/3221226006/1.m3u8$东北线路
 安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
 安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226664/1.m3u8
+安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
 安徽卫视,http://cdn.jdshipin.com/jisu.php?id=ahws
 安徽卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226664/1.m3u8
 安徽卫视,http://php.cqshushu.ggff.net/jzb.php?id=ahws&公众号【医工学习日志】
@@ -377,6 +413,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 安徽卫视,http://39.134.67.108/PLTV/88888888/224/3221225923/1.m3u8$东北线路
 重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
 重庆卫视,http://8.138.7.223/tv/migu3.php?id=cqws
+重庆卫视,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
 重庆卫视,http://cdn.jdshipin.com/jisu.php?id=cqws
 重庆卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226680/1.m3u8
 重庆卫视,http://web9916.w.computerqwq.cf/jzb.php?id=cqws&公众号【医工学习日志】
@@ -391,6 +428,9 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 东方卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
 东方卫视,http://8.138.7.223/tv/migu3.php?id=dfws
 东方卫视,http://go.bkpcp.top/mg/dfws
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
+东方卫视,https://zby.130519.xyz/PLTV/11/224/3221226050/index.m3u8
 东方卫视,http://weixin.qq.home.kg/smtv.php?id=dongfangweishi_twn
 东方卫视,http://cdn.jdshipin.com/jisu.php?id=dfws
 东方卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226734/1.m3u8
@@ -405,6 +445,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 东方卫视,http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8$东北线路
 东方卫视,http://39.134.67.108/PLTV/88888888/224/3221225960/1.m3u8$东北线路
 东南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8
+东南卫视,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
 东南卫视,http://cdn.jdshipin.com/jisu.php?id=dnws
 东南卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226670/1.m3u8
 东南卫视,http://php.cqshushu.ggff.net/jzb.php?id=dnws&公众号【医工学习日志】
@@ -417,10 +458,13 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 东南卫视,http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8$东北线路
 东南卫视,http://39.134.67.108/PLTV/88888888/224/3221226038/1.m3u8$东北线路
 甘肃卫视,http://8.138.7.223/tv/migu3.php?id=gsws
+甘肃卫视,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
 甘肃卫视,http://cdn.jdshipin.com/jisu.php?id=gsws
 甘肃卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8$移动线路
 甘肃卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225633/.m3u8$黑龙江
 广西卫视,http://8.138.7.223/tv/migu3.php?id=gxws
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
+广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
 广西卫视,http://weixin.qq.home.kg/smtv.php?id=guangxi
 广西卫视,http://cdn.jdshipin.com/jisu.php?id=gxws
 广西卫视,http://php.cqshushu.ggff.net/jzb.php?id=gxws&公众号【医工学习日志】
@@ -431,6 +475,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 广西卫视,http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8$东北线路
 贵州卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
 贵州卫视,http://8.138.7.223/tv/migu3.php?id=gzws
+贵州卫视,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
 贵州卫视,http://cdn.jdshipin.com/jisu.php?id=gzws
 贵州卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226672/1.m3u8
 贵州卫视,http://php.cqshushu.ggff.net/jzb.php?id=gzws&公众号【医工学习日志】
@@ -444,6 +489,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 贵州卫视,http://39.134.67.108/PLTV/88888888/224/3221226030/1.m3u8$东北线路
 海南卫视,http://8.138.7.223/tv/migu3.php?id=hinws
 海南卫视,http://go.bkpcp.top/mg/hinws
+海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 海南卫视,http://106.52.196.79:80/TV/mui.php?id=hinws
 海南卫视,http://cdn.jdshipin.com/jisu.php?id=hinws
 海南卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226679/1.m3u8
@@ -456,6 +502,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 海南卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226445/.m3u8$黑龙江
 海南卫视,http://39.134.67.108/PLTV/88888888/224/3221226026/1.m3u8$东北线路
 河北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8
+河北卫视,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
 河北卫视,http://cdn.jdshipin.com/jisu.php?id=hbws
 河北卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226684/1.m3u8
 河北卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$移动线路
@@ -468,6 +515,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 河南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
 河南卫视,http://8.138.7.223/tv/migu3.php?id=hnws
 河南卫视,http://go.bkpcp.top/mg/hnws
+河南卫视,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
 河南卫视,http://cdn.jdshipin.com/jisu.php?id=hnws
 河南卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226668/1.m3u8
 河南卫视,http://web9916.w.computerqwq.cf/jzb.php?id=henws&公众号【医工学习日志】
@@ -478,6 +526,8 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 河南卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226320/.m3u8$黑龙江
 河南卫视,http://39.134.67.108/PLTV/88888888/224/3221226023/1.m3u8$东北线路
 吉林卫视,http://8.138.7.223/tv/migu3.php?id=jlws
+吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
+吉林卫视,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 吉林卫视,http://cdn.jdshipin.com/jisu.php?id=jlws
 吉林卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jlws&公众号【医工学习日志】
 吉林卫视,http://php.cqshushu.ggff.net/jzb.php?id=jlws&公众号【医工学习日志】
@@ -489,6 +539,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8
 江西卫视,http://8.138.7.223/tv/migu3.php?id=jxws
 江西卫视,http://go.bkpcp.top/mg/jxws
+江西卫视,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
 江西卫视,http://cdn.jdshipin.com/jisu.php?id=jxws
 江西卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226726/1.m3u8
 江西卫视,http://php.cqshushu.ggff.net/jzb.php?id=jxws&公众号【医工学习日志】
@@ -500,6 +551,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 江西卫视,http://39.134.67.108/PLTV/88888888/224/3221225995/1.m3u8$东北线路
 辽宁卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
 辽宁卫视,http://8.138.7.223/tv/migu3.php?id=lnws
+辽宁卫视,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
 辽宁卫视,http://cdn.jdshipin.com/jisu.php?id=lnws
 辽宁卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226689/1.m3u8
 辽宁卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8$移动线路
@@ -508,6 +560,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 辽宁卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226254/.m3u8$黑龙江
 辽宁卫视,http://39.134.67.108/PLTV/88888888/224/3221225944/1.m3u8$东北线路
 内蒙古卫视,http://8.138.7.223/tv/migu3.php?id=nmws
+内蒙古卫视,https://zby.130519.xyz/PLTV/11/224/3221226011/index.m3u8
 内蒙古卫视,http://cdn.jdshipin.com/jisu.php?id=nmgws
 内蒙古卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8$移动线路
 内蒙古卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8$移动线路
@@ -515,6 +568,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 内蒙古卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226389/.m3u8$黑龙江
 内蒙古卫视,http://39.134.67.108/PLTV/88888888/224/3221226017/1.m3u8$东北线路
 宁夏卫视,http://8.138.7.223/tv/migu3.php?id=nxws
+宁夏卫视,https://zby.130519.xyz/PLTV/11/224/3221226092/index.m3u8
 宁夏卫视,http://cdn.jdshipin.com/jisu.php?id=nxws
 宁夏卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8$移动线路
 宁夏卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8$移动线路
@@ -522,6 +576,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 宁夏卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226454/.m3u8$黑龙江
 宁夏卫视,http://39.134.67.108/PLTV/88888888/224/3221226028/1.m3u8$东北线路
 青海卫视,http://8.138.7.223/tv/migu3.php?id=qhws
+青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
 青海卫视,http://cdn.jdshipin.com/jisu.php?id=qhws
 青海卫视,http://web9916.w.computerqwq.cf/jzb.php?id=qhws&公众号【医工学习日志】
 青海卫视,http://php.cqshushu.ggff.net/jzb.php?id=qhws&公众号【医工学习日志】
@@ -533,6 +588,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
 山东卫视,http://8.138.7.223/tv/migu3.php?id=sdws
 山东卫视,http://go.bkpcp.top/mg/sdws
+山东卫视,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
 山东卫视,http://cdn.jdshipin.com/jisu.php?id=sdws
 山东卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226693/1.m3u8
 山东卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8$移动线路
@@ -540,6 +596,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 山东卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226507/.m3u8$黑龙江
 山东卫视,http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8$东北线路
 山东卫视,http://39.134.67.108/PLTV/88888888/224/3221226034/1.m3u8$东北线路
+山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
 山西卫视,http://cdn.jdshipin.com/jisu.php?id=sxws
 山西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=shanxws&公众号【医工学习日志】
 山西卫视,http://php.cqshushu.ggff.net/jzb.php?id=shanxws&公众号【医工学习日志】
@@ -550,6 +607,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 山西卫视,http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8$东北线路
 陕西卫视,http://8.138.7.223/tv/migu3.php?id=sxws
 陕西卫视,http://go.bkpcp.top/mg/sxws
+陕西卫视,https://zby.130519.xyz/PLTV/11/224/3221226086/index.m3u8
 陕西卫视,http://106.52.196.79:80/TV/mui.php?id=sxws
 陕西卫视,http://cdn.jdshipin.com/jisu.php?id=snws
 陕西卫视,http://php.cqshushu.ggff.net/jzb.php?id=sxws&公众号【医工学习日志】
@@ -560,6 +618,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 陕西卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226457/.m3u8$黑龙江
 陕西卫视,http://39.134.67.108/PLTV/88888888/224/3221225989/1.m3u8$东北线路
 四川卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226659/1.m3u8
+四川卫视,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
 四川卫视,http://weixin.qq.home.kg/smtv.php?id=sichuan_twn
 四川卫视,http://cdn.jdshipin.com/jisu.php?id=scws
 四川卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226659/1.m3u8
@@ -572,6 +631,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 四川卫视,http://39.134.67.108/PLTV/88888888/224/3221226014/1.m3u8$东北线路
 深圳卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
 深圳卫视,http://go.bkpcp.top/mg/szws
+深圳卫视,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
 深圳卫视,http://weixin.qq.home.kg/smtv.php?id=shenzhen
 深圳卫视,http://cdn.jdshipin.com/jisu.php?id=szws
 深圳卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226688/1.m3u8
@@ -584,6 +644,7 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 深圳卫视,http://39.134.67.108/PLTV/88888888/224/3221225943/1.m3u8$东北线路
 深圳卫视,http://39.134.67.108/PLTV/88888888/224/3221225997/1.m3u8$东北线路
 天津卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
+天津卫视,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
 天津卫视,http://cdn.jdshipin.com/jisu.php?id=tjws
 天津卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226686/1.m3u8
 天津卫视,http://php.cqshushu.ggff.net/jzb.php?id=tjws&公众号【医工学习日志】
@@ -596,12 +657,15 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 天津卫视,http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8$东北线路
 天津卫视,http://39.134.67.108/PLTV/88888888/224/3221226003/1.m3u8$东北线路
 西藏卫视,http://8.138.7.223/tv/migu3.php?id=xzws
+西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221225767/index.m3u8
+西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221226012/index.m3u8
 西藏卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8$移动线路
 西藏卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8$移动线路
 西藏卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225638/.m3u8$黑龙江
 西藏卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226433/.m3u8$黑龙江
 西藏卫视,http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8$东北线路
 新疆卫视,http://8.138.7.223/tv/migu3.php?id=xjws
+新疆卫视,https://zby.130519.xyz/PLTV/11/224/3221226088/index.m3u8
 新疆卫视,http://cdn.jdshipin.com/jisu.php?id=xjws
 新疆卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8$移动线路
 新疆卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8$移动线路
@@ -609,6 +673,8 @@ CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m
 新疆卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226460/.m3u8$黑龙江
 新疆卫视,http://39.134.67.108/PLTV/88888888/224/3221225999/1.m3u8$东北线路
 云南卫视,http://8.138.7.223/tv/migu3.php?id=ynws
+云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
+云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
 云南卫视,http://cdn.jdshipin.com/jisu.php?id=ynws
 云南卫视,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8$移动线路
 云南卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226444/.m3u8$黑龙江
@@ -655,8 +721,9 @@ CHC动作电影,http://8.138.7.223/tv/migu3.php?id=chcdzdy
 CHC动作电影,http://106.52.196.79:80/TV/mui.php?id=chcdz
 CHC动作电影,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225661/.m3u8
 CHC动作电影,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$移动线路
+嘉佳卡通,https://zby.130519.xyz/PLTV/11/224/3221226021/index.m3u8
 黑莓动画,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$移动线路
 黑莓电影,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$移动线路
 
 🕘️更新时间,#genre#
-2025-08-22 15:02:58,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301$自用源
+2025-08-22 17:52:31,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301$自用源

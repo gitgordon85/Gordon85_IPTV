@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250822070258 +0800">
+<tv date="20250822095231 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7806,6 +7806,9 @@
 	<programme channel="黑莓动画" start="20250822130900 +0800" stop="20250822145100 +0800">
 		<title lang="zh">天空的遇难船 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250822145100 +0800" stop="20250822164400 +0800">
+		<title lang="zh">业火的向日葵 日语版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7832,6 +7835,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250822122500 +0800" stop="20250822140500 +0800">
 		<title lang="zh">通往天国的倒计时</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250822140500 +0800" stop="20250822153500 +0800">
+		<title lang="zh">男神时代</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250822153500 +0800" stop="20250822171100 +0800">
+		<title lang="zh">特种兵归来之绝地营救</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
