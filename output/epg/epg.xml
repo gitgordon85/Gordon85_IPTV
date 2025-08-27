@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250827133911 +0800">
+<tv date="20250827155056 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7941,6 +7941,24 @@
 	<programme channel="黑莓动画" start="20250827195400 +0800" stop="20250827200900 +0800">
 		<title lang="zh">14_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250827202400 +0800" stop="20250827203900 +0800">
+		<title lang="zh">16_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250827203900 +0800" stop="20250827205400 +0800">
+		<title lang="zh">17_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250827205400 +0800" stop="20250827210900 +0800">
+		<title lang="zh">18_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250827210900 +0800" stop="20250827212400 +0800">
+		<title lang="zh">19_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250827213900 +0800" stop="20250827215400 +0800">
+		<title lang="zh">21_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250827215400 +0800" stop="20250827220900 +0800">
+		<title lang="zh">22_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7979,6 +7997,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250827191600 +0800" stop="20250827214600 +0800">
 		<title lang="zh">变形金刚5：最后的骑士</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250827214600 +0800" stop="20250827232900 +0800">
+		<title lang="zh">南拳之英雄崛起</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
