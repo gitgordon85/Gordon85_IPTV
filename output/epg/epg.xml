@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250829131153 +0800">
+<tv date="20250829154608 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7824,6 +7824,24 @@
 	<programme channel="黑莓动画" start="20250829195900 +0800" stop="20250829200400 +0800">
 		<title lang="zh">08_来自西汉的爱心发射器</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250829201400 +0800" stop="20250829201900 +0800">
+		<title lang="zh">01_宇宙信使</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250829202900 +0800" stop="20250829203400 +0800">
+		<title lang="zh">04_巡天巨眼</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250829204400 +0800" stop="20250829204900 +0800">
+		<title lang="zh">07_探寻新元素</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250829205900 +0800" stop="20250829210400 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250829211400 +0800" stop="20250829211900 +0800">
+		<title lang="zh">04_乾隆皇帝射猎图</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250829212400 +0800" stop="20250829214900 +0800">
+		<title lang="zh">01_大地上的成长</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7862,6 +7880,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250829183400 +0800" stop="20250829203600 +0800">
 		<title lang="zh">逆行人生</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250829203600 +0800" stop="20250829223500 +0800">
+		<title lang="zh">非诚勿扰3</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
