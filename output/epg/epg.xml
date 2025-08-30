@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250830130950 +0800">
+<tv date="20250830154643 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7680,6 +7680,18 @@
 	<programme channel="黑莓动画" start="20250830194800 +0800" stop="20250830202200 +0800">
 		<title lang="zh">西游记之七十二变</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250830202200 +0800" stop="20250830204700 +0800">
+		<title lang="zh">01_俑气冲天</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250830211100 +0800" stop="20250830213600 +0800">
+		<title lang="zh">03_“装”，我们是认真的</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250830213600 +0800" stop="20250830220100 +0800">
+		<title lang="zh">04_堆里最靓的仔</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250830220100 +0800" stop="20250830222500 +0800">
+		<title lang="zh">05_龙族来了</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7718,6 +7730,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250830191600 +0800" stop="20250830211100 +0800">
 		<title lang="zh">扫黑b7决不放弃</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250830211100 +0800" stop="20250830225900 +0800">
+		<title lang="zh">绝密特勤队</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
