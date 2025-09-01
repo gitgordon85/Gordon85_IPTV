@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250901070159 +0800">
+<tv date="20250901095311 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7896,6 +7896,15 @@
 	<programme channel="黑莓动画" start="20250901133300 +0800" stop="20250901142200 +0800">
 		<title lang="zh">02_孟浩然 故人</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250901142200 +0800" stop="20250901151100 +0800">
+		<title lang="zh">03_王维 长安</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250901151100 +0800" stop="20250901160000 +0800">
+		<title lang="zh">04_岑参 边塞</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250901160000 +0800" stop="20250901165000 +0800">
+		<title lang="zh">05_李白 仙山</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7925,6 +7934,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250901134900 +0800" stop="20250901152300 +0800">
 		<title lang="zh">追猎行动</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250901152300 +0800" stop="20250901165200 +0800">
+		<title lang="zh">李可乐寻人记</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
