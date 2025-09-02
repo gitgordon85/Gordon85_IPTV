@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250902040520 +0800">
+<tv date="20250902070136 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7692,6 +7692,12 @@
 	<programme channel="黑莓动画" start="20250902100000 +0800" stop="20250902114000 +0800">
 		<title lang="zh">第十四个目标 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250902114000 +0800" stop="20250902131900 +0800">
+		<title lang="zh">通往天国的倒计时 中文版</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250902131900 +0800" stop="20250902150100 +0800">
+		<title lang="zh">蜡笔小新：我的搬家物语 仙人掌大袭击</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7712,6 +7718,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250902090500 +0800" stop="20250902104600 +0800">
 		<title lang="zh">外来书记</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250902104600 +0800" stop="20250902121100 +0800">
+		<title lang="zh">神探徐有功</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250902121100 +0800" stop="20250902135600 +0800">
+		<title lang="zh">叱咤风云</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250902135600 +0800" stop="20250902151600 +0800">
+		<title lang="zh">穆桂英挂帅破天门</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
