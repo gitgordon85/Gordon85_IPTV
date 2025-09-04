@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250904065912 +0800">
+<tv date="20250904094855 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7857,6 +7857,12 @@
 	<programme channel="黑莓动画" start="20250904130200 +0800" stop="20250904144200 +0800">
 		<title lang="zh">通往天国的倒计时 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250904144200 +0800" stop="20250904153100 +0800">
+		<title lang="zh">04_岑参 边塞</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250904153100 +0800" stop="20250904162100 +0800">
+		<title lang="zh">05_李白 仙山</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7883,6 +7889,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250904135800 +0800" stop="20250904152000 +0800">
 		<title lang="zh">加油二师兄</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250904152000 +0800" stop="20250904170400 +0800">
+		<title lang="zh">百鸟朝凤</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
