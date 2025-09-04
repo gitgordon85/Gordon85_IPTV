@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250904131438 +0800">
+<tv date="20250904154951 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8010,6 +8010,30 @@
 	<programme channel="黑莓动画" start="20250904195600 +0800" stop="20250904201100 +0800">
 		<title lang="zh">14_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250904201100 +0800" stop="20250904202600 +0800">
+		<title lang="zh">15_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250904202600 +0800" stop="20250904204100 +0800">
+		<title lang="zh">16_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250904204100 +0800" stop="20250904205600 +0800">
+		<title lang="zh">17_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250904205600 +0800" stop="20250904211100 +0800">
+		<title lang="zh">18_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250904211100 +0800" stop="20250904212600 +0800">
+		<title lang="zh">19_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250904212600 +0800" stop="20250904214100 +0800">
+		<title lang="zh">20_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250904214100 +0800" stop="20250904215600 +0800">
+		<title lang="zh">21_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250904215600 +0800" stop="20250904221100 +0800">
+		<title lang="zh">22_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -8045,6 +8069,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250904183300 +0800" stop="20250904203000 +0800">
 		<title lang="zh">星际迷航3：超越星辰</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250904203000 +0800" stop="20250904223100 +0800">
+		<title lang="zh">海大鱼</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
