@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250906130542 +0800">
+<tv date="20250906154526 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7641,6 +7641,15 @@
 	<programme channel="黑莓动画" start="20250906193300 +0800" stop="20250906205900 +0800">
 		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250906205900 +0800" stop="20250906213400 +0800">
+		<title lang="zh">西游记之七十二变</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250906213400 +0800" stop="20250906215800 +0800">
+		<title lang="zh">01_俑气冲天</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250906215800 +0800" stop="20250906222300 +0800">
+		<title lang="zh">02_玉不卷 不成器</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7676,6 +7685,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250906183800 +0800" stop="20250906203300 +0800">
 		<title lang="zh">疯狂的外星人</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250906203300 +0800" stop="20250906214700 +0800">
+		<title lang="zh">维和冲锋：绝境求生</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250906214700 +0800" stop="20250906232800 +0800">
+		<title lang="zh">平原上的火焰</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
