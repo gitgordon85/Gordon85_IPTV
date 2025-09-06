@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250906065549 +0800">
+<tv date="20250906094517 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7788,6 +7788,9 @@
 	<programme channel="黑莓动画" start="20250906134400 +0800" stop="20250906151300 +0800">
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250906151300 +0800" stop="20250906164000 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7814,6 +7817,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250906130400 +0800" stop="20250906143800 +0800">
 		<title lang="zh">计时引爆摩天楼</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250906143800 +0800" stop="20250906163800 +0800">
+		<title lang="zh">陪安东尼度过漫长岁月</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
