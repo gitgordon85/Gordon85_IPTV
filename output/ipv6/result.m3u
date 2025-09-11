@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/gitgordon85/Gordon85_IPTV/refs/heads/master/output/epg/epg.gz"
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合.png" group-title="☘️广东频道",潮州综合
-http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301$自用源
+http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701$自用源
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合.png" group-title="☘️广东频道",潮州综合
 http://home.l-ht.cn:4000/rtp/239.253.43.70:5146$自用源
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合.png" group-title="☘️广东频道",潮州综合
@@ -8,7 +8,7 @@ http://121.11.160.7:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合.png" group-title="☘️广东频道",潮州综合
 http://211.97.63.3:801/hls/503/index.m3u8$自用源
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州民生.png" group-title="☘️广东频道",潮州民生
-http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20250301$自用源
+http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20250701$自用源
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州民生.png" group-title="☘️广东频道",潮州民生
 http://home.l-ht.cn:4000/rtp/239.253.43.75:5146$自用源
 #EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/汕头综合.png" group-title="☘️广东频道",汕头综合
@@ -1313,5 +1313,5 @@ https://zby.130519.xyz/PLTV/11/224/3221226021/index.m3u8
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$移动线路
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑莓电影.png" group-title="🎬电影频道",黑莓电影
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$移动线路
-#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合.png" group-title="🕘️更新时间",2025-09-11 17:47:40
-http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301$自用源
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合.png" group-title="🕘️更新时间",2025-09-11 21:10:42
+http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701$自用源
