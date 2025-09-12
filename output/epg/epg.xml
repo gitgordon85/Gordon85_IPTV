@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250912190306 +0800">
+<tv date="20250912215257 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5343,6 +5343,78 @@
 	<programme channel="翡翠台" start="20250913050500 +0800" stop="20250913060000 +0800">
 		<title lang="zh">我的宠物夏日反斗嘉年华[粤]</title>
 	</programme>
+	<programme channel="翡翠台" start="20250913060000 +0800" stop="20250913074500 +0800">
+		<title lang="zh">香港早晨[粤] 及 环球新闻档案[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913074500 +0800" stop="20250913090000 +0800">
+		<title lang="zh">香港早晨[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913090000 +0800" stop="20250913093000 +0800">
+		<title lang="zh">台湾原味道[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913093000 +0800" stop="20250913100000 +0800">
+		<title lang="zh">周六聊Teen谷[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913100000 +0800" stop="20250913130000 +0800">
+		<title lang="zh">李宁二零二五香港公开羽毛球锦标赛 汇丰世界羽联世界巡回赛超级500[直播][粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913130000 +0800" stop="20250913131500 +0800">
+		<title lang="zh">午间新闻[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913131500 +0800" stop="20250913132000 +0800">
+		<title lang="zh">警声百二秒 III[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913132000 +0800" stop="20250913133000 +0800">
+		<title lang="zh">劲歌金榜[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913133000 +0800" stop="20250913150000 +0800">
+		<title lang="zh">李宁二零二五香港公开羽毛球锦标赛 汇丰世界羽联世界巡回赛超级500[直播][粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913150000 +0800" stop="20250913153000 +0800">
+		<title lang="zh">懿想得到[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913153000 +0800" stop="20250913160000 +0800">
+		<title lang="zh">懿想得到[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913160000 +0800" stop="20250913163000 +0800">
+		<title lang="zh">多啦A梦[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913163000 +0800" stop="20250913165500 +0800">
+		<title lang="zh">Hands Up[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913165500 +0800" stop="20250913183000 +0800">
+		<title lang="zh">李宁二零二五香港公开羽毛球锦标赛 汇丰世界羽联世界巡回赛超级500[直播][粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913183000 +0800" stop="20250913185500 +0800">
+		<title lang="zh">六点半新闻报道[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913185500 +0800" stop="20250913190000 +0800">
+		<title lang="zh">天气报告[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913190000 +0800" stop="20250913193000 +0800">
+		<title lang="zh">新闻透视[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913193000 +0800" stop="20250913193500 +0800">
+		<title lang="zh">好嘢港多啲[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913193500 +0800" stop="20250913200000 +0800">
+		<title lang="zh">东张西望[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913200000 +0800" stop="20250913203000 +0800">
+		<title lang="zh">香港系列之原味道[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913203000 +0800" stop="20250913224500 +0800">
+		<title lang="zh">赌城风云 II[粤][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913224500 +0800" stop="20250913231500 +0800">
+		<title lang="zh">J Sport[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913231500 +0800" stop="20250913233000 +0800">
+		<title lang="zh">晚间新闻[粤] 及 天气报告[粤]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250913233000 +0800" stop="20250913235900 +0800">
+		<title lang="zh">财经透视[粤]</title>
+	</programme>
 	<channel id="西藏卫视">
 		<display-name lang="zh">西藏卫视</display-name>
 	</channel>
@@ -6039,11 +6111,17 @@
 	<programme channel="黑莓动画" start="20250913013600 +0800" stop="20250913025400 +0800">
 		<title lang="zh">西行纪之穷奇地洞</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250913025400 +0800" stop="20250913042100 +0800">
+		<title lang="zh">棉球方块历险记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20250913011100 +0800" stop="20250913024300 +0800">
 		<title lang="zh">鬼吹灯之湘西密藏</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250913024300 +0800" stop="20250913041400 +0800">
+		<title lang="zh">勇敢新泽西</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
