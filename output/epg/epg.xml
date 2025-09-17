@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250917132457 +0800">
+<tv date="20250917160103 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7608,6 +7608,15 @@
 	<programme channel="黑莓动画" start="20250917194100 +0800" stop="20250917203100 +0800">
 		<title lang="zh">01_王的微笑</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250917203100 +0800" stop="20250917211600 +0800">
+		<title lang="zh">01_宇宙信使</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250917211600 +0800" stop="20250917214100 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250917214100 +0800" stop="20250917234200 +0800">
+		<title lang="zh">01_大地上的成长</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7643,6 +7652,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250917183700 +0800" stop="20250917201100 +0800">
 		<title lang="zh">天净沙</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250917201100 +0800" stop="20250917215000 +0800">
+		<title lang="zh">忍者神龟：变种大乱斗</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250917215000 +0800" stop="20250917235000 +0800">
+		<title lang="zh">拆弹专家</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
