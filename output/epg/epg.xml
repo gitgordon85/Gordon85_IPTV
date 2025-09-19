@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250919041453 +0800">
+<tv date="20250919071427 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7695,6 +7695,9 @@
 	<programme channel="黑莓动画" start="20250919094700 +0800" stop="20250919110100 +0800">
 		<title lang="zh"> 冰霜战斧和破甲炮 心奇爆龙战车X龙装战甲</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250919110100 +0800" stop="20250919170800 +0800">
+		<title lang="zh">汪汪队立大功第3季11</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7715,6 +7718,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250919094000 +0800" stop="20250919113300 +0800">
 		<title lang="zh">澄沙之味</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250919113300 +0800" stop="20250919125700 +0800">
+		<title lang="zh">扎职3：义薄云天</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250919125700 +0800" stop="20250919141600 +0800">
+		<title lang="zh">澡堂也疯狂</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
