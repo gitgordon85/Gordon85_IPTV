@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250925132546 +0800">
+<tv date="20250925155804 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7941,6 +7941,12 @@
 	<programme channel="黑莓动画" start="20250925180100 +0800" stop="20250925203100 +0800">
 		<title lang="zh">01_喜羊羊与灰太狼之发明大作战之二</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250925203100 +0800" stop="20250925212100 +0800">
+		<title lang="zh">01_超级火箭发动机</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250925212100 +0800" stop="20250925224900 +0800">
+		<title lang="zh">星际大逃亡</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7982,6 +7988,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250925192900 +0800" stop="20250925212900 +0800">
 		<title lang="zh">拆弹专家</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250925212900 +0800" stop="20250925225900 +0800">
+		<title lang="zh">摸金玦之守护人</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
