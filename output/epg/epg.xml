@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250928132223 +0800">
+<tv date="20250928155720 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7685,6 +7685,9 @@
 	</programme>
 	<programme channel="黑莓动画" start="20250928191100 +0800" stop="20250928214100 +0800">
 		<title lang="zh">31_喜羊羊与灰太狼之发明大作战之二</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250928214100 +0800" stop="20250928220600 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
 	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
