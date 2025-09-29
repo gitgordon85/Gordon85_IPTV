@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250929132700 +0800">
+<tv date="20250929160125 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7821,6 +7821,15 @@
 	<programme channel="黑莓动画" start="20250929191400 +0800" stop="20250929200400 +0800">
 		<title lang="zh">01_王的微笑</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250929200400 +0800" stop="20250929204900 +0800">
+		<title lang="zh">01_宇宙信使</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250929204900 +0800" stop="20250929213800 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250929213800 +0800" stop="20250929231600 +0800">
+		<title lang="zh">02_无运动 不童年</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7859,6 +7868,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250929185700 +0800" stop="20250929204900 +0800">
 		<title lang="zh">驴得水</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250929204900 +0800" stop="20250929221500 +0800">
+		<title lang="zh">机械狗</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
