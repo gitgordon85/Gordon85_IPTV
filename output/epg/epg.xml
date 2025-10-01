@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251001132626 +0800">
+<tv date="20251001160514 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7764,6 +7764,15 @@
 	<programme channel="黑莓动画" start="20251001193200 +0800" stop="20251001202200 +0800">
 		<title lang="zh">01_王的微笑</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251001202200 +0800" stop="20251001210700 +0800">
+		<title lang="zh">01_宇宙信使</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251001210700 +0800" stop="20251001213200 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251001213200 +0800" stop="20251001233300 +0800">
+		<title lang="zh">01_大地上的成长</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7799,6 +7808,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251001182400 +0800" stop="20251001203900 +0800">
 		<title lang="zh">夺冠</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251001203900 +0800" stop="20251001215300 +0800">
+		<title lang="zh">维和冲锋：绝境求生</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251001215300 +0800" stop="20251001235800 +0800">
+		<title lang="zh">热烈</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
