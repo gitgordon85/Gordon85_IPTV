@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251004070847 +0800">
+<tv date="20251004095729 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6411,6 +6411,12 @@
 	<programme channel="黑莓动画" start="20251004125000 +0800" stop="20251004142000 +0800">
 		<title lang="zh">海绵宝宝：水兵陆战队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251004142000 +0800" stop="20251004154600 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251004154600 +0800" stop="20251004171100 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -6437,6 +6443,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251004120900 +0800" stop="20251004144700 +0800">
 		<title lang="zh">变形金刚4：绝迹重生</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251004144700 +0800" stop="20251004162700 +0800">
+		<title lang="zh">世纪末的魔术师</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
