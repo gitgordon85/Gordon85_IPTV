@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251005131826 +0800">
+<tv date="20251005155852 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6627,6 +6627,12 @@
 	<programme channel="黑莓动画" start="20251005184800 +0800" stop="20251005200600 +0800">
 		<title lang="zh">西行纪之穷奇地洞</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251005200600 +0800" stop="20251005213000 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251005213000 +0800" stop="20251005225800 +0800">
+		<title lang="zh">太空勇狗队</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -6665,6 +6671,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251005193000 +0800" stop="20251005212200 +0800">
 		<title lang="zh">温暖的抱抱</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251005212200 +0800" stop="20251005232600 +0800">
+		<title lang="zh">暮光之城3：月食</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
