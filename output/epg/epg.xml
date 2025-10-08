@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251008132457 +0800">
+<tv date="20251008160122 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7653,6 +7653,15 @@
 	<programme channel="黑莓动画" start="20251008191300 +0800" stop="20251008200300 +0800">
 		<title lang="zh">01_王的微笑</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251008200300 +0800" stop="20251008204700 +0800">
+		<title lang="zh">01_宇宙信使</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251008204700 +0800" stop="20251008211200 +0800">
+		<title lang="zh">01_摹张萱虢国夫人游春图</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251008211200 +0800" stop="20251008231400 +0800">
+		<title lang="zh">01_大地上的成长</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7688,6 +7697,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251008184400 +0800" stop="20251008201300 +0800">
 		<title lang="zh">妖铃铃</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251008201300 +0800" stop="20251008213500 +0800">
+		<title lang="zh">大话西游：至尊宝</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251008213500 +0800" stop="20251008234600 +0800">
+		<title lang="zh">哥斯拉2：怪兽之王</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
