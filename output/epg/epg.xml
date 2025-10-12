@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251012071049 +0800">
+<tv date="20251012100037 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7764,6 +7764,9 @@
 	<programme channel="黑莓动画" start="20251012131300 +0800" stop="20251012152900 +0800">
 		<title lang="zh">01_甜心格格5</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251012152900 +0800" stop="20251012165700 +0800">
+		<title lang="zh">星际大逃亡</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7793,6 +7796,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251012130200 +0800" stop="20251012144800 +0800">
 		<title lang="zh">帕丁顿熊3：秘鲁大冒险</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251012144800 +0800" stop="20251012161000 +0800">
+		<title lang="zh">野蛮女友</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
