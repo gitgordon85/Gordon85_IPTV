@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251015132739 +0800">
+<tv date="20251015155924 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7896,6 +7896,9 @@
 	<programme channel="黑莓动画" start="20251015193200 +0800" stop="20251015205600 +0800">
 		<title lang="zh">绝代双骄之天外有天</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251015205600 +0800" stop="20251015221500 +0800">
+		<title lang="zh">哪吒之灵珠重生</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7934,6 +7937,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251015192600 +0800" stop="20251015212600 +0800">
 		<title lang="zh">非诚勿扰3</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251015212600 +0800" stop="20251015232700 +0800">
+		<title lang="zh">今夜，就算这份爱恋从世界上消失</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
