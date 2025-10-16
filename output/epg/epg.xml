@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251016133001 +0800">
+<tv date="20251016160123 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7917,6 +7917,9 @@
 	<programme channel="黑莓动画" start="20251016183400 +0800" stop="20251016200800 +0800">
 		<title lang="zh">08_博士的度假屋</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251016200800 +0800" stop="20251016220400 +0800">
+		<title lang="zh">01_假面骑士艾克赛德 （普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7955,6 +7958,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251016185700 +0800" stop="20251016204400 +0800">
 		<title lang="zh">再见，在也不见</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251016204400 +0800" stop="20251016232300 +0800">
+		<title lang="zh">变形金刚4：绝迹重生</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
