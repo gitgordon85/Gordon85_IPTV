@@ -29,6 +29,7 @@ CCTV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226823/1.m
 CCTV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 CCTV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
 CCTV-1,http://8.138.7.223/tv/migu3.php?id=cctv1
+CCTV-1,http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 CCTV-1,http://go.bkpcp.top/mg/cctv1
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV-1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
@@ -43,9 +44,9 @@ CCTV-1,http://39.134.67.108/PLTV/88888888/224/3221226119/1.m3u8
 CCTV-1,http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
 CCTV-1,http://39.134.64.87:6610/PLTV/88888888/224/3221226559/index.m3u8?IASHttpSessionId=
 CCTV-1,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226016/.m3u8$黑龙江
-CCTV-1,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$移动线路
 CCTV-2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
 CCTV-2,http://8.138.7.223/tv/migu3.php?id=cctv2
+CCTV-2,http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
 CCTV-2,http://go.bkpcp.top/mg/cctv2
 CCTV-2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
 CCTV-2,http://106.52.196.79:80/TV/mui.php?id=cctv2
@@ -59,6 +60,7 @@ CCTV-2,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212265
 CCTV-2,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$移动线路
 CCTV-3,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
 CCTV-3,http://8.138.7.223/tv/migu3.php?id=cctv3
+CCTV-3,http://58.19.180.108:9981/stream/channelid/188040143?profile=pass
 CCTV-3,http://go.bkpcp.top/mg/cctv3
 CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
 CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
@@ -74,6 +76,7 @@ CCTV-4,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m
 CCTV-4,http://8.138.7.223/tv/migu3.php?id=cctv4
 CCTV-4,http://8.138.7.223/tv/migu3.php?id=cctv4a
 CCTV-4,http://8.138.7.223/tv/migu3.php?id=cctv4o
+CCTV-4,http://58.19.180.108:9981/stream/channelid/1411564127?profile=pass
 CCTV-4,http://go.bkpcp.top/mg/cctv4
 CCTV-4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
 CCTV-4,http://106.52.196.79:80/TV/mui.php?id=cctv4
@@ -87,6 +90,7 @@ CCTV-4,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212264
 CCTV-4,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8$移动线路
 CCTV-5,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
 CCTV-5,http://8.138.7.223/tv/migu3.php?id=cctv5
+CCTV-5,http://58.19.180.108:9981/stream/channelid/908622330?profile=pass
 CCTV-5,http://go.bkpcp.top/mg/cctv5
 CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 CCTV-5,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
@@ -101,6 +105,7 @@ CCTV-5,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226019/.m3u8$
 CCTV-5,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$移动线路
 CCTV-5+,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
 CCTV-5+,http://8.138.7.223/tv/migu3.php?id=cctv5p
+CCTV-5+,http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
 CCTV-5+,http://go.bkpcp.top/mg/cctv5p
 CCTV-5+,http://weixin.qq.home.kg/smtv.php?id=cctv5plus
 CCTV-5+,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
@@ -109,6 +114,7 @@ CCTV-5+,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225603/.m3u8
 CCTV-5+,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$移动线路
 CCTV-6,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
 CCTV-6,http://8.138.7.223/tv/migu3.php?id=cctv6
+CCTV-6,http://58.19.180.108:9981/stream/channelid/115694977?profile=pass
 CCTV-6,http://go.bkpcp.top/mg/cctv6
 CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
 CCTV-6,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
@@ -122,6 +128,7 @@ CCTV-6,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226010/.m3u8$
 CCTV-6,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$移动线路
 CCTV-7,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
 CCTV-7,http://8.138.7.223/tv/migu3.php?id=cctv7
+CCTV-7,http://58.19.180.108:9981/stream/channelid/499001205?profile=pass
 CCTV-7,http://go.bkpcp.top/mg/cctv7
 CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
 CCTV-7,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
@@ -136,6 +143,7 @@ CCTV-7,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225733/.m3u8$
 CCTV-7,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8$移动线路
 CCTV-8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
 CCTV-8,http://8.138.7.223/tv/migu3.php?id=cctv8
+CCTV-8,http://58.19.180.108:9981/stream/channelid/1123874386?profile=pass
 CCTV-8,http://go.bkpcp.top/mg/cctv8
 CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
 CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
@@ -150,6 +158,7 @@ CCTV-8,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212260
 CCTV-9,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226657/1.m3u8
 CCTV-9,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8
 CCTV-9,http://8.138.7.223/tv/migu3.php?id=cctv9
+CCTV-9,http://58.19.180.108:9981/stream/channelid/1681394297?profile=pass
 CCTV-9,http://go.bkpcp.top/mg/cctv9
 CCTV-9,http://106.52.196.79:80/TV/mui.php?id=cctv9
 CCTV-9,http://weixin.qq.home.kg/smtv.php?id=cctv9hd
@@ -161,6 +170,7 @@ CCTV-9,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225734/.m3u8$
 CCTV-9,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8$移动线路
 CCTV-10,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
 CCTV-10,http://8.138.7.223/tv/migu3.php?id=cctv10
+CCTV-10,http://58.19.180.108:9981/stream/channelid/197590532?profile=pass
 CCTV-10,http://go.bkpcp.top/mg/cctv10
 CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
 CCTV-10,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
@@ -177,6 +187,7 @@ CCTV-10,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226
 CCTV-10,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$移动线路
 CCTV-11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
 CCTV-11,http://8.138.7.223/tv/migu3.php?id=cctv11
+CCTV-11,http://58.19.180.108:9981/stream/channelid/550290687?profile=pass
 CCTV-11,http://go.bkpcp.top/mg/cctv11
 CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
 CCTV-11,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
@@ -194,6 +205,7 @@ CCTV-11,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225
 CCTV-12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
 CCTV-12,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226748/1.m3u8
 CCTV-12,http://8.138.7.223/tv/migu3.php?id=cctv12
+CCTV-12,http://58.19.180.108:9981/stream/channelid/857624678?profile=pass
 CCTV-12,http://go.bkpcp.top/mg/cctv12
 CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
 CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
@@ -209,6 +221,7 @@ CCTV-12,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226
 CCTV-12,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$移动线路
 CCTV-13,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
 CCTV-13,http://8.138.7.223/tv/migu3.php?id=cctv13
+CCTV-13,http://58.19.180.108:9981/stream/channelid/876545399?profile=pass
 CCTV-13,http://go.bkpcp.top/mg/cctv13
 CCTV-13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
 CCTV-13,http://106.52.196.79:80/TV/mui.php?id=cctv13
@@ -228,6 +241,7 @@ CCTV-13,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226
 CCTV-14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8
 CCTV-14,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
 CCTV-14,http://8.138.7.223/tv/migu3.php?id=cctv14
+CCTV-14,http://58.19.180.108:9981/stream/channelid/446310281?profile=pass
 CCTV-14,http://go.bkpcp.top/mg/cctv14
 CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
 CCTV-14,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
@@ -663,4 +677,4 @@ CHC动作电影,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224
 黑莓电影,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$移动线路
 
 🕘️更新时间,#genre#
-2025-10-28 12:44:53,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701$自用源
+2025-10-28 15:57:31,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701$自用源
