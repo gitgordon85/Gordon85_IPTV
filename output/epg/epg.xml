@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251030132918 +0800">
+<tv date="20251030160442 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6545,6 +6545,12 @@
 	</programme>
 	<programme channel="黑莓动画" start="20251030190500 +0800" stop="20251030200700 +0800">
 		<title lang="zh">07_甜甜和妈妈</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251030200700 +0800" stop="20251030212800 +0800">
+		<title lang="zh">黑猫警长之翡翠之星</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251030212800 +0800" stop="20251030230600 +0800">
+		<title lang="zh">01_假面骑士令和第一世代（日语版）</title>
 	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
