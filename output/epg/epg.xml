@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251030074430 +0800">
+<tv date="20251030100647 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6720,6 +6720,9 @@
 	<programme channel="黑莓动画" start="20251030120800 +0800" stop="20251030143900 +0800">
 		<title lang="zh">01_猪猪侠之光明守卫者（上部）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251030143900 +0800" stop="20251030164100 +0800">
+		<title lang="zh">01_大地上的成长</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -6746,6 +6749,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251030132100 +0800" stop="20251030145400 +0800">
 		<title lang="zh">土地志</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251030145400 +0800" stop="20251030165100 +0800">
+		<title lang="zh">嗝嗝老师</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
