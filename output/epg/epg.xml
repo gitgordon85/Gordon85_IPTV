@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251101035545 +0800">
+<tv date="20251101064347 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7681,6 +7681,12 @@
 	<programme channel="黑莓动画" start="20251101095200 +0800" stop="20251101112100 +0800">
 		<title lang="zh">01_初初宝贝儿歌第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251101112100 +0800" stop="20251101130500 +0800">
+		<title lang="zh">25_喜羊羊与灰太狼之羊羊小侦探</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251101130500 +0800" stop="20251101142100 +0800">
+		<title lang="zh">22_猪猪侠之光明守卫者（上部）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7701,6 +7707,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251101093100 +0800" stop="20251101110300 +0800">
 		<title lang="zh">妈妈你真棒</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251101110300 +0800" stop="20251101123800 +0800">
+		<title lang="zh">蜡笔小新剧场版2014</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251101123800 +0800" stop="20251101135900 +0800">
+		<title lang="zh">野蛮女友</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251101135900 +0800" stop="20251101153400 +0800">
+		<title lang="zh">忽然少年</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
