@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251102064434 +0800">
+<tv date="20251102093356 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7694,6 +7694,9 @@
 	<programme channel="黑莓动画" start="20251102122300 +0800" stop="20251102145400 +0800">
 		<title lang="zh">11_猪猪侠之光明守卫者（下部）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251102145400 +0800" stop="20251102161700 +0800">
+		<title lang="zh">01_7岁看老</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7723,6 +7726,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251102134300 +0800" stop="20251102150600 +0800">
 		<title lang="zh">绝对忠诚之国家利益</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251102150600 +0800" stop="20251102163500 +0800">
+		<title lang="zh">武动乾坤：九重符塔</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
