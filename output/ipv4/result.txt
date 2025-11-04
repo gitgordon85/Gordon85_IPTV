@@ -37,7 +37,7 @@ CCTV-1,http://cdn.jdshipin.com/jisu.php?id=cctv1
 CCTV-1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
 CCTV-1,http://106.53.99.30/tv/jzb.php?id=cctv1
 CCTV-1,http://106.53.99.30/tv/20250717.php?id=0001
-CCTV-1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=20251104200027a24cf83591ef492e8ae1a22ab0071036&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251104200027&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.83&SecurityKey=20251104200027&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=16cfcfd0a2ad887732a5ba22123ebd6d&ddCalcu=d166edc0bf8ec03f2d102a22aabd58a82737
+CCTV-1,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=202511042200223dea648bc2b34e4392f05cb75e8b942f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251104220022&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.83&SecurityKey=20251104220022&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c58a26d819cee6599d25dc9a8b5481e9&ddCalcu=9ce5e1808a842056bd88a199ccde5e26d599
 CCTV-1,http://36.36.200.196:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1$订阅源
@@ -52,7 +52,7 @@ CCTV-2,http://cdn.jdshipin.com/jisu.php?id=cctv2
 CCTV-2,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
 CCTV-2,http://106.53.99.30/tv/jzb.php?id=cctv2
 CCTV-2,http://106.53.99.30/tv/20250717.php?id=0002
-CCTV-2,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=20251104200028c835aec62c544b8aa10357060e3c865a&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20251104200028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=106.13.250.83&SecurityKey=20251104200028&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ce9ee47c7b2895ca30b7a5f657b962b8&ddCalcu=8cbee2906e19e0b4775c67fb52a879b50c3a
+CCTV-2,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=20251104220022b81d8458987048e7bbc79b65e7bffe65&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20251104220022&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=106.13.250.83&SecurityKey=20251104220022&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4f74e200b31093677b3ca4d07b89d4b9&ddCalcu=94bfe470d419e082b0700bd341a0c933b677
 CCTV-2,http://36.36.200.196:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-2,http://61.136.172.236:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-2,http://111.43.126.240:9003/hls/14/index.m3u8$订阅源
@@ -68,7 +68,7 @@ CCTV-3,http://cdn.jdshipin.com/jisu.php?id=cctv3
 CCTV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226720/1.m3u8
 CCTV-3,http://106.53.99.30/tv/jzb.php?id=cctv3
 CCTV-3,http://106.53.99.30/tv/20250717.php?id=0003
-CCTV-3,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=20251104200028112c4c1b884344248607fde1eecbedc2&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20251104200028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=106.13.250.83&SecurityKey=20251104200028&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d2dd037da921b9db5099f1937fb57d19&ddCalcu=9d12edd07d4500b3f77d3a9912f19b990d5b
+CCTV-3,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=20251104220022543dd51ac608410dacae381bbf8cbdce&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20251104220022&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=106.13.250.83&SecurityKey=20251104220022&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=51a93fda8458e444d59c44868f5bf38a&ddCalcu=a581e3a0f94b305ffd8a68844548ce9454d4
 CCTV-3,http://36.36.200.196:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-3,http://61.136.172.236:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-3,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1$订阅源
@@ -84,7 +84,7 @@ CCTV-4,http://cdn.jdshipin.com/jisu.php?id=cctv4
 CCTV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226725/1.m3u8
 CCTV-4,http://106.53.99.30/tv/jzb.php?id=cctv4
 CCTV-4,http://106.53.99.30/tv/20250717.php?id=0004
-CCTV-4,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=20251104200028487f7ba6c711462c8196395b46031ffa&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20251104200028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=106.13.250.83&SecurityKey=20251104200028&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=25bfbd2bf4e404977d176754b863d817&ddCalcu=7215e8b0df13b06d82bb4f547e647014d977
+CCTV-4,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=20251104220022608ab3d23ac1454ba9e3b5cc562e66ac&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20251104220022&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=106.13.250.83&SecurityKey=20251104220022&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=edd8721fb5cb65f94cb404dc3f8c1b07&ddCalcu=7e0debd0181c7082f13fcbd54c0b46b5cf49
 CCTV-4,http://36.36.200.196:44330/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-4,http://111.43.126.240:9003/hls/16/index.m3u8$订阅源
 CCTV-5,http://gxyd.484947.xyz/PLTV/77777777/224/3221225801/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -100,7 +100,7 @@ CCTV-5,http://cdn.jdshipin.com/jisu.php?id=cctv5
 CCTV-5,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226731/1.m3u8
 CCTV-5,http://106.53.99.30/tv/jzb.php?id=cctv5
 CCTV-5,http://106.53.99.30/tv/20250717.php?id=0005
-CCTV-5,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=2025110420002832115d2572cb4e88ae6356b0014f836d&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20251104200028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.83&SecurityKey=20251104200028&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1366ee6ee4cec3f1e24b9373ed76af81&ddCalcu=1183ef60a616e07ed6ee3e743c9ebc432fe1
+CCTV-5,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=20251104220023012787c535504de48edcc2f21f817760&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20251104220023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.83&SecurityKey=20251104220023&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c4031de403430d1d9d3562b5aa2731e6&ddCalcu=6ce4e1003317102daea450b32463503dd19d
 CCTV-5,http://36.36.200.196:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5,http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1$订阅源
@@ -113,10 +113,10 @@ CCTV-5+,http://go.bkpcp.top/mg/cctv5p
 CCTV-5+,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
 CCTV-5+,http://106.53.99.30/tv/jzb.php?id=cctv5plus
 CCTV-5+,http://106.53.99.30/tv/20250717.php?id=0006
-CCTV-5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=20251104200028426aedbb8a934715aee79adeb1411223&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251104200028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.83&SecurityKey=20251104200028&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=bc57b74e851e884375b40f5f7f245b40&ddCalcu=0b4ceb505714b027f47ef855f10e48b85473
+CCTV-5+,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=20251104220023267d9b846cc5466e98f31baf2914f5a9&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251104220023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.83&SecurityKey=20251104220023&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=55695052ccadee09b64b9835730f2e74&ddCalcu=4575ee60291f500035725c3c8a9dbe4e60b9
+CCTV-5+,http://111.221.137.155:44330/tsfile/live/0016_1.m3u8?key=txiptv$订阅源
 CCTV-5+,http://36.36.200.196:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-5+,http://111.221.137.155:44330/tsfile/live/0016_1.m3u8?key=txiptv$订阅源
 CCTV-5+,http://111.43.126.240:9003/hls/18/index.m3u8$订阅源
 CCTV-6,http://gxyd.484947.xyz/PLTV/77777777/224/3221225936/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 CCTV-6,http://gxyd.484947.xyz/PLTV/77777777/224/3221225715/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -129,7 +129,7 @@ CCTV-6,http://cdn.jdshipin.com/jisu.php?id=cctv6
 CCTV-6,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226699/1.m3u8
 CCTV-6,http://106.53.99.30/tv/jzb.php?id=cctv6
 CCTV-6,http://106.53.99.30/tv/20250717.php?id=0007
-CCTV-6,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=20251104200028646f8094fb1a4b9f87064d7a88e06cda&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20251104200028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=106.13.250.83&SecurityKey=20251104200028&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=33b0e6dd26fefc78be833116f8c97272&ddCalcu=2373e2b07049e0c68dfd62161f3e3f8ce7b8
+CCTV-6,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=20251104220023c6d3991fb53b457497a04a1a5842187e&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20251104220023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=106.13.250.83&SecurityKey=20251104220023&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=be5074b5a8e75df7948d297af1e5b543&ddCalcu=3b4ee550b04570e41bf5aa789e27d58d4f97
 CCTV-6,http://36.36.200.196:44330/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-6,http://61.136.172.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-6,http://111.43.126.240:9003/hls/19/index.m3u8$订阅源
@@ -159,9 +159,9 @@ CCTV-8,http://cdn.jdshipin.com/jisu.php?id=cctv8
 CCTV-8,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226715/1.m3u8
 CCTV-8,http://106.53.99.30/tv/jzb.php?id=cctv8
 CCTV-8,http://106.53.99.30/tv/20250717.php?id=0009
-CCTV-8,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=20251104200028e19aba7c3ed4423fb0b9305b2a2a87fd&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20251104200028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=106.13.250.83&SecurityKey=20251104200028&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7f4bb78b5a610c302470a7b42881b1be&ddCalcu=e7bfe140bb41b087882b45ba76a1007c4320
-CCTV-8,http://111.221.137.155:44330/tsfile/live/0008_1.m3u8?key=txiptv$订阅源
+CCTV-8,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=20251104220023ce6ed149884d4ab0b8d06f10d26c1af3&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20251104220023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=106.13.250.83&SecurityKey=20251104220023&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=50636b50090241e198912b0b506efcfe&ddCalcu=e5f0ec60f34e606b0550b009b02214918e91
 CCTV-8,http://36.36.200.196:44330/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CCTV-8,http://111.221.137.155:44330/tsfile/live/0008_1.m3u8?key=txiptv$订阅源
 CCTV-8,http://61.136.172.236:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-8,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1$订阅源
 CCTV-8,http://111.43.126.240:9003/hls/21/index.m3u8$订阅源
@@ -174,7 +174,7 @@ CCTV-9,http://cdn.jdshipin.com/jisu.php?id=cctv9
 CCTV-9,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226651/1.m3u8
 CCTV-9,http://106.53.99.30/tv/jzb.php?id=cctv9
 CCTV-9,http://106.53.99.30/tv/20250717.php?id=0010
-CCTV-9,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=20251104200028748d45db81b34edba15975eb56ba082f&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20251104200028&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=106.13.250.83&SecurityKey=20251104200028&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=dc8d284da4e3586f4938db6bc10d7ab6&ddCalcu=6dbcea807d3d200814cdba64bed38538964f
+CCTV-9,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=20251104220023179fd5e74aea419fab825d83ef4653e0&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20251104220023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=106.13.250.83&SecurityKey=20251104220023&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=db9129993d387b403b8e5c74ac2dce7f&ddCalcu=fd7bee90c13d2029c9a9437dc358e78bb430
 CCTV-9,http://36.36.200.196:44330/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-9,http://111.221.137.155:44330/tsfile/live/0009_1.m3u8?key=txiptv$订阅源
 CCTV-9,http://61.136.172.236:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -190,7 +190,7 @@ CCTV-10,http://cdn.jdshipin.com/jisu.php?id=cctv10
 CCTV-10,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226708/1.m3u8
 CCTV-10,http://106.53.99.30/tv/jzb.php?id=cctv10
 CCTV-10,http://106.53.99.30/tv/20250717.php?id=0011
-CCTV-10,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=20251104200029169sdkzzlr&mdspid=&spid=699004&netType=0&sid=5500212874&pid=&timestamp=20251104200029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=106.13.250.83&SecurityKey=20251104200029&imei=&mvid=5100001696&mcid=500020&playurlVersion=SJ-A1-8.10.1&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=other&puData=74ede9a80c65b4a261d9bbead1c66e69&ddCalcu=9764eee06d46e0c91ad8a0ecb6b59bd41a62
+CCTV-10,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=202511042200233a1954b084c441e089fadc6493486537&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20251104220023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=106.13.250.83&SecurityKey=20251104220023&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=736bf2a50de4b40637a754ce7184b6b8&ddCalcu=87b3e660bb44f0821a75e0cd4e547ba47036
 CCTV-10,http://111.221.137.155:44330/tsfile/live/0010_1.m3u8?key=txiptv$订阅源
 CCTV-10,http://36.36.200.196:44330/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-10,http://61.136.172.236:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -206,9 +206,9 @@ CCTV-11,http://cdn.jdshipin.com/jisu.php?id=cctv11
 CCTV-11,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226714/1.m3u8
 CCTV-11,http://106.53.99.30/tv/jzb.php?id=cctv11
 CCTV-11,http://106.53.99.30/tv/20250717.php?id=0012
-CCTV-11,http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=20251104200029140b35c1b8f349e7988f4024f4a80bd4&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20251104200029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.13.250.83&SecurityKey=20251104200029&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8d221b6ae780f42a20726eaa43f20faa&ddCalcu=a8adef20027210fb364aaea7e8602f74022a
-CCTV-11,http://36.36.200.196:44330/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CCTV-11,http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=202511042200237e213a0ff42f406e8ee5abbd426f5d2f&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20251104220023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.13.250.83&SecurityKey=20251104220023&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=01d61ec2ca24f9c17639534ea21657c9&ddCalcu=90c1e7d05676101e2ca2ec4a32549f396c71
 CCTV-11,http://111.221.137.155:44330/tsfile/live/0011_1.m3u8?key=txiptv$订阅源
+CCTV-11,http://36.36.200.196:44330/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-11,http://61.136.172.236:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-11,http://111.43.126.240:9003/hls/24/index.m3u8$订阅源
 CCTV-12,http://gxyd.484947.xyz/PLTV/77777777/224/3221226013/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -223,9 +223,9 @@ CCTV-12,http://cdn.jdshipin.com/jisu.php?id=cctv12
 CCTV-12,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226723/1.m3u8
 CCTV-12,http://106.53.99.30/tv/jzb.php?id=cctv12
 CCTV-12,http://106.53.99.30/tv/20250717.php?id=0013
-CCTV-12,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=20251104200029deee8d3905054235ac574f5e99743957&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20251104200029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=106.13.250.83&SecurityKey=20251104200029&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0096f0b7fa1925caa3c5615c4e8c978c&ddCalcu=c080e790963cf080eb47cf5a116952c53caa
-CCTV-12,http://36.36.200.196:44330/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CCTV-12,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=2025110422002372bb00b17b3e4decb1412a40f9b94015&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20251104220023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=106.13.250.83&SecurityKey=20251104220023&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3d05503caf4590721ca405dfaeae4db6&ddCalcu=63bded00453e50a0e3acfadf540549a0c712
 CCTV-12,http://111.221.137.155:44330/tsfile/live/0012_1.m3u8?key=txiptv$订阅源
+CCTV-12,http://36.36.200.196:44330/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-12,http://61.136.172.236:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-12,http://111.43.126.240:9003/hls/25/index.m3u8$订阅源
 CCTV-13,http://gxyd.484947.xyz/PLTV/77777777/224/3221226046/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -238,10 +238,10 @@ CCTV-13,http://cdn.jdshipin.com/jisu.php?id=cctv13
 CCTV-13,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226717/1.m3u8
 CCTV-13,http://106.53.99.30/tv/jzb.php?id=cctv13
 CCTV-13,http://106.53.99.30/tv/20250717.php?id=0014
-CCTV-13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=20251104200029393b084e34eb48cd99e18f19333292d8&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20251104200029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.83&SecurityKey=20251104200029&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d466a6ad839d24f35dab37f397350c1d&ddCalcu=dd14ec600685a0367a9d38f3793db2a4df53
+CCTV-13,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=20251104220023de2121292f6f458f88ae287fdb1ad844&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20251104220023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.83&SecurityKey=20251104220023&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8629a621772e6eb54c12bd0e424ea400&ddCalcu=0806e420a98ea0462241e707d2be261ecb45
 CCTV-13,http://111.43.126.240:9003/hls/26/index.m3u8$订阅源
-CCTV-13,http://36.36.200.196:44330/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-13,http://111.221.137.155:44330/tsfile/live/0013_1.m3u8?key=txiptv$订阅源
+CCTV-13,http://36.36.200.196:44330/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-14,http://gxyd.484947.xyz/PLTV/77777777/224/3221225901/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 CCTV-14,http://gxyd.484947.xyz/PLTV/77777777/224/3221225648/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -254,9 +254,9 @@ CCTV-14,http://cdn.jdshipin.com/jisu.php?id=cctv14
 CCTV-14,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226645/1.m3u8
 CCTV-14,http://106.53.99.30/tv/jzb.php?id=cctv14
 CCTV-14,http://106.53.99.30/tv/20250717.php?id=0015
-CCTV-14,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=202511042000292b10700c76a9415aa1112f86c6458bb3&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20251104200029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=106.13.250.83&SecurityKey=20251104200029&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=23c803ab1c4d536fc778256f89587b28&ddCalcu=8223ebc0784800539a8bf16c542d857376cf
-CCTV-14,http://36.36.200.196:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CCTV-14,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=202511042200235d7908d4d6c9425290ac449e3329f9f9&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20251104220023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=106.13.250.83&SecurityKey=20251104220023&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7e1fec7af638873149d518ecc77e09f7&ddCalcu=77fee9100f4ee07c77cacfe6831858d79341
 CCTV-14,http://111.221.137.155:44330/tsfile/live/0014_1.m3u8?key=txiptv$订阅源
+CCTV-14,http://36.36.200.196:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-14,http://61.136.172.236:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-14,http://111.43.126.240:9003/hls/27/index.m3u8$订阅源
 CCTV-15,http://gxyd.484947.xyz/PLTV/77777777/224/3221225945/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -268,8 +268,7 @@ CCTV-15,http://cdn.jdshipin.com/jisu.php?id=cctv15
 CCTV-15,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8
 CCTV-15,http://106.53.99.30/tv/jzb.php?id=cctv15
 CCTV-15,http://106.53.99.30/tv/20250717.php?id=0016
-CCTV-15,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=202511042000295ebf1878d5cf431e8d37d1345cff5157&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20251104200029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=106.13.250.83&SecurityKey=20251104200029&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=374e59a7502b4674958503ec205e9570&ddCalcu=0377e5409e3e50590a27c5e0320b54865794
-CCTV-15,http://m.061899.xyz/mg/cctv15$订阅源
+CCTV-15,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=20251104220023b9223bbefa8a42f8aea88baafdb9dce5&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20251104220023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=106.13.250.83&SecurityKey=20251104220023&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c0614654894b250db2f3d8fba3b25bf9&ddCalcu=9cf0eb60513240b635a4b8f984db32f520bd
 CCTV-15,http://36.36.200.196:44330/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-15,http://111.221.137.155:44330/tsfile/live/0015_1.m3u8?key=txiptv$订阅源
 CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -296,27 +295,26 @@ CCTV-17,http://cdn.jdshipin.com/jisu.php?id=cctv17
 CCTV-17,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 CCTV-17,http://106.53.99.30/tv/jzb.php?id=cctv17
 CCTV-17,http://106.53.99.30/tv/20250717.php?id=0018
-CCTV-17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=202511042000294761ddecd27b46e9acfe49c02a48227e&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20251104200029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=106.13.250.83&SecurityKey=20251104200029&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=314b472e03761790d0eeb03749133728&ddCalcu=8321e7403b334017924e703307b6e1e709d0
-CCTV-17,http://m.061899.xyz/mg/cctv17$订阅源
+CCTV-17,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=20251104220023ad7f1224343b480eb3ac1538440672fb&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20251104220023&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=106.13.250.83&SecurityKey=20251104220023&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f749aba65fbfd8c00ea044abe456464f&ddCalcu=ff47e6404936a05b4ae6b5af4b4f0da8ec00
 CCTV-17,http://111.43.126.240:9003/hls/30/index.m3u8$订阅源
 CETV-1,http://gxyd.484947.xyz/PLTV/77777777/224/3221225776/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 CETV-1,https://shyd.484947.xyz/cms001/ch00000090990000001020/index.m3u8
 CETV-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226712/1.m3u8
 CETV-1,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
-CETV-1,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=20251104200035b0a3f815fed84e70ad0c1fc63550f635&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20251104200035&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=106.13.250.83&SecurityKey=20251104200035&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=50bf68fa4fe062458f1c0a2b86d672ac&ddCalcu=c5a0e2b07f3660d86f8ab42fae00c612f485
+CETV-1,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=202511042200306f33c88d4a5549d7b1a45f1f050f6ade&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20251104220030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=106.13.250.83&SecurityKey=20251104220030&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0f461427e6b844b08c5665f71138d8fc&ddCalcu=c0ffe840d638103412177ef65b686454cb80
 CETV-1,http://106.53.99.30/tv/gdcucc.php?id=87
 CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8$订阅源
 CETV-2,https://shyd.484947.xyz/cms001/ch00000090990000001226/index.m3u8
 CETV-2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226718/1.m3u8
 CETV-2,http://106.53.99.30/tv/20250717.php?id=0057
-CETV-2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=2025110420003605c4dd0207f040599cb0b5a544f504aa&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20251104200036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.83&SecurityKey=20251104200036&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=aa5bd224d41a16da414e0fbcb4a36998&ddCalcu=8a9ae9506b33d0a242b4cdb4f10ae1461d4a
+CETV-2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=20251104220030f54774395c3c43ad9ca99e6dd29ac537&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20251104220030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.83&SecurityKey=20251104220030&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=388c5b8aff12a903699f782b07518249&ddCalcu=9348e2808c31505b780abf2f8172fa999063
 CETV-3,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226722/1.m3u8
 CETV-4,https://shyd.484947.xyz/cms001/ch00000090990000001348/index.m3u8
 CETV-4,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226724/1.m3u8
 CETV-4,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 CETV-4,https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8
 CETV-4,http://106.53.99.30/tv/20250717.php?id=0058
-CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=20251104200036307a9263deea438692eb4b98793ffdd4&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20251104200036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=106.13.250.83&SecurityKey=20251104200036&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0ba1ca608519c50869b2c4c43e7fed15&ddCalcu=501beda0e13fc07ae63048c541c92cb59068
+CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=202511042200305dbc21a4eea34053b8d380414f0d7cd0&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20251104220030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=106.13.250.83&SecurityKey=20251104220030&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=83a4f592597f9a187b2412a1909f0e64&ddCalcu=4863eea0043ff095099215a9271f492ab178
 CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 
 📡卫视频道,#genre#
@@ -328,6 +326,7 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 广东卫视,http://cdn.jdshipin.com/jisu.php?id=gdws
 广东卫视,http://106.53.99.30/tv/jzb.php?id=gdws
 广东卫视,http://106.53.99.30/tv/20250717.php?id=0030
+广东卫视,http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20251104220025d0eb9c8870ca46adae9df751d79d50f2&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20251104220025&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.83&SecurityKey=20251104220025&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e35c320d9be226094682443b5f5d94ba&ddCalcu=aeb3e4509c8d3052f05db93b4e4222866049
 广东卫视,http://106.53.99.30/tv/gdcucc.php?id=27
 广东卫视,http://36.36.200.196:44330/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 广东卫视,http://111.221.137.155:44330/tsfile/live/0125_1.m3u8?key=txiptv$订阅源
@@ -372,9 +371,8 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 江苏卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226692/1.m3u8
 江苏卫视,http://106.53.99.30/tv/jzb.php?id=jsws
 江苏卫视,http://106.53.99.30/tv/20250717.php?id=0029
-江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=2025110420003052eb6cbff80d42938f4a0661296c653b&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20251104200030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.83&SecurityKey=20251104200030&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9324a698ce56ffc20eb22260165bc35f&ddCalcu=f953e320c43ba05669180c6e25262fbfec02
+江苏卫视,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=20251104220025533de636bd5a447992a2cf4ee1b06297&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20251104220025&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.83&SecurityKey=20251104220025&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=57ff56dbdadcf8529e226bedf44f400c&ddCalcu=c507e0f04f3f50464dfbddeabd6c2f28e592
 江苏卫视,http://106.53.99.30/tv/gdcucc.php?id=14
-江苏卫视,http://m.061899.xyz/mg/jsws$订阅源
 江苏卫视,http://36.36.200.196:44330/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 江苏卫视,http://111.221.137.155:44330/tsfile/live/0135_1.m3u8?key=txiptv$订阅源
 江苏卫视,http://61.136.172.236:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -390,9 +388,8 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 浙江卫视,http://106.53.99.30/tv/gdcucc.php?id=13
 浙江卫视,http://106.53.99.30/tv/gdcucc.php?id=56
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8$订阅源
-浙江卫视,http://m.061899.xyz/mg/zjws$订阅源
-浙江卫视,http://111.221.137.155:44330/tsfile/live/0131_1.m3u8?key=txiptv$订阅源
 浙江卫视,http://36.36.200.196:44330/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+浙江卫视,http://111.221.137.155:44330/tsfile/live/0131_1.m3u8?key=txiptv$订阅源
 浙江卫视,http://61.136.172.236:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv$自用源
 湖北卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225954/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -405,12 +402,12 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 湖北卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226713/1.m3u8
 湖北卫视,http://106.53.99.30/tv/jzb.php?id=hbws
 湖北卫视,http://106.53.99.30/tv/20250717.php?id=0035
-湖北卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=20251104200031323afb1f38e54b12906dd540715d92db&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20251104200031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.83&SecurityKey=20251104200031&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3883504edee72ba3e84023899b3a1618&ddCalcu=8318e680137a5030b49e9d8e3e27024b8ae3
+湖北卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=2025110422002577db87331d00419e980862665fe50242&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20251104220025&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.83&SecurityKey=20251104220025&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=91501fb840463fbeda9ec2c0c78e2110&ddCalcu=0911e150207e108f7bc804c024c6e39fabde
 湖北卫视,http://106.53.99.30/tv/gdcucc.php?id=18
 湖北卫视,http://106.53.99.30/tv/gdcucc.php?id=64
 湖北卫视,http://36.36.200.196:44330/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-湖北卫视,http://61.136.172.236:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 湖北卫视,http://111.221.137.155:44330/tsfile/live/0132_1.m3u8?key=txiptv$订阅源
+湖北卫视,http://61.136.172.236:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 黑龙江卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226019/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 黑龙江卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225734/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 黑龙江卫视,http://txfjyd.484947.xyz/PLTV/88888888/224/3221227197/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -423,9 +420,9 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 黑龙江卫视,http://106.53.99.30/tv/20250717.php?id=0043
 黑龙江卫视,http://106.53.99.30/tv/gdcucc.php?id=17
 黑龙江卫视,http://106.53.99.30/tv/gdcucc.php?id=66
+黑龙江卫视,http://111.221.137.155:44330/tsfile/live/0143_1.m3u8?key=txiptv$订阅源
 黑龙江卫视,http://36.36.200.196:44330/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-黑龙江卫视,http://111.221.137.155:44330/tsfile/live/0143_1.m3u8?key=txiptv$订阅源
 黑龙江卫视,http://111.43.126.240:9003/hls/6/index.m3u8$订阅源
 安徽卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225886/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 安徽卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225701/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -438,8 +435,8 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 安徽卫视,http://106.53.99.30/tv/20250717.php?id=0034
 安徽卫视,http://106.53.99.30/tv/gdcucc.php?id=24
 安徽卫视,http://106.53.99.30/tv/gdcucc.php?id=58
-安徽卫视,http://36.36.200.196:44330/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 安徽卫视,http://111.221.137.155:44330/tsfile/live/0120_1.m3u8?key=txiptv$订阅源
+安徽卫视,http://36.36.200.196:44330/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 重庆卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225898/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 重庆卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -451,10 +448,9 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 重庆卫视,http://106.53.99.30/tv/jzb.php?id=cqws
 重庆卫视,http://106.53.99.30/tv/20250717.php?id=0040
 重庆卫视,http://106.53.99.30/tv/gdcucc.php?id=23
-重庆卫视,http://m.061899.xyz/mg/cqws$订阅源
+重庆卫视,http://111.221.137.155:44330/tsfile/live/0142_1.m3u8?key=txiptv$订阅源
 重庆卫视,http://36.36.200.196:44330/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 重庆卫视,http://61.136.172.236:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-重庆卫视,http://111.221.137.155:44330/tsfile/live/0142_1.m3u8?key=txiptv$订阅源
 东方卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225942/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 东方卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225718/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 东方卫视,http://txfjyd.484947.xyz/PLTV/88888888/224/3221227059/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -467,6 +463,7 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 东方卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226734/1.m3u8
 东方卫视,http://106.53.99.30/tv/jzb.php?id=dfws
 东方卫视,http://106.53.99.30/tv/20250717.php?id=0026
+东方卫视,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=20251104220025f8182cdae1694bebabb9208e9984f824&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20251104220025&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.83&SecurityKey=20251104220025&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=dd99bc5cb603bb1f53dffd922b5dc637&ddCalcu=7d3de690c91db05cb52c2b96d0f3fbdb315f
 东方卫视,http://106.53.99.30/tv/gdcucc.php?id=21
 东方卫视,http://106.53.99.30/tv/gdcucc.php?id=57
 东方卫视,http://111.221.137.155:44330/tsfile/live/0107_1.m3u8?key=txiptv$订阅源
@@ -519,9 +516,8 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 海南卫视,http://cdn.jdshipin.com/jisu.php?id=hinws
 海南卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226679/1.m3u8
-海南卫视,http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20251104200031e0fb4630294f4a2fbf28fe703d76cf55&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20251104200031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.83&SecurityKey=20251104200031&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7bdbd61a38021cac9169a26072ce39d8&ddCalcu=87dbe9d03b7ed0c6217a036820a2916c1a9c
+海南卫视,http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=2025110422002571b5a14e3b004d169e59fa7282a52e42&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20251104220025&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.83&SecurityKey=20251104220025&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=424d373e59a8bb75d3ec0b577ed62972&ddCalcu=2472e9402d7630d7e37e7559ba08cbeb37d5
 海南卫视,http://106.53.99.30/tv/gdcucc.php?id=78
-海南卫视,http://m.061899.xyz/mg/hinws$订阅源
 河北卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225773/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 河北卫视,http://txfjyd.484947.xyz/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 河北卫视,https://shyd.484947.xyz/cms001/ch00000090990000001229/index.m3u8
@@ -540,9 +536,8 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 河南卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226668/1.m3u8
 河南卫视,http://106.53.99.30/tv/jzb.php?id=henws
 河南卫视,http://106.53.99.30/tv/20250717.php?id=0037
-河南卫视,http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=202511042000313eb0e8c4e0f74e1187a12e27af02a9a5&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251104200031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.13.250.83&SecurityKey=20251104200031&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=81ef3ed2cbca89840047bb632a0e7388&ddCalcu=8881e3e07f0e300ead223c6bbcba78490804
+河南卫视,http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=202511042200257164e078239c44c29d118b516986994a&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251104220025&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.13.250.83&SecurityKey=20251104220025&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2adee5d61cb35f456092a498dc26d592&ddCalcu=229ae5d0de06e025cdd6819c4ba3259f0465
 河南卫视,http://106.53.99.30/tv/gdcucc.php?id=69
-河南卫视,http://m.061899.xyz/mg/hnws$订阅源
 河南卫视,http://36.36.200.196:44330/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 河南卫视,http://111.221.137.155:44330/tsfile/live/0123_1.m3u8?key=txiptv$订阅源
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -554,7 +549,7 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 吉林卫视,http://cdn.jdshipin.com/jisu.php?id=jlws
 吉林卫视,http://106.53.99.30/tv/jzb.php?id=jlws
 吉林卫视,http://106.53.99.30/tv/20250717.php?id=0044
-吉林卫视,http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20251104200031992ff92c62aa466f992cad8247dcd419&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20251104200031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=106.13.250.83&SecurityKey=20251104200031&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b10690a167dac13938d22283b85a017e&ddCalcu=eb71e100067a90508ab136872d2a2cd18339
+吉林卫视,http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=2025110422002519f7eabc26eb49e99a743ac96fafaf11&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20251104220025&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=106.13.250.83&SecurityKey=20251104220025&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=191e7af2419d115c6b62b477c230e4c9&ddCalcu=91c9e410ee70703a2fc2747149bd2161b56c
 吉林卫视,http://106.53.99.30/tv/gdcucc.php?id=73
 吉林卫视,http://36.36.200.196:44330/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 吉林卫视,http://111.221.137.155:44330/tsfile/live/0017_1.m3u8?key=txiptv$订阅源
@@ -568,10 +563,10 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 江西卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226726/1.m3u8
 江西卫视,http://106.53.99.30/tv/jzb.php?id=jxws
 江西卫视,http://106.53.99.30/tv/20250717.php?id=0048
+江西卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=20251104220025aed8b949b7074c06947068fc66f450da&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20251104220025&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=106.13.250.83&SecurityKey=20251104220025&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e0bf09e6b934421c8c01b81bdf8a6329&ddCalcu=9e20e3b06f3a0089fed6bb1983b41402c18c
 江西卫视,http://106.53.99.30/tv/gdcucc.php?id=62
-江西卫视,http://m.061899.xyz/mg/jxws$订阅源
-江西卫视,http://36.36.200.196:44330/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 江西卫视,http://111.221.137.155:44330/tsfile/live/1019_1.m3u8?key=txiptv$订阅源
+江西卫视,http://36.36.200.196:44330/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 江西卫视,http://61.136.172.236:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 辽宁卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226007/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 辽宁卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225779/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -582,7 +577,7 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 辽宁卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226689/1.m3u8
 辽宁卫视,http://106.53.99.30/tv/jzb.php?id=lnws
 辽宁卫视,http://106.53.99.30/tv/20250717.php?id=0042
-辽宁卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=20251104200031111866180a574748925c3ccc5fb96ea8&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20251104200031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=106.13.250.83&SecurityKey=20251104200031&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=dcdb5088e85b06f4764f337d1700e368&ddCalcu=8d6ce3d0eb0050007818de78353bf0466f74
+辽宁卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=20251104220026bea32f23fa1043879e2904accdc4f748&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20251104220026&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=106.13.250.83&SecurityKey=20251104220026&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a4b721da5aafcab0ebd07f29c7d3f874&ddCalcu=4a74e8b0f70320d17dca952afa7f0cdabbe0
 辽宁卫视,http://106.53.99.30/tv/gdcucc.php?id=22
 辽宁卫视,http://106.53.99.30/tv/gdcucc.php?id=65
 辽宁卫视,http://36.36.200.196:44330/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
@@ -609,7 +604,7 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 青海卫视,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
 青海卫视,http://cdn.jdshipin.com/jisu.php?id=qhws
 青海卫视,http://106.53.99.30/tv/jzb.php?id=qhws
-青海卫视,http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=20251104200031be59f1a563b7406c81cfa3d8c4a6fdb9&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20251104200031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.83&SecurityKey=20251104200031&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9f91f68e0eb7d7796aa4487e13104644&ddCalcu=494fe6904170f016381ee07e8b474da7a769
+青海卫视,http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=202511042200256065ca05ebe54c28a13e76c7a34b500f&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20251104220025&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.83&SecurityKey=20251104220025&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f791b2b773f3c593b78baea43d4e770d&ddCalcu=df07e790717eb042db3747a3efa3bc8579b3
 青海卫视,http://106.53.99.30/tv/gdcucc.php?id=77
 青海卫视,http://111.43.126.240:9003/hls/59/index.m3u8$订阅源
 山东卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221226010/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -624,8 +619,8 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 山东卫视,http://106.53.99.30/tv/20250717.php?id=0031
 山东卫视,http://106.53.99.30/tv/gdcucc.php?id=20
 山东卫视,http://106.53.99.30/tv/gdcucc.php?id=61
-山东卫视,http://36.36.200.196:44330/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 山东卫视,http://111.221.137.155:44330/tsfile/live/0121_2.m3u8?key=txiptv$订阅源
+山东卫视,http://36.36.200.196:44330/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 山东卫视,http://61.136.172.236:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 山西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225785/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 山西卫视,http://txfjyd.484947.xyz/PLTV/88888888/224/3221227258/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -633,6 +628,7 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 山西卫视,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
 山西卫视,http://cdn.jdshipin.com/jisu.php?id=sxws
 山西卫视,http://106.53.99.30/tv/gdcucc.php?id=75
+山西卫视,http://111.48.34.138/000000001000PLTV/88888888/224/3221229721/1.m3u8$订阅源
 山西卫视,http://111.43.126.240:9003/hls/61/index.m3u8$订阅源
 陕西卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225754/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 陕西卫视,http://txfjyd.484947.xyz/PLTV/88888888/224/3221227221/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -642,9 +638,10 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 陕西卫视,http://cdn.jdshipin.com/jisu.php?id=snws
 陕西卫视,http://106.53.99.30/tv/jzb.php?id=sxws
 陕西卫视,http://106.53.99.30/tv/20250717.php?id=0046
+陕西卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=20251104220025b3928395997b4c62b173b8c170f8b839&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20251104220025&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=106.13.250.83&SecurityKey=20251104220025&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=48d58ea05cf1464ec453c093256691eb&ddCalcu=b4e8e1d09586806e5a20359c0fc1345644ce
 陕西卫视,http://106.53.99.30/tv/gdcucc.php?id=74
-陕西卫视,http://111.221.137.155:44330/tsfile/live/0114_1.m3u8?key=txiptv$订阅源
 陕西卫视,http://36.36.200.196:44330/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+陕西卫视,http://111.221.137.155:44330/tsfile/live/0114_1.m3u8?key=txiptv$订阅源
 陕西卫视,http://111.43.126.240:9003/hls/68/index.m3u8$订阅源
 四川卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225757/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 四川卫视,http://txfjyd.484947.xyz/PLTV/88888888/224/3221227182/index.m3u8?servicetype=1&IASHttpSessionId=OTT
@@ -669,8 +666,8 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 深圳卫视,http://106.53.99.30/tv/20250717.php?id=0033
 深圳卫视,http://106.53.99.30/tv/gdcucc.php?id=16
 深圳卫视,http://106.53.99.30/tv/gdcucc.php?id=63
-深圳卫视,http://36.36.200.196:44330/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 深圳卫视,http://111.221.137.155:44330/tsfile/live/1013_1.m3u8?key=txiptv$订阅源
+深圳卫视,http://36.36.200.196:44330/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 三沙卫视,http://txfjyd.484947.xyz/PLTV/88888888/224/3221227172/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 三沙卫视,https://shyd.484947.xyz/cms001/ch00000090990000001185/index.m3u8
@@ -685,8 +682,8 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 天津卫视,http://106.53.99.30/tv/20250717.php?id=0039
 天津卫视,http://106.53.99.30/tv/gdcucc.php?id=19
 天津卫视,http://106.53.99.30/tv/gdcucc.php?id=60
-天津卫视,http://36.36.200.196:44330/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 天津卫视,http://111.221.137.155:44330/tsfile/live/0132_2.m3u8?key=txiptv$订阅源
+天津卫视,http://36.36.200.196:44330/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 天津卫视,http://61.136.172.236:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 西藏卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225800/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 西藏卫视,http://gxyd.484947.xyz/PLTV/77777777/224/3221225828/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -726,12 +723,12 @@ CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8$订阅源
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$自用源
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4$自用源
 翡翠台,http://cdn.jdshipin.com/jisu.php?id=fct
-翡翠台,http://111.221.137.155:44330/tsfile/live/1021_1.m3u8?key=txiptv$订阅源
 翡翠台,http://36.36.200.196:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+翡翠台,http://111.221.137.155:44330/tsfile/live/1021_1.m3u8?key=txiptv$订阅源
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt$自用源
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$自用源
-明珠台,http://36.36.200.196:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 明珠台,http://111.221.137.155:44330/tsfile/live/0138_2.m3u8?key=txiptv$订阅源
+明珠台,http://36.36.200.196:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn$自用源
 TVB无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$自用源
 TVB无线新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee$自用源
@@ -770,7 +767,7 @@ CHC动作电影,http://111.43.126.240:9003/hls/75/index.m3u8$订阅源
 嘉佳卡通,http://txfjyd.484947.xyz/PLTV/88888888/224/3221227230/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 嘉佳卡通,https://shyd.484947.xyz/cms001/ch00000090990000001227/index.m3u8
 嘉佳卡通,https://zby.130519.xyz/PLTV/11/224/3221226021/index.m3u8
-嘉佳卡通,http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=202511042000379e9c5b38babf4ebc84ce19cdb6ac8ed3&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20251104200037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=106.13.250.83&SecurityKey=20251104200037&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=98473cbc4070084b39e866eb6f26431f&ddCalcu=f918e3404746302cfb6cb4e0676080e8943b
+嘉佳卡通,http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=202511042200314024b212f2cf4db7bd68018711b85ae9&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20251104220031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=106.13.250.83&SecurityKey=20251104220031&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f34bcd843dfae6f38d6626bfaaceb500&ddCalcu=0f03e540bb4ec0cda8a4f3bd6f2a6e66df83
 嘉佳卡通,http://106.53.99.30/tv/gdcucc.php?id=35
 嘉佳卡通,http://112.46.105.20:8009/hls/66/index.m3u8$订阅源
 黑莓动画,http://gxyd.484947.xyz/PLTV/77777777/224/3221225710/index.m3u8?servicetype=3&IASHttpSessionId=OTT
@@ -781,4 +778,4 @@ CHC动作电影,http://111.43.126.240:9003/hls/75/index.m3u8$订阅源
 黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8$订阅源
 
 🕘️更新时间,#genre#
-2025-11-04 21:05:20,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701$自用源
+2025-11-04 23:39:24,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701$自用源

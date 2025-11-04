@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251104130520 +0800">
+<tv date="20251104153924 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8003,6 +8003,9 @@
 	<programme channel="黑莓动画" start="20251104194000 +0800" stop="20251104210400 +0800">
 		<title lang="zh">绝代双骄之天外有天</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251104210400 +0800" stop="20251104222300 +0800">
+		<title lang="zh">哪吒之灵珠重生</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -8044,6 +8047,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251104190900 +0800" stop="20251104210400 +0800">
 		<title lang="zh">疯狂的外星人</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251104210400 +0800" stop="20251104223700 +0800">
+		<title lang="zh">感动她77次</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
