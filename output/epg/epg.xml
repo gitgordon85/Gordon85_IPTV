@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251105035744 +0800">
+<tv date="20251105064818 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6762,6 +6762,9 @@
 	<programme channel="黑莓动画" start="20251105095500 +0800" stop="20251105121000 +0800">
 		<title lang="zh">12_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251105121000 +0800" stop="20251105144000 +0800">
+		<title lang="zh">11_猪猪侠之光明守卫者（上部）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -6782,6 +6785,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251105084400 +0800" stop="20251105101800 +0800">
 		<title lang="zh">小杂工</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251105101800 +0800" stop="20251105121200 +0800">
+		<title lang="zh">航海王：红发歌姬</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251105121200 +0800" stop="20251105134000 +0800">
+		<title lang="zh">混世四猴：神猴归来</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251105134000 +0800" stop="20251105152100 +0800">
+		<title lang="zh">外来书记</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
