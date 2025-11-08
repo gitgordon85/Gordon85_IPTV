@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251108180418 +0800">
+<tv date="20251108184235 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6320,6 +6320,18 @@
 	</programme>
 	<programme channel="青海卫视" start="20251109234000 +0800" stop="20251109235900 +0800">
 		<title lang="zh">午夜剧场</title>
+	</programme>
+	<channel id="黑莓动画">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel>
+	<programme channel="黑莓动画" start="20251109001000 +0800" stop="20251109021700 +0800">
+		<title lang="zh">06_画江湖之不良人第七季：九幽玄天</title>
+	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20251109003400 +0800" stop="20251109021200 +0800">
+		<title lang="zh">玩火玩家</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
