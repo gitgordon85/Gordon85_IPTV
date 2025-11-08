@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251108125448 +0800">
+<tv date="20251108142944 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -4130,6 +4130,57 @@
 	</programme>
 	<programme channel="揭阳综合" start="20251108233000 +0800" stop="20251108235900 +0800">
 		<title lang="zh">闭台曲</title>
+	</programme>
+	<channel id="新片放映厅">
+		<display-name lang="zh">新片放映厅</display-name>
+	</channel>
+	<programme channel="新片放映厅" start="20251108000000 +0800" stop="20251108005500 +0800">
+		<title lang="zh">京都风云</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108005500 +0800" stop="20251108022600 +0800">
+		<title lang="zh">醉剑侠</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108022600 +0800" stop="20251108040800 +0800">
+		<title lang="zh">梦回金鸡岭</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108040800 +0800" stop="20251108054600 +0800">
+		<title lang="zh">此心安处是故乡</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108054600 +0800" stop="20251108072100 +0800">
+		<title lang="zh">冰下的鱼</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108072100 +0800" stop="20251108085100 +0800">
+		<title lang="zh">龙门飞雪：寻龙教</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108085100 +0800" stop="20251108102200 +0800">
+		<title lang="zh">浴血阻击</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108102200 +0800" stop="20251108115000 +0800">
+		<title lang="zh">无名刀</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108115000 +0800" stop="20251108132700 +0800">
+		<title lang="zh">缉仇</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108132700 +0800" stop="20251108145400 +0800">
+		<title lang="zh">最后一次审判</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108145400 +0800" stop="20251108161600 +0800">
+		<title lang="zh">密探之黑白局</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108161600 +0800" stop="20251108174700 +0800">
+		<title lang="zh">密使</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108174700 +0800" stop="20251108192100 +0800">
+		<title lang="zh">绝密追击</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108192100 +0800" stop="20251108205600 +0800">
+		<title lang="zh">突围</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108205600 +0800" stop="20251108230800 +0800">
+		<title lang="zh">陀螺女孩</title>
+	</programme>
+	<programme channel="新片放映厅" start="20251108230800 +0800" stop="20251108235900 +0800">
+		<title lang="zh">乌蒙奇缘</title>
 	</programme>
 	<channel id="新疆卫视">
 		<display-name lang="zh">新疆卫视</display-name>
