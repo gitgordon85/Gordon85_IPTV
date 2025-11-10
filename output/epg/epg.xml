@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251110131719 +0800">
+<tv date="20251110155025 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6813,6 +6813,9 @@
 	<programme channel="黑莓动画" start="20251110194600 +0800" stop="20251110210900 +0800">
 		<title lang="zh">01_小可爱娜斯佳第11季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251110210900 +0800" stop="20251110223100 +0800">
+		<title lang="zh">黑猫警长之翡翠之星</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -6848,6 +6851,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251110185800 +0800" stop="20251110203300 +0800">
 		<title lang="zh">精灵闺蜜</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251110203300 +0800" stop="20251110220900 +0800">
+		<title lang="zh">霓裳记</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
