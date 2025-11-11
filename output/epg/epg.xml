@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251111131507 +0800">
+<tv date="20251111155116 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6726,6 +6726,9 @@
 	<programme channel="黑莓动画" start="20251111175500 +0800" stop="20251111203100 +0800">
 		<title lang="zh">11_鱼群大暴走</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251111203100 +0800" stop="20251111220600 +0800">
+		<title lang="zh">哆啦A梦：伴我同行</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -6767,6 +6770,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251111195100 +0800" stop="20251111213200 +0800">
 		<title lang="zh">超能游戏者</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251111213200 +0800" stop="20251111000300 +0800">
+		<title lang="zh">聊斋：兰若寺</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
