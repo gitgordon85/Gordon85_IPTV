@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251112131748 +0800">
+<tv date="20251112155338 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6699,6 +6699,9 @@
 	<programme channel="黑莓动画" start="20251112192500 +0800" stop="20251112213500 +0800">
 		<title lang="zh">11_赛尔号合集</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251112213500 +0800" stop="20251112230700 +0800">
+		<title lang="zh">01_假面骑士艾克赛德 （普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -6737,6 +6740,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251112182600 +0800" stop="20251112201200 +0800">
 		<title lang="zh">解救吾先生</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251112201200 +0800" stop="20251112221700 +0800">
+		<title lang="zh">战国</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
