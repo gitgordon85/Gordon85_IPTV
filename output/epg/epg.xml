@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251114041146 +0800">
+<tv date="20251114070037 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6774,6 +6774,9 @@
 	<programme channel="黑莓动画" start="20251114095500 +0800" stop="20251114122500 +0800">
 		<title lang="zh">01_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251114122500 +0800" stop="20251114143700 +0800">
+		<title lang="zh">01_宇宙护卫队之超甲恐龙队第三季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -6794,6 +6797,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251114083300 +0800" stop="20251114101100 +0800">
 		<title lang="zh">假面骑士令和第一世代</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251114101100 +0800" stop="20251114113700 +0800">
+		<title lang="zh">让这首歌作证</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251114113700 +0800" stop="20251114130900 +0800">
+		<title lang="zh">仙剑奇侠传前传：酒剑仙</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251114130900 +0800" stop="20251114143500 +0800">
+		<title lang="zh">陈真之拳镇山河</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
