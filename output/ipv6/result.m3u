@@ -46,10 +46,6 @@ http://dslive.grtn.cn/jyzh/sd/live.m3u8$自用源
 #EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/揭阳综合.png" group-title="☘️广东频道",揭阳综合
 http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8$自用源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="📺央视频道",CCTV-1
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225934/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="📺央视频道",CCTV-1
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225654/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://58.19.180.108:9981/stream/channelid/1198995092?profile=pass
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://106.53.99.30/tv/api.php?id=cctv1
@@ -74,13 +70,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://106.53.99.30/tv/20250717.php?id=0001
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="📺央视频道",CCTV-1
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=20251116220030dd668ed615e0476a8df3d65e51d2729f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251116220030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.88&SecurityKey=20251116220030&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d3ac71786577d7e636ce0ac9f8258eb8&ddCalcu=8db3eea18c85702187f896c5a707edc76e36
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=20251117020029c31403a1ead644868b64a29ccb0da89b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20251117020029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=106.13.250.90&SecurityKey=20251117020029&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a6e5a763a1e3adcb5100b87df5a79690&ddCalcu=0a96e6e19587a0a756f3da718eb30a0d1c5b
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://live.chinacert.cftest5.cn/mg/?id=608807420
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="📺央视频道",CCTV-2
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225948/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="📺央视频道",CCTV-2
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225657/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="📺央视频道",CCTV-2
 http://58.19.180.108:9981/stream/channelid/980211261?profile=pass
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="📺央视频道",CCTV-2
@@ -100,13 +92,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv2
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="📺央视频道",CCTV-2
 http://106.53.99.30/tv/20250717.php?id=0002
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="📺央视频道",CCTV-2
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=202511162200305967dcb5b55b4d369785fb3b4cbc227d&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20251116220030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=106.13.250.88&SecurityKey=20251116220030&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=82f263a5c9d61ddd93b6d260d42ba933&ddCalcu=3832e9f1a21b60234ad50c692dd661bd3d9d
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/1500/index.m3u8?msisdn=202511170200293c2ec2e8bf38485a80d70554a3df5b7f&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20251117020029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=106.13.250.90&SecurityKey=20251117020029&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4373f4082d4bc868f0a085b088e9df32&ddCalcu=2433ef71d319f0e4808802bd548b0ca806f8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV2.png" group-title="📺央视频道",CCTV-2
 https://live.chinacert.cftest5.cn/mg/?id=631780532
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="📺央视频道",CCTV-3
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225916/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="📺央视频道",CCTV-3
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225713/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="📺央视频道",CCTV-3
 http://58.19.180.108:9981/stream/channelid/188040143?profile=pass
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="📺央视频道",CCTV-3
@@ -128,15 +116,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv3
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="📺央视频道",CCTV-3
 http://106.53.99.30/tv/20250717.php?id=0003
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="📺央视频道",CCTV-3
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=20251116220030128ea5b5d50f4d9fa4196b70ed4472b6&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20251116220030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=106.13.250.88&SecurityKey=20251116220030&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9b2d0d1beedd1628705adea1efbe562b&ddCalcu=b92be6215d4e00bdf1eb1eaeeddda1560278
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=202511170200293a20b3fc0f9e4012847a66cff322dad1&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20251117020029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=106.13.250.90&SecurityKey=20251117020029&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=cea1b973294f1fa19a2d9d21cdd48db8&ddCalcu=8cbeeda18144b0d9d7c31229d49fd12faa91
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV3.png" group-title="📺央视频道",CCTV-3
 https://live.chinacert.cftest5.cn/mg/?id=624878271
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225922/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225761/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4
-https://shyd.695847.xyz/cms001/ch00000090990000001221/index.m3u8?IAS
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://58.19.180.108:9981/stream/channelid/1411564127?profile=pass
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4
@@ -156,17 +138,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv4
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4
 http://106.53.99.30/tv/20250717.php?id=0004
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=20251116220030aa95d950539242c69772f2e29e2da8a8&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20251116220030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=106.13.250.88&SecurityKey=20251116220030&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d4c3b09a11bc764968497d78bd1e5896&ddCalcu=6d94e8c1531eb010d9ba8171db7c97468469
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?msisdn=2025111702002937508381b0d84828922d8ccfa190014b&mdspid=&spid=699004&netType=0&sid=5500346947&pid=2028597139&timestamp=20251117020029&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=631780421&ParentNodeID=-99&assertID=5500346947&client_ip=106.13.250.90&SecurityKey=20251117020029&promotionId=&mvid=5101064235&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e75f9d9a5cb2256600c11cd7d69e343b&ddCalcu=be37e4513f1e909d69da75dccb1212c50606
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV4.png" group-title="📺央视频道",CCTV-4
 https://live.chinacert.cftest5.cn/mg/?id=631780421
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225801/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225925/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225660/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="📺央视频道",CCTV-5
-https://shyd.695847.xyz/cms001/ch00000090990000001187/index.m3u8?IAS
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://58.19.180.108:9981/stream/channelid/908622330?profile=pass
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="📺央视频道",CCTV-5
@@ -188,13 +162,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv5
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="📺央视频道",CCTV-5
 http://106.53.99.30/tv/20250717.php?id=0005
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=20251116220030d3339517958f4d5fa9669c92844a6108&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20251116220030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.88&SecurityKey=20251116220030&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8a7d80989bb557097fb73006423e8a92&ddCalcu=289aea718d1e80302948690b0b3575b7f079
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=20251117020030a440378d5d5d46ae9cad7212468cf2c0&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20251117020030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=106.13.250.90&SecurityKey=20251117020030&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4a6362a7c2f2df977f543913f462bfb0&ddCalcu=04baef61b31260624af73c129f324d5ff977
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="📺央视频道",CCTV-5
 https://live.chinacert.cftest5.cn/mg/?id=641886683
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="📺央视频道",CCTV-5+
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225998/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="📺央视频道",CCTV-5+
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225712/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 http://58.19.180.108:9981/stream/channelid/1400754434?profile=pass
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="📺央视频道",CCTV-5+
@@ -208,13 +178,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv5plus
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 http://106.53.99.30/tv/20250717.php?id=0006
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="📺央视频道",CCTV-5+
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=20251116220030295211340dee42cabcac41b0534f7a14&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251116220030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.88&SecurityKey=20251116220030&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d33f5a8eafeab9f471d21860554d09a4&ddCalcu=4da3e9310f1d504a585e0a6f8e1a2bd91f74
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?msisdn=202511170200302203c18d8e224ec7bf61a1b573d76d72&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20251117020030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=106.13.250.90&SecurityKey=20251117020030&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=73d75029dcc4638d1ab39b85fb2ecb0b&ddCalcu=b703ebd1c71e5020b2f95d8cbc9436b3a81d
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5+.png" group-title="📺央视频道",CCTV-5+
 https://live.chinacert.cftest5.cn/mg/?id=641886773
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="📺央视频道",CCTV-6
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225936/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="📺央视频道",CCTV-6
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225715/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="📺央视频道",CCTV-6
 http://58.19.180.108:9981/stream/channelid/115694977?profile=pass
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="📺央视频道",CCTV-6
@@ -236,13 +202,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv6
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="📺央视频道",CCTV-6
 http://106.53.99.30/tv/20250717.php?id=0007
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="📺央视频道",CCTV-6
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=20251116220030f1187aa4771f458fbde5ca9a6668eb2c&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20251116220030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=106.13.250.88&SecurityKey=20251116220030&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=817d70ab17aba344041b6e9706f58b19&ddCalcu=9811eb718d4570f06a0b7197ea6bba134404
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?msisdn=202511170200303bbcb8eb8aee4270b524a73b50b49a78&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20251117020030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=106.13.250.90&SecurityKey=20251117020030&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=032e15fd840b82a60b237bd4e3855c4e&ddCalcu=e043ec215e4510853fed48d4b07b3822ba06
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="📺央视频道",CCTV-6
 https://live.chinacert.cftest5.cn/mg/?id=624878396
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="📺央视频道",CCTV-7
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225892/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="📺央视频道",CCTV-7
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225700/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="📺央视频道",CCTV-7
 http://58.19.180.108:9981/stream/channelid/499001205?profile=pass
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="📺央视频道",CCTV-7
@@ -266,10 +228,6 @@ http://106.53.99.30/tv/jzb.php?id=cctv7
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV7.png" group-title="📺央视频道",CCTV-7
 http://106.53.99.30/tv/20250717.php?id=0008
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="📺央视频道",CCTV-8
-http://gxyd.484947.xyz/PLTV/77777777/224/3221226001/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="📺央视频道",CCTV-8
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225716/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="📺央视频道",CCTV-8
 http://58.19.180.108:9981/stream/channelid/1123874386?profile=pass
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="📺央视频道",CCTV-8
 http://106.53.99.30/tv/api.php?id=cctv8
@@ -290,13 +248,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="📺央视频道",CCTV-8
 http://106.53.99.30/tv/20250717.php?id=0009
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="📺央视频道",CCTV-8
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=202511162200305e23974b1d6f43f3859703f750ba37fb&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20251116220030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=106.13.250.88&SecurityKey=20251116220030&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=79f65fb1b3973a51c1b1e1c9fe067ee6&ddCalcu=67e9eef17646500febf19bc319e713ba15c1
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=2025111702003060763beea7dd4b37bebae85a5b9926d3&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20251117020030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=106.13.250.90&SecurityKey=20251117020030&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=31c284c7f47b803b9a3a0b118a3167d0&ddCalcu=03d1e7c162418034ac871f14b70ba830a39b
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV8.png" group-title="📺央视频道",CCTV-8
 https://live.chinacert.cftest5.cn/mg/?id=624878356
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="📺央视频道",CCTV-9
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225939/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="📺央视频道",CCTV-9
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225663/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="📺央视频道",CCTV-9
 http://58.19.180.108:9981/stream/channelid/1681394297?profile=pass
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="📺央视频道",CCTV-9
@@ -314,13 +268,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv9
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="📺央视频道",CCTV-9
 http://106.53.99.30/tv/20250717.php?id=0010
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="📺央视频道",CCTV-9
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=202511162200304cb939f2aacd4fe6874068a67dd46953&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20251116220030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=106.13.250.88&SecurityKey=20251116220030&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5f2ac474dd7dcd246d86ef9312d7a798&ddCalcu=859fe721aa37c0d427143d9df7ed6c8dd264
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=20251117020030b66ef08524bf42558891782fe12cb8f8&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20251117020030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=106.13.250.90&SecurityKey=20251117020030&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=fa7a197ab55b4c9321a81189e00542b4&ddCalcu=4fbae2714a35100907ea9b85151b84ac1923
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV9.png" group-title="📺央视频道",CCTV-9
 https://live.chinacert.cftest5.cn/mg/?id=673168140
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="📺央视频道",CCTV-10
-http://gxyd.484947.xyz/PLTV/77777777/224/3221226004/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="📺央视频道",CCTV-10
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225704/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="📺央视频道",CCTV-10
 http://58.19.180.108:9981/stream/channelid/197590532?profile=pass
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="📺央视频道",CCTV-10
@@ -342,13 +292,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv10
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="📺央视频道",CCTV-10
 http://106.53.99.30/tv/20250717.php?id=0011
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="📺央视频道",CCTV-10
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=20251116220030c144470ac0b9468a8433d2c90e1a9a64&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20251116220030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=106.13.250.88&SecurityKey=20251116220030&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=04b13cc6f1d2c9f3fb377c22b650a62a&ddCalcu=a024e6b1a140305c6cb62f21cd727c39bff3
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?msisdn=2025111702003011b3bb3ec377473bbb4acb7a11a8e1d0&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20251117020030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=106.13.250.90&SecurityKey=20251117020030&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a74fa7dd1312236d934ceb664781fb4a&ddCalcu=aa47eb41ff41a0877d4d6163b1e2c243369d
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV10.png" group-title="📺央视频道",CCTV-10
 https://live.chinacert.cftest5.cn/mg/?id=624878405
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="📺央视频道",CCTV-11
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225895/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="📺央视频道",CCTV-11
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225739/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="📺央视频道",CCTV-11
 http://58.19.180.108:9981/stream/channelid/550290687?profile=pass
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="📺央视频道",CCTV-11
@@ -370,15 +316,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv11
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="📺央视频道",CCTV-11
 http://106.53.99.30/tv/20250717.php?id=0012
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="📺央视频道",CCTV-11
-http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=20251116220030c022715e386847e1aa4b56eca279ddeb&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20251116220030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.13.250.88&SecurityKey=20251116220030&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=0bf244adb9b81ca1db0e8f2b4ea971d0&ddCalcu=00dbe1f1727940a4ea4dbb29fb88e10cbad1
+http://gslbmgsplive.miguvideo.com/migu/kailu/cctv11hd/51/20200103/index.m3u8?msisdn=20251117020030fde1713825b041d8a2b8bf90cc590e0d&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20251117020030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=106.13.250.90&SecurityKey=20251117020030&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3a7a30e597fd99734d83c5c9a59e8c77&ddCalcu=737aec718a7e30905ea599c75fcd3989d743
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV11.png" group-title="📺央视频道",CCTV-11
 https://live.chinacert.cftest5.cn/mg/?id=667987558
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="📺央视频道",CCTV-12
-http://gxyd.484947.xyz/PLTV/77777777/224/3221226013/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="📺央视频道",CCTV-12
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225645/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="📺央视频道",CCTV-12
-https://shyd.695847.xyz/cms001/ch00000090990000001239/index.m3u8?IAS
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="📺央视频道",CCTV-12
 http://58.19.180.108:9981/stream/channelid/857624678?profile=pass
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="📺央视频道",CCTV-12
@@ -400,13 +340,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv12
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="📺央视频道",CCTV-12
 http://106.53.99.30/tv/20250717.php?id=0013
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="📺央视频道",CCTV-12
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=2025111622003178303caca604423e9dc2ce267f77d408&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20251116220031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=106.13.250.88&SecurityKey=20251116220031&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=850e33e3268577a36a42bb378cfded07&ddCalcu=7805ed01ee3d30f3ce837236b8b52747aa63
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/51/index.m3u8?msisdn=20251117020030e48798d1c7464edda3921a1973988490&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20251117020030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=106.13.250.90&SecurityKey=20251117020030&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=78489f7886ebf1d4d5212b42d4e63b30&ddCalcu=0738eb41383690ef47d82846be2b1f215dd4
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV12.png" group-title="📺央视频道",CCTV-12
 https://live.chinacert.cftest5.cn/mg/?id=673168185
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="📺央视频道",CCTV-13
-http://gxyd.484947.xyz/PLTV/77777777/224/3221226046/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="📺央视频道",CCTV-13
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225742/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="📺央视频道",CCTV-13
 http://58.19.180.108:9981/stream/channelid/876545399?profile=pass
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="📺央视频道",CCTV-13
@@ -422,15 +358,11 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226717/1.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="📺央视频道",CCTV-13
 http://106.53.99.30/tv/20250717.php?id=0014
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="📺央视频道",CCTV-13
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=20251116220031d1f0321b2c0c4422844360618f2e3d85&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20251116220031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.88&SecurityKey=20251116220031&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1d5df9d139c92d6f11795264a929143a&ddCalcu=a13de4511d89f0299da143692c59927d161f
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=2025111702003055cab29a8de24473a0fdc16421841eeb&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20251117020030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=106.13.250.90&SecurityKey=20251117020030&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=dad9f14997cfcd0eb9b92ab937f7f006&ddCalcu=6d0ae0d1f987f0f1743999b7ac2f9cbd90be
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="📺央视频道",CCTV-13
 https://live.chinacert.cftest5.cn/mg/?id=608807423
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV13.png" group-title="📺央视频道",CCTV-13
 http://106.53.99.30/tv/cctv13.php
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="📺央视频道",CCTV-14
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225901/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="📺央视频道",CCTV-14
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225648/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="📺央视频道",CCTV-14
 http://58.19.180.108:9981/stream/channelid/446310281?profile=pass
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="📺央视频道",CCTV-14
@@ -452,13 +384,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv14
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="📺央视频道",CCTV-14
 http://106.53.99.30/tv/20250717.php?id=0015
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="📺央视频道",CCTV-14
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=20251116220031cd0de99b17a848a282f4fb2b9e0fbe0a&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20251116220031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=106.13.250.88&SecurityKey=20251116220031&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=28ef4afcf1aea3aa29dfe7091af54674&ddCalcu=4278e6e14f4540faaf1c9f017aeefad39a2a
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?msisdn=202511170200303a448bf672b043b093091d688b326f99&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20251117020030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=106.13.250.90&SecurityKey=20251117020030&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d842f7ce8bd2062841c10fba19639d14&ddCalcu=4d18ed419243f0679c1ea8bbfd0210c61248
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV14.png" group-title="📺央视频道",CCTV-14
 https://live.chinacert.cftest5.cn/mg/?id=624878440
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="📺央视频道",CCTV-15
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225945/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="📺央视频道",CCTV-15
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225693/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="📺央视频道",CCTV-15
 http://106.53.99.30/tv/api.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="📺央视频道",CCTV-15
@@ -476,15 +404,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="📺央视频道",CCTV-15
 http://106.53.99.30/tv/20250717.php?id=0016
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="📺央视频道",CCTV-15
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=2025111622003127c74f9dca4b4a42b5a7838ffcc241f2&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20251116220031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=106.13.250.88&SecurityKey=20251116220031&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=b7d569a45adf1eb840a08bc6020f8a37&ddCalcu=7b37ead1853f60092a0465cabd8f01ae0b48
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?msisdn=202511170200302a183f27fea743b0a4481b14b1947834&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20251117020030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=106.13.250.90&SecurityKey=20251117020030&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9075da6dc075de80a220cb30ff065bf8&ddCalcu=89f0eb715536d00af6fd0c30b7c50d2e28a0
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV15.png" group-title="📺央视频道",CCTV-15
 https://live.chinacert.cftest5.cn/mg/?id=673168223
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="📺央视频道",CCTV-16
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225937/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="📺央视频道",CCTV-16
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225956/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="📺央视频道",CCTV-16
-https://shyd.695847.xyz/cms001/ch00000090990000001248/index.m3u8?IAS
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="📺央视频道",CCTV-16
 http://106.53.99.30/tv/api.php?id=cctv16
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="📺央视频道",CCTV-16
@@ -500,12 +422,6 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV16.png" group-title="📺央视频道",CCTV-16
 http://106.53.99.30/tv/20250717.php?id=0017
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="📺央视频道",CCTV-17
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225910/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="📺央视频道",CCTV-17
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225766/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="📺央视频道",CCTV-17
-https://shyd.695847.xyz/cms001/ch00000090990000001241/index.m3u8?IAS
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="📺央视频道",CCTV-17
 http://106.53.99.30/tv/api.php?id=cctv17
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="📺央视频道",CCTV-17
 http://go.bkpcp.top/mg/cctv17
@@ -520,13 +436,9 @@ http://106.53.99.30/tv/jzb.php?id=cctv17
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="📺央视频道",CCTV-17
 http://106.53.99.30/tv/20250717.php?id=0018
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="📺央视频道",CCTV-17
-http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=20251116220031c8539e670eab484a848a25799bc95142&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20251116220031&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=106.13.250.88&SecurityKey=20251116220031&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a1cf36ffb2820ab87c17fffd12db0029&ddCalcu=9a21e0c10f3b30d62f1fdbf2f8f2701acb78
+http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msisdn=202511170200309f376a4db4b9494ab925d3e5b01323ef&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20251117020030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=106.13.250.90&SecurityKey=20251117020030&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=95d2acc8cac1490896a94981395646d8&ddCalcu=89d5e6d14236a05c9c381c8a9c4194a96098
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV17.png" group-title="📺央视频道",CCTV-17
 https://live.chinacert.cftest5.cn/mg/?id=673168256
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV1.png" group-title="📺央视频道",CETV-1
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225776/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV1.png" group-title="📺央视频道",CETV-1
-https://shyd.695847.xyz/cms001/ch00000090990000001020/index.m3u8?IAS
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV1.png" group-title="📺央视频道",CETV-1
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226712/1.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV1.png" group-title="📺央视频道",CETV-1
@@ -534,13 +446,11 @@ http://iptv.666230.xyz/iptv/sxg.php/CETV-1H264_4000
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV1.png" group-title="📺央视频道",CETV-1
 https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV1.png" group-title="📺央视频道",CETV-1
-http://gslbmgsplive.miguvideo.com/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=20251116220036e65e6940e691487a920cbf0a88e7cf20&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20251116220036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=106.13.250.88&SecurityKey=20251116220036&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=85e29f14ab73efb0a163ba0c9d1ef08e&ddCalcu=e885e0e1f23e901fd194ca0ba7b33e6f1ba0
+http://gslbmgsplive.miguvideo.com/migu/kailu/cetv1/51/20240709/index.m3u8?msisdn=202511170200381a5493f769124cabb09f1a3403609a84&mdspid=&spid=699004&netType=0&sid=5910022150&pid=2028597139&timestamp=20251117020038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287154&ParentNodeID=-99&assertID=5910022150&client_ip=106.13.250.90&SecurityKey=20251117020038&promotionId=&mvid=5900006636&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=904997dfd62104b5e21b26cbae6e0d50&ddCalcu=0950ed41093e9067edafbdc66221b0142be5
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV1.png" group-title="📺央视频道",CETV-1
 http://106.53.99.30/tv/gdcucc.php?id=87
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV1.png" group-title="📺央视频道",CETV-1
 https://live.chinacert.cftest5.cn/mg/?id=923287154
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV2.png" group-title="📺央视频道",CETV-2
-https://shyd.695847.xyz/cms001/ch00000090990000001226/index.m3u8?IAS
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV2.png" group-title="📺央视频道",CETV-2
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226718/1.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV2.png" group-title="📺央视频道",CETV-2
@@ -548,13 +458,11 @@ http://iptv.666230.xyz/iptv/sxg.php/CETV-2_4000
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV2.png" group-title="📺央视频道",CETV-2
 http://106.53.99.30/tv/20250717.php?id=0057
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV2.png" group-title="📺央视频道",CETV-2
-http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=20251116220036c4bd61cdd8d44047b02b423d100927d2&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20251116220036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.88&SecurityKey=20251116220036&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=877ccdece9ebeb69e2a70938a4ecb966&ddCalcu=6867e971bc3cc0ed4eac8e399e0b7eab26e9
+http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=202511170200383f483f25fa7d43d7bfcbcde7eca3062e&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20251117020038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=106.13.250.90&SecurityKey=20251117020038&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=466b75b7c956ae408ea4a91d89afe6f2&ddCalcu=24f6e661eb3f70a59b87dc1995a64aaee480
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV2.png" group-title="📺央视频道",CETV-2
 https://live.chinacert.cftest5.cn/mg/?id=923287211
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV3.png" group-title="📺央视频道",CETV-3
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226722/1.m3u8
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV4.png" group-title="📺央视频道",CETV-4
-https://shyd.695847.xyz/cms001/ch00000090990000001348/index.m3u8?IAS
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV4.png" group-title="📺央视频道",CETV-4
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226724/1.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV4.png" group-title="📺央视频道",CETV-4
@@ -566,13 +474,9 @@ https://zby.130519.xyz/PLTV/11/224/3221226069/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV4.png" group-title="📺央视频道",CETV-4
 http://106.53.99.30/tv/20250717.php?id=0058
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV4.png" group-title="📺央视频道",CETV-4
-http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=202511162200369e2eb66f24804581944ea62487ba6531&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20251116220036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=106.13.250.88&SecurityKey=20251116220036&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=aa63b3add284254c814ce23ec6f9387a&ddCalcu=aa7ae8613339b0f36acded3228e4c245148c
+http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=20251117020038a9f2e2d301554dad89400aad80a5b77c&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20251117020038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=106.13.250.90&SecurityKey=20251117020038&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4fcc8dcb958e9af4906466bd5bd9008f&ddCalcu=f48fe0c10c3980ddbc5bd9b5686e496a0f94
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CETV4.png" group-title="📺央视频道",CETV-4
 https://live.chinacert.cftest5.cn/mg/?id=923287339
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="📡卫视频道",广东卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225913/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="📡卫视频道",广东卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225666/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://106.53.99.30/tv/api.php?id=gdws
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="📡卫视频道",广东卫视
@@ -588,17 +492,11 @@ http://106.53.99.30/tv/jzb.php?id=gdws
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://106.53.99.30/tv/20250717.php?id=0030
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="📡卫视频道",广东卫视
-http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=2025111622003292949ec45ab944699400751c977ff0fb&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20251116220032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.88&SecurityKey=20251116220032&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=99d318222c2ae39248cd26fcb430c9e6&ddCalcu=69e9e9d1c380103842b2c2fc622adec38942
+http://gslbmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20251117020032a3faff32cb3649c0a06c279f14731ebf&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20251117020032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=106.13.250.90&SecurityKey=20251117020032&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2e3ff43f1f90ae60f6cd0ce98c5e493c&ddCalcu=c23ee9314f8ef054c38f91efc900dace66f0
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://106.53.99.30/tv/gdcucc.php?id=27
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广东卫视.png" group-title="📡卫视频道",广东卫视
 https://live.chinacert.cftest5.cn/mg/?id=608831231
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="📡卫视频道",北京卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225889/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="📡卫视频道",北京卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225651/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="📡卫视频道",北京卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001029/index.m3u8?IAS
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://106.53.99.30/tv/api.php?id=bjws
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="📡卫视频道",北京卫视
@@ -622,12 +520,6 @@ http://106.53.99.30/tv/gdcucc.php?id=59
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/北京卫视.png" group-title="📡卫视频道",北京卫视
 https://live.chinacert.cftest5.cn/zgst/?id=beijing
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225919/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225719/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="📡卫视频道",湖南卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001026/index.m3u8?IAS
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://go.bkpcp.top/mg/hunws
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://iptv.666230.xyz/iptv/sxg.php/hnwsH265_4000
@@ -650,12 +542,6 @@ https://live.chinacert.cftest5.cn/zgst/?id=hunan
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://106.53.99.30/tv/api.php?id=hnws4k
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="📡卫视频道",江苏卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221226025/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="📡卫视频道",江苏卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225722/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="📡卫视频道",江苏卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001033/index.m3u8?IAS
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://106.53.99.30/tv/api.php?id=jsws
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://go.bkpcp.top/mg/jsws
@@ -672,17 +558,11 @@ http://106.53.99.30/tv/jzb.php?id=jsws
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://106.53.99.30/tv/20250717.php?id=0029
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="📡卫视频道",江苏卫视
-http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=202511162200321b95c69c62354716bfe50659ac5db0bf&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20251116220032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.88&SecurityKey=20251116220032&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e7b71695e3174b90df390da155254306&ddCalcu=6e07e3b14735102659551ea3d107943bf9d0
+http://gslbmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/1200/index.m3u8?msisdn=202511170200321849604c671341be84695849425cc503&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20251117020032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=106.13.250.90&SecurityKey=20251117020032&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=dd8475c014fe8f95dbcff723f7709cbf&ddCalcu=fdbdec81943070757cf031247ffef8cfb9d5
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://106.53.99.30/tv/gdcucc.php?id=14
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 https://live.chinacert.cftest5.cn/mg/?id=623899368
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225928/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225731/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001023/index.m3u8?IAS
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://106.53.99.30/tv/api.php?id=zjws
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png" group-title="📡卫视频道",浙江卫视
@@ -706,12 +586,6 @@ https://live.chinacert.cftest5.cn/zgst/?id=zhejiang
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/香港卫视.png" group-title="📡卫视频道",香港卫视
 http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv$自用源
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="📡卫视频道",湖北卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225954/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="📡卫视频道",湖北卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225721/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="📡卫视频道",湖北卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001027/index.m3u8?IAS
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://go.bkpcp.top/mg/hubws
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://iptv.666230.xyz/iptv/sxg.php/hbwsH265_4000
@@ -726,19 +600,13 @@ http://106.53.99.30/tv/jzb.php?id=hbws
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://106.53.99.30/tv/20250717.php?id=0035
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="📡卫视频道",湖北卫视
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=202511162200339a77a2a32d0e4ae1b4a4ce3a6db619f8&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20251116220033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.88&SecurityKey=20251116220033&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=eed62b84d1467faafb0d5b3e89304492&ddCalcu=2e9ee4d14670203b9884ed31b456d70fbafa
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?msisdn=2025111702003338200bc69850414492862c1014fa302e&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20251117020033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=106.13.250.90&SecurityKey=20251117020033&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=84636f80c79cadf701f6e458d75ea867&ddCalcu=7864e861a37e605f78d08c5749ec6afd1f07
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://106.53.99.30/tv/gdcucc.php?id=18
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 http://106.53.99.30/tv/gdcucc.php?id=64
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/湖北卫视.png" group-title="📡卫视频道",湖北卫视
 https://live.chinacert.cftest5.cn/mg/?id=947472496
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221226019/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225734/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001031/index.m3u8?IAS
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://go.bkpcp.top/mg/hljws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
@@ -760,12 +628,6 @@ http://106.53.99.30/tv/gdcucc.php?id=66
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 https://live.chinacert.cftest5.cn/zgst/?id=heilongjiang
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽卫视.png" group-title="📡卫视频道",安徽卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225886/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽卫视.png" group-title="📡卫视频道",安徽卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225701/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽卫视.png" group-title="📡卫视频道",安徽卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001037/index.m3u8?IAS
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 http://iptv.666230.xyz/iptv/sxg.php/ahwsH265_4000
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
@@ -784,12 +646,6 @@ http://106.53.99.30/tv/gdcucc.php?id=58
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/安徽卫视.png" group-title="📡卫视频道",安徽卫视
 https://live.chinacert.cftest5.cn/zgst/?id=anhui
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重庆卫视.png" group-title="📡卫视频道",重庆卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225898/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重庆卫视.png" group-title="📡卫视频道",重庆卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225745/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重庆卫视.png" group-title="📡卫视频道",重庆卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001129/index.m3u8?IAS
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://iptv.666230.xyz/iptv/sxg.php/cqwsH265_4000
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
@@ -805,12 +661,6 @@ http://106.53.99.30/tv/20250717.php?id=0040
 http://106.53.99.30/tv/gdcucc.php?id=23
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 https://live.chinacert.cftest5.cn/zgst/?id=chongqing
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225942/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225718/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001013/index.m3u8?IAS
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://106.53.99.30/tv/api.php?id=dfws
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
@@ -832,17 +682,13 @@ http://106.53.99.30/tv/jzb.php?id=dfws
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://106.53.99.30/tv/20250717.php?id=0026
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
-http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=20251116220032cdaa78a5e0a441cda37f90bc9d157603&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20251116220032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.88&SecurityKey=20251116220032&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f3c898c3c14cfb54ccfc01ad187b72dd&ddCalcu=dfd3e2c1781b90788c13dca1140ccffbc5c4
+http://gslbmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/index.m3u8?msisdn=2025111702003294601bdd163f4eb0889bad5f352c5fe9&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20251117020032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=106.13.250.90&SecurityKey=20251117020032&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f339135c621040dc5680ea46dded37ab&ddCalcu=bfa3e731391d10e3d5dc6642a1e004806d5c
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://106.53.99.30/tv/gdcucc.php?id=21
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
 http://106.53.99.30/tv/gdcucc.php?id=57
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东方卫视.png" group-title="📡卫视频道",东方卫视
 https://live.chinacert.cftest5.cn/mg/?id=651632648
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东南卫视.png" group-title="📡卫视频道",东南卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225904/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东南卫视.png" group-title="📡卫视频道",东南卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001201/index.m3u8?IAS
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东南卫视.png" group-title="📡卫视频道",东南卫视
 http://iptv.666230.xyz/iptv/sxg.php/dnwsfjwsH265_4000
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东南卫视.png" group-title="📡卫视频道",东南卫视
@@ -856,15 +702,11 @@ http://106.53.99.30/tv/jzb.php?id=dnws
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东南卫视.png" group-title="📡卫视频道",东南卫视
 http://106.53.99.30/tv/20250717.php?id=0032
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东南卫视.png" group-title="📡卫视频道",东南卫视
-http://gslbmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=202511162200335e7173f26d4340b9b30265e460115f1f&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20251116220033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=106.13.250.88&SecurityKey=20251116220033&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=7f2c187fe9940e11cc6d30fe700ecc2e&ddCalcu=e72fec21cc9e1008077feef90934d06ec1c1
+http://gslbmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/index.m3u8?msisdn=2025111702003335f34f1a8f7a46ccab35e05518e40b4c&mdspid=&spid=600717&netType=0&sid=5910022182&pid=2028597139&timestamp=20251117020033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=849116810&ParentNodeID=-99&assertID=5910022182&client_ip=106.13.250.90&SecurityKey=20251117020033&promotionId=&mvid=5900006229&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=eaeabbc4dc697ba50b3f02ce9c8aefc2&ddCalcu=2ecaefe1ea9ab08bcc94edcc2609f73bba05
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东南卫视.png" group-title="📡卫视频道",东南卫视
 http://106.53.99.30/tv/gdcucc.php?id=71
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/东南卫视.png" group-title="📡卫视频道",东南卫视
 https://live.chinacert.cftest5.cn/mg/?id=849116810
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225764/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001298/index.m3u8?IAS
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 http://iptv.666230.xyz/iptv/sxg.php/gsws_4000
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
@@ -877,10 +719,6 @@ http://106.53.99.30/tv/jzb.php?id=gsws
 http://106.53.99.30/tv/20250717.php?id=0051
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 http://106.53.99.30/tv/gdcucc.php?id=82
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西卫视.png" group-title="📡卫视频道",广西卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225767/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西卫视.png" group-title="📡卫视频道",广西卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001224/index.m3u8?IAS
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://iptv.666230.xyz/iptv/sxg.php/gxws_4000
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西卫视.png" group-title="📡卫视频道",广西卫视
@@ -897,10 +735,6 @@ http://106.53.99.30/tv/20250717.php?id=0047
 http://106.53.99.30/tv/gdcucc.php?id=72
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/广西卫视.png" group-title="📡卫视频道",广西卫视
 https://live.chinacert.cftest5.cn/zgst/?id=guangxi
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/贵州卫视.png" group-title="📡卫视频道",贵州卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225770/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/贵州卫视.png" group-title="📡卫视频道",贵州卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001184/index.m3u8?IAS
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 http://iptv.666230.xyz/iptv/sxg.php/gzwsH265_4000
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/贵州卫视.png" group-title="📡卫视频道",贵州卫视
@@ -920,10 +754,6 @@ http://106.53.99.30/tv/gdcucc.php?id=67
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 https://live.chinacert.cftest5.cn/zgst/?id=guizhou
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南卫视.png" group-title="📡卫视频道",海南卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225752/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南卫视.png" group-title="📡卫视频道",海南卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001183/index.m3u8?IAS
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://106.53.99.30/tv/api.php?id=hinws
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://go.bkpcp.top/mg/hinws
@@ -940,15 +770,11 @@ http://106.53.99.30/tv/jzb.php?id=hainws
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://106.53.99.30/tv/20250717.php?id=0041
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南卫视.png" group-title="📡卫视频道",海南卫视
-http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=20251116220033f314e9861a9c4cd0a72b93a5c9993155&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20251116220033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.88&SecurityKey=20251116220033&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3aaa637b786dd3a2ac9f5c00a52dceaa&ddCalcu=a3aaeea1ca7d602357ab0708c65dfd93caa2
+http://gslbmgsplive.miguvideo.com/envivo_x/SD/lvyou/711/index.m3u8?msisdn=2025111702003311d4c9e1d7e84652acfed51d4227090b&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20251117020033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=106.13.250.90&SecurityKey=20251117020033&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9ba456ac44aa0d9f78136bbdac976a41&ddCalcu=194beaa164775096caacd4b4ba6a301d897f
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://106.53.99.30/tv/gdcucc.php?id=78
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/海南卫视.png" group-title="📡卫视频道",海南卫视
 https://live.chinacert.cftest5.cn/mg/?id=947472502
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河北卫视.png" group-title="📡卫视频道",河北卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225773/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河北卫视.png" group-title="📡卫视频道",河北卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001229/index.m3u8?IAS
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://106.53.99.30/tv/api.php?id=hebws
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河北卫视.png" group-title="📡卫视频道",河北卫视
@@ -963,10 +789,6 @@ http://106.53.99.30/tv/jzb.php?id=hebiws
 http://106.53.99.30/tv/20250717.php?id=0036
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河北卫视.png" group-title="📡卫视频道",河北卫视
 https://live.chinacert.cftest5.cn/zgst/?id=hebei
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225806/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南卫视.png" group-title="📡卫视频道",河南卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001222/index.m3u8?IAS
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://106.53.99.30/tv/api.php?id=henws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -984,15 +806,11 @@ http://106.53.99.30/tv/jzb.php?id=henws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://106.53.99.30/tv/20250717.php?id=0037
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=202511162200323935c8e4fd7945a385447854f672d95a&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251116220032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.13.250.88&SecurityKey=20251116220032&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ce94173e77514c3bff0b87b7beb05fd9&ddCalcu=9cdeef91540010b7e3be77b77581b40cf3fb
+http://gslbmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?msisdn=20251117020032d756782e1a384f928bb3250e1651b132&mdspid=&spid=600633&netType=0&sid=5910021585&pid=2028597139&timestamp=20251117020032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=790187291&ParentNodeID=-99&assertID=5910021585&client_ip=106.13.250.90&SecurityKey=20251117020032&promotionId=&mvid=5900005706&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=4f03822a24ded489f5908d86da963e50&ddCalcu=045fee0133068092a2da6284dd8e0d9458f9
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://106.53.99.30/tv/gdcucc.php?id=69
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/河南卫视.png" group-title="📡卫视频道",河南卫视
 https://live.chinacert.cftest5.cn/mg/?id=790187291
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林卫视.png" group-title="📡卫视频道",吉林卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225678/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林卫视.png" group-title="📡卫视频道",吉林卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001225/index.m3u8?IAS
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://106.53.99.30/tv/api.php?id=jlws
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林卫视.png" group-title="📡卫视频道",吉林卫视
@@ -1008,15 +826,11 @@ http://106.53.99.30/tv/jzb.php?id=jlws
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://106.53.99.30/tv/20250717.php?id=0044
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林卫视.png" group-title="📡卫视频道",吉林卫视
-http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20251116220033bf3b7212c2a24900845ff5ed5538958d&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20251116220033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=106.13.250.88&SecurityKey=20251116220033&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=c9c65e8e684a7e72b634e06d19f082be&ddCalcu=ecb9e2c1867050fe981ed66804ea473e67b2
+http://gslbmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/index.m3u8?msisdn=20251117020033cf5a14ebacb6477a8d316fd3175de6f3&mdspid=&spid=600633&netType=0&sid=5910022164&pid=2028597139&timestamp=20251117020033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472500&ParentNodeID=-99&assertID=5910022164&client_ip=106.13.250.90&SecurityKey=20251117020033&promotionId=&mvid=5900004357&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=df1c2941a03d47c5426ba23de590fad5&ddCalcu=5ddfea11fc70209954e1da3023adb4672c45
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://106.53.99.30/tv/gdcucc.php?id=73
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 https://live.chinacert.cftest5.cn/mg/?id=947472500
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="📡卫视频道",江西卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225957/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="📡卫视频道",江西卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001034/index.m3u8?IAS
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://go.bkpcp.top/mg/jxws
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="📡卫视频道",江西卫视
@@ -1032,17 +846,11 @@ http://106.53.99.30/tv/jzb.php?id=jxws
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://106.53.99.30/tv/20250717.php?id=0048
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="📡卫视频道",江西卫视
-http://gslbmgsplive.miguvideo.com/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=2025111622003228df87f49e7342dba209ee3523c38c78&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20251116220032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=106.13.250.88&SecurityKey=20251116220032&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8388a704ef2465909a6af4b1de5f5ab9&ddCalcu=98b3ea81583fa057e0d41ebf42f4a665a990
+http://gslbmgsplive.miguvideo.com/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=2025111702003216b08aa1edcb4966877b33dd6fae9f1d&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20251117020032&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=106.13.250.90&SecurityKey=20251117020032&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=dd7b09b4d4cc6c287a5f81e204d68de1&ddCalcu=1deded718b3600d94b042de41c8cf65ca278
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://106.53.99.30/tv/gdcucc.php?id=62
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/江西卫视.png" group-title="📡卫视频道",江西卫视
 https://live.chinacert.cftest5.cn/mg/?id=783847495
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221226007/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225779/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001035/index.m3u8?IAS
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://106.53.99.30/tv/api.php?id=lnws
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
@@ -1058,17 +866,13 @@ http://106.53.99.30/tv/jzb.php?id=lnws
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://106.53.99.30/tv/20250717.php?id=0042
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=20251116220033d3a69640c911410f8f6233eeb9c8bd8c&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20251116220033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=106.13.250.88&SecurityKey=20251116220033&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=494a4d3fb5f43cf962c0e6047112fbdb&ddCalcu=b4d9eb41fa02401d137f4b056fe403cc2f69
+http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=202511170200330c915237f84a41298ed28bd835f799ac&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20251117020033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=106.13.250.90&SecurityKey=20251117020033&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5687eafbc027487557801ee3cf86b99b&ddCalcu=b596e981b706e08affcb3ce0e21704887755
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://106.53.99.30/tv/gdcucc.php?id=22
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://106.53.99.30/tv/gdcucc.php?id=65
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 https://live.chinacert.cftest5.cn/mg/?id=630291707
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225751/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001068/index.m3u8?IAS
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 http://106.53.99.30/tv/api.php?id=nmgws
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
@@ -1084,21 +888,13 @@ http://106.53.99.30/tv/gdcucc.php?id=76
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 https://live.chinacert.cftest5.cn/zgst/?id=neimenggu
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225782/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001074/index.m3u8?IAS
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 https://zby.130519.xyz/PLTV/11/224/3221226092/index.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 http://cdn.jdshipin.com/jisu.php?id=nxws
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
-http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=202511162200335a4de20666904dd789258759943ffe37&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20251116220033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=106.13.250.88&SecurityKey=20251116220033&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6a7eeae3548e35543d28e525234b4ba4&ddCalcu=46aaeb714e8be04a3e23552458ee8325d534
+http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=20251117020033e7e7c3f643874dd699e88654b80637f0&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20251117020033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=106.13.250.90&SecurityKey=20251117020033&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=fcfe32ebcb87c807aee1336a2f12a33d&ddCalcu=df3ce3f1ae823012fe2bac6b38371ce8e0a7
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 http://106.53.99.30/tv/gdcucc.php?id=79
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/青海卫视.png" group-title="📡卫视频道",青海卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225705/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/青海卫视.png" group-title="📡卫视频道",青海卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001450/index.m3u8?IAS
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/青海卫视.png" group-title="📡卫视频道",青海卫视
 http://iptv.666230.xyz/iptv/sxg.php/qhwsH264_2000
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/青海卫视.png" group-title="📡卫视频道",青海卫视
@@ -1108,17 +904,11 @@ http://cdn.jdshipin.com/jisu.php?id=qhws
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/青海卫视.png" group-title="📡卫视频道",青海卫视
 http://106.53.99.30/tv/jzb.php?id=qhws
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/青海卫视.png" group-title="📡卫视频道",青海卫视
-http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=20251116220033b1415cb0d151414ead8cefd33d43f557&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20251116220033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.88&SecurityKey=20251116220033&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f79569c5671e4f6cd1f00f5164e63171&ddCalcu=1f77e191357660e94c651657f10e04ff16dc
+http://gslbmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=20251117020033ab1974ad4d00413fb4ab7fb12a142f7d&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20251117020033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=106.13.250.90&SecurityKey=20251117020033&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=cf04f3d90bf777e7c4622faf75ce63a3&ddCalcu=3cafe301647ef0c35d79f0abff2727674ec7
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/青海卫视.png" group-title="📡卫视频道",青海卫视
 http://106.53.99.30/tv/gdcucc.php?id=77
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/青海卫视.png" group-title="📡卫视频道",青海卫视
 https://live.chinacert.cftest5.cn/mg/?id=947472506
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东卫视.png" group-title="📡卫视频道",山东卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221226010/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东卫视.png" group-title="📡卫视频道",山东卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225672/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东卫视.png" group-title="📡卫视频道",山东卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001028/index.m3u8?IAS
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东卫视.png" group-title="📡卫视频道",山东卫视
 http://go.bkpcp.top/mg/sdws
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东卫视.png" group-title="📡卫视频道",山东卫视
@@ -1140,10 +930,6 @@ http://106.53.99.30/tv/gdcucc.php?id=61
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山东卫视.png" group-title="📡卫视频道",山东卫视
 https://live.chinacert.cftest5.cn/zgst/?id=shandong
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山西卫视.png" group-title="📡卫视频道",山西卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225785/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山西卫视.png" group-title="📡卫视频道",山西卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001070/index.m3u8?IAS
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山西卫视.png" group-title="📡卫视频道",山西卫视
 http://106.53.99.30/tv/api.php?id=sxws
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山西卫视.png" group-title="📡卫视频道",山西卫视
 http://iptv.666230.xyz/iptv/sxg.php/sxws42_4000
@@ -1160,10 +946,6 @@ http://106.53.99.30/tv/gdcucc.php?id=75
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/山西卫视.png" group-title="📡卫视频道",山西卫视
 https://live.chinacert.cftest5.cn/zgst/?id=shanxi
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/陕西卫视.png" group-title="📡卫视频道",陕西卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225754/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/陕西卫视.png" group-title="📡卫视频道",陕西卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001067/index.m3u8?IAS
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://go.bkpcp.top/mg/sxws
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://iptv.666230.xyz/iptv/sxg.php/sxws_4000
@@ -1176,15 +958,11 @@ http://106.53.99.30/tv/jzb.php?id=sxws
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://106.53.99.30/tv/20250717.php?id=0046
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/陕西卫视.png" group-title="📡卫视频道",陕西卫视
-http://gslbmgsplive.miguvideo.com/migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=20251116220033ee563dc218d945e987fac9af52f4519a&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20251116220033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=106.13.250.88&SecurityKey=20251116220033&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=63f18a8c6b6ff616bf2699e43bfbbf99&ddCalcu=9693eff1b18b80fab83c46eb969f6f26f1b6
+http://gslbmgsplive.miguvideo.com/migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=20251117020033cbf615190c70471b97bb807b20b307a9&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20251117020033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=106.13.250.90&SecurityKey=20251117020033&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e244f1a6524b8f4d690b9b4ee8c4f0d2&ddCalcu=2ed2e041f484f0c18ae6e542b49bb80f946d
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://106.53.99.30/tv/gdcucc.php?id=74
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 https://live.chinacert.cftest5.cn/mg/?id=738910838
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" group-title="📡卫视频道",四川卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225757/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" group-title="📡卫视频道",四川卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001130/index.m3u8?IAS
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://iptv.666230.xyz/iptv/sxg.php/scwsH265_4000
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" group-title="📡卫视频道",四川卫视
@@ -1201,10 +979,6 @@ http://106.53.99.30/tv/20250717.php?id=0038
 http://106.53.99.30/tv/gdcucc.php?id=68
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/四川卫视.png" group-title="📡卫视频道",四川卫视
 https://live.chinacert.cftest5.cn/zgst/?id=sichuan
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225951/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="📡卫视频道",深圳卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225725/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://go.bkpcp.top/mg/szws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="📡卫视频道",深圳卫视
@@ -1225,14 +999,6 @@ http://106.53.99.30/tv/gdcucc.php?id=16
 http://106.53.99.30/tv/gdcucc.php?id=63
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 https://live.chinacert.cftest5.cn/zgst/?id=shenzhen
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/三沙卫视.png" group-title="📡卫视频道",三沙卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001185/index.m3u8?IAS
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天津卫视.png" group-title="📡卫视频道",天津卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221226022/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天津卫视.png" group-title="📡卫视频道",天津卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225675/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天津卫视.png" group-title="📡卫视频道",天津卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001036/index.m3u8?IAS
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天津卫视.png" group-title="📡卫视频道",天津卫视
 http://iptv.666230.xyz/iptv/sxg.php/tjwsH265_4000
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天津卫视.png" group-title="📡卫视频道",天津卫视
@@ -1252,12 +1018,6 @@ http://106.53.99.30/tv/gdcucc.php?id=60
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/天津卫视.png" group-title="📡卫视频道",天津卫视
 https://live.chinacert.cftest5.cn/zgst/?id=tianjin
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/西藏卫视.png" group-title="📡卫视频道",西藏卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225800/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/西藏卫视.png" group-title="📡卫视频道",西藏卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225828/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/西藏卫视.png" group-title="📡卫视频道",西藏卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001072/index.m3u8?IAS
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://106.53.99.30/tv/api.php?id=xzws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://iptv.666230.xyz/iptv/sxg.php/xzwsH264_2000
@@ -1270,10 +1030,6 @@ http://106.53.99.30/tv/20250717.php?id=0055
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/西藏卫视.png" group-title="📡卫视频道",西藏卫视
 http://106.53.99.30/tv/gdcucc.php?id=80
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新疆卫视.png" group-title="📡卫视频道",新疆卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225788/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新疆卫视.png" group-title="📡卫视频道",新疆卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001065/index.m3u8?IAS
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://iptv.666230.xyz/iptv/sxg.php/xjws_4000
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 https://zby.130519.xyz/PLTV/11/224/3221226088/index.m3u8
@@ -1285,10 +1041,6 @@ http://106.53.99.30/tv/jzb.php?id=xjws
 http://106.53.99.30/tv/20250717.php?id=0054
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新疆卫视.png" group-title="📡卫视频道",新疆卫视
 http://106.53.99.30/tv/gdcucc.php?id=81
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/云南卫视.png" group-title="📡卫视频道",云南卫视
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225794/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/云南卫视.png" group-title="📡卫视频道",云南卫视
-https://shyd.695847.xyz/cms001/ch00000090990000001223/index.m3u8?IAS
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/云南卫视.png" group-title="📡卫视频道",云南卫视
 http://iptv.666230.xyz/iptv/sxg.php/ynws_4000
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/云南卫视.png" group-title="📡卫视频道",云南卫视
@@ -1416,27 +1168,19 @@ http://iptv.666230.xyz/iptv/sxg.php/lnwsCHC-HDH265_4000
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="🎬电影频道",CHC影迷电影
 http://106.53.99.30/tv/20250717.php?id=0021
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="🎬电影频道",CHC影迷电影
-http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=20251116220036b8c230f6a27547b984ca0f7d1fd598bb&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251116220036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.88&SecurityKey=20251116220036&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1a4f7365aa458bf159b2485d949a0d13&ddCalcu=311aed410f2a70934695da5a844528bb9f51
+http://gslbmgsplive.miguvideo.com/migu/kailu/chcymdy/51/20250415/index.m3u8?msisdn=202511170200385c3d7c8c2b014ae586f8bdc5f108fb7f&mdspid=&spid=699004&netType=0&sid=5910022176&pid=2028597139&timestamp=20251117020038&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=952383261&ParentNodeID=-99&assertID=5910022176&client_ip=106.13.250.90&SecurityKey=20251117020038&promotionId=&mvid=5900006704&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=8b2ce819a50ec4e2e47aed1120666159&ddCalcu=985be1216c26e06801291a15d0eeac744ee2
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CHC影迷电影.png" group-title="🎬电影频道",CHC影迷电影
 https://live.chinacert.cftest5.cn/mg/?id=952383261
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/嘉佳卡通.png" group-title="🎬电影频道",嘉佳卡通
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225797/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/嘉佳卡通.png" group-title="🎬电影频道",嘉佳卡通
-https://shyd.695847.xyz/cms001/ch00000090990000001227/index.m3u8?IAS
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/嘉佳卡通.png" group-title="🎬电影频道",嘉佳卡通
 http://iptv.666230.xyz/iptv/sxg.php/jjkt_2000
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/嘉佳卡通.png" group-title="🎬电影频道",嘉佳卡通
 https://zby.130519.xyz/PLTV/11/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/嘉佳卡通.png" group-title="🎬电影频道",嘉佳卡通
-http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=2025111622003768ddbd3c81cc4a9ab17f35763522262d&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20251116220037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=106.13.250.88&SecurityKey=20251116220037&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6211021ae59ed1b344600e1f5d65625e&ddCalcu=e652e21161450062d15afe15e90e0d614b43
+http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=20251117020039740aaddb6075499d8ee67da06b7c5245&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20251117020039&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=106.13.250.90&SecurityKey=20251117020039&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=5290ecf82ede3ef1cd0b4654eafcd295&ddCalcu=5592e291d04ce0fcafe8425e6d4eb30edfc1
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/嘉佳卡通.png" group-title="🎬电影频道",嘉佳卡通
 http://106.53.99.30/tv/gdcucc.php?id=35
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/嘉佳卡通.png" group-title="🎬电影频道",嘉佳卡通
 https://live.chinacert.cftest5.cn/mg/?id=614952364
-#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑莓动画.png" group-title="🎬电影频道",黑莓动画
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225710/index.m3u8?servicetype=3&IASHttpSessionId=OTT
-#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黑莓电影.png" group-title="🎬电影频道",黑莓电影
-http://gxyd.484947.xyz/PLTV/77777777/224/3221225740/index.m3u8?servicetype=3&IASHttpSessionId=OTT
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/美亚电影.png" group-title="🎬电影频道",美亚电影
 http://aktv_stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8$自用源
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/美亚电影.png" group-title="🎬电影频道",美亚电影
@@ -1448,11 +1192,11 @@ http://php.jdshipin.com/TVOD/iptv.php?id=meiya$自用源
 #EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/美亚电影.png" group-title="🎬电影频道",美亚电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya$自用源
 #EXTINF:-1 tvg-name="经典香港电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/经典香港电影.png" group-title="🎬电影频道",经典香港电影
-http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=20251116220036bf8b6aec6cf843ab970485ee6d1beb9a&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20251116220036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=106.13.250.88&SecurityKey=20251116220036&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=cd9c6370d172b1402ccf701b6ea99b64&ddCalcu=4c6deb919c5960a3e760bd110772fbc1c420
+http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=202511170200370ede8b2a44c44691a4603cd925e67e39&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20251117020037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=106.13.250.90&SecurityKey=20251117020037&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=90fc21a393ab75aa60fd781362e0c28b&ddCalcu=b980e2f1cc5020e12a6339138a7bd7f50a6a
 #EXTINF:-1 tvg-name="经典香港电影" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/经典香港电影.png" group-title="🎬电影频道",经典香港电影
 https://live.chinacert.cftest5.cn/mg/?id=625703337
 #EXTINF:-1 tvg-name="新片放映厅" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新片放映厅.png" group-title="🎬电影频道",新片放映厅
-http://gslbmgsplive.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?msisdn=202511162200360cbca56e979b43449792997b8b4d831c&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20251116220036&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=106.13.250.88&SecurityKey=20251116220036&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1474d5ed7f4d0ebdcc53eef485cd8fa5&ddCalcu=51a4ef71849dd0c55e8d47ffe4ed305ecbcd
+http://gslbmgsplive.miguvideo.com/wd-virtuallive5100030975-150/index.m3u8?msisdn=202511170200371771487ea65e44c1812ac0b31634f8a5&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20251117020037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=106.13.250.90&SecurityKey=20251117020037&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1608c2af7e43feaf2eeedb912b7d0271&ddCalcu=1176e201089dc072ba2f179eb4d3efeeea2f
 #EXTINF:-1 tvg-name="新片放映厅" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/新片放映厅.png" group-title="🎬电影频道",新片放映厅
 https://live.chinacert.cftest5.cn/mg/?id=619495952
 #EXTINF:-1 tvg-name="周星驰" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/周星驰.png" group-title="🎬电影频道",周星驰
@@ -1473,5 +1217,5 @@ https://yylunbo.ottiptv.cc/yy/1351505899
 http://cfss.cc/cdn/hy/11342421.flv
 #EXTINF:-1 tvg-name="黄渤" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黄渤.png" group-title="🎬电影频道",黄渤
 http://cfss.cc/cdn/hy/11352876.flv
-#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合.png" group-title="🕘️更新时间",2025-11-16 23:48:20
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合.png" group-title="🕘️更新时间",2025-11-17 03:11:09
 http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701$自用源
