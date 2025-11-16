@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251116131912 +0800">
+<tv date="20251116154820 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6862,6 +6862,54 @@
 	<programme channel="甘肃卫视" start="20251116233000 +0800" stop="20251116235900 +0800">
 		<title lang="zh">大漠枪神(20)</title>
 	</programme>
+	<channel id="美亚电影">
+		<display-name lang="zh">美亚电影</display-name>
+	</channel>
+	<programme channel="美亚电影" start="20251116003500 +0800" stop="20251116020500 +0800">
+		<title lang="zh">黄大仙乌鼠</title>
+	</programme>
+	<programme channel="美亚电影" start="20251116020500 +0800" stop="20251116034500 +0800">
+		<title lang="zh">抢钱夫妻</title>
+	</programme>
+	<programme channel="美亚电影" start="20251116034500 +0800" stop="20251116053000 +0800">
+		<title lang="zh">九降风</title>
+	</programme>
+	<programme channel="美亚电影" start="20251116053000 +0800" stop="20251116060000 +0800">
+		<title lang="zh">极速僵尸</title>
+	</programme>
+	<programme channel="美亚电影" start="20251116060000 +0800" stop="20251116070500 +0800">
+		<title lang="zh">极速僵尸</title>
+	</programme>
+	<programme channel="美亚电影" start="20251116070500 +0800" stop="20251116100500 +0800">
+		<title lang="zh">KANO</title>
+	</programme>
+	<programme channel="美亚电影" start="20251116100500 +0800" stop="20251116113500 +0800">
+		<title lang="zh">初恋无限Touch</title>
+	</programme>
+	<programme channel="美亚电影" start="20251116113500 +0800" stop="20251116130500 +0800">
+		<title lang="zh">妙探孖宝</title>
+	</programme>
+	<programme channel="美亚电影" start="20251116130500 +0800" stop="20251116144000 +0800">
+		<title lang="zh">五个吓鬼的少年</title>
+	</programme>
+	<programme channel="美亚电影" start="20251116144000 +0800" stop="20251116161500 +0800">
+		<title lang="zh">唔该借歪</title>
+	</programme>
+	<programme channel="美亚电影" start="20251116161500 +0800" stop="20251116175000 +0800">
+		<title lang="zh">忠义群英</title>
+	</programme>
+	<programme channel="美亚电影" start="20251116175000 +0800" stop="20251116192000 +0800">
+		<title lang="zh">玉女添丁</title>
+	</programme>
+	<programme channel="美亚电影" start="20251116192000 +0800" stop="20251116210000 +0800">
+		<title lang="zh">一见锺情</title>
+	</programme>
+	<programme channel="美亚电影" start="20251116210000 +0800" stop="20251116223000 +0800">
+		<title lang="zh">PTU</title>
+	</programme>
+	<programme channel="美亚电影" start="20251116223000 +0800" stop="20251116235900 +0800">
+		<title lang="zh">合家欢</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
@@ -7861,6 +7909,9 @@
 	<programme channel="黑莓动画" start="20251116174100 +0800" stop="20251116213100 +0800">
 		<title lang="zh">21_假面骑士艾克赛德 （普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251116213100 +0800" stop="20251116230400 +0800">
+		<title lang="zh">蜡笔小新：梦境世界大突击</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7899,6 +7950,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251116184800 +0800" stop="20251116203100 +0800">
 		<title lang="zh">攻壳机动队</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251116203100 +0800" stop="20251116230900 +0800">
+		<title lang="zh">变形金刚4：绝迹重生</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
