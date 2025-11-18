@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251118052700 +0800">
+<tv date="20251118071440 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2393,6 +2393,81 @@
 	</programme>
 	<programme channel="CHC高清电影" start="20251118220000 +0800" stop="20251118234000 +0800">
 		<title lang="zh">聊斋新传之奇女子</title>
+	</programme>
+	<channel id="TVB星河">
+		<display-name lang="zh">TVB星河</display-name>
+	</channel>
+	<programme channel="TVB星河" start="20251118000000 +0800" stop="20251118010000 +0800">
+		<title lang="zh">封神榜</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118010000 +0800" stop="20251118020000 +0800">
+		<title lang="zh">老婆大人</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118020000 +0800" stop="20251118030000 +0800">
+		<title lang="zh">下流上车族</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118030000 +0800" stop="20251118040000 +0800">
+		<title lang="zh">城寨英雄</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118040000 +0800" stop="20251118050000 +0800">
+		<title lang="zh">名媛望族</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118050000 +0800" stop="20251118060000 +0800">
+		<title lang="zh">名媛望族</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118060000 +0800" stop="20251118070000 +0800">
+		<title lang="zh">封神榜</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118070000 +0800" stop="20251118080000 +0800">
+		<title lang="zh">老婆大人</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118080000 +0800" stop="20251118090000 +0800">
+		<title lang="zh">下流上车族</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118090000 +0800" stop="20251118100000 +0800">
+		<title lang="zh">城寨英雄</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118100000 +0800" stop="20251118110000 +0800">
+		<title lang="zh">名媛望族</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118110000 +0800" stop="20251118120000 +0800">
+		<title lang="zh">名媛望族</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118120000 +0800" stop="20251118130000 +0800">
+		<title lang="zh">封神榜</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118130000 +0800" stop="20251118140000 +0800">
+		<title lang="zh">老婆大人</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118140000 +0800" stop="20251118150000 +0800">
+		<title lang="zh">下流上车族</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118150000 +0800" stop="20251118160000 +0800">
+		<title lang="zh">城寨英雄</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118160000 +0800" stop="20251118170000 +0800">
+		<title lang="zh">名媛望族</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118170000 +0800" stop="20251118180000 +0800">
+		<title lang="zh">名媛望族</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118180000 +0800" stop="20251118190000 +0800">
+		<title lang="zh">封神榜</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118190000 +0800" stop="20251118200000 +0800">
+		<title lang="zh">老婆大人</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118200000 +0800" stop="20251118210000 +0800">
+		<title lang="zh">下流上车族</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118210000 +0800" stop="20251118220000 +0800">
+		<title lang="zh">城寨英雄</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118220000 +0800" stop="20251118230000 +0800">
+		<title lang="zh">名媛望族</title>
+	</programme>
+	<programme channel="TVB星河" start="20251118230000 +0800" stop="20251118235900 +0800">
+		<title lang="zh">名媛望族</title>
 	</programme>
 	<channel id="三沙卫视">
 		<display-name lang="zh">三沙卫视</display-name>
@@ -8128,6 +8203,9 @@
 	<programme channel="黑莓动画" start="20251118092400 +0800" stop="20251118131500 +0800">
 		<title lang="zh">汪汪队立大功第3季11</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251118131500 +0800" stop="20251118154500 +0800">
+		<title lang="zh">11_猪猪侠之光明守卫者（上部）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -8151,6 +8229,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251118103000 +0800" stop="20251118122500 +0800">
 		<title lang="zh">战栗的乐谱</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251118122500 +0800" stop="20251118141600 +0800">
+		<title lang="zh">百元之恋</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
