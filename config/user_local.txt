@@ -4,40 +4,25 @@
 # Support setting whitelist: add $!自用源 after the interface
 潮州综合,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701$!自用源
 潮州民生,http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20250701$!自用源
+潮州民生,http://183.33.57.204:8686/udp/239.253.43.75:5146$!自用源
+潮州综合,http://183.33.57.204:8686/udp/239.253.43.70:5146$!自用源
 潮州综合,http://home.l-ht.cn:4000/rtp/239.253.43.70:5146$!自用源
 潮州民生,http://home.l-ht.cn:4000/rtp/239.253.43.75:5146$!自用源
-汕头综合,https://sttv-hls.strtv.cn/lKGXIQa/500/82sl0G0.m3u8?sign=62c9d36f38f160be78e12ac02a028433&t=691c59a5
 
-汕头经济,https://sttv-hls.strtv.cn/7xjJK9d/500/y3270j0.m3u8?sign=9509e50e9cc036bbcb764b8d8f012b51&t=691c5d12
-
-
-潮州民生,http://183.33.57.204:8686/udp/239.253.43.75:5146
-潮州综合,http://183.33.57.204:8686/udp/239.253.43.70:5146
-
-揭阳综合,http://183.33.57.204:8686/udp/239.77.0.229:5146
-揭阳生活,http://183.33.57.204:8686/udp/239.77.0.251:5146
-
-汕头综合,http://183.33.57.204:8686/udp/239.253.43.45:5146
-汕头经济,http://183.33.57.204:8686/udp/239.253.43.46:5146
-
+汕头综合,http://183.33.57.204:8686/udp/239.253.43.45:5146$!自用源
+汕头经济,http://183.33.57.204:8686/udp/239.253.43.46:5146$!自用源
 汕头综合,http://home.l-ht.cn:4000/rtp/239.77.1.130:5146$!自用源
 汕头综合,http://home.l-ht.cn:4000/rtp/239.253.43.45:5146$!自用源
-汕头综合,http://119.140.58.107:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$!自用源
-汕头经济,http://119.140.58.107:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$!自用源
 汕头经济,http://home.l-ht.cn:4000/rtp/239.77.1.131:5146$!自用源
 汕头经济,http://home.l-ht.cn:4000/rtp/239.253.43.46:5146$!自用源
 汕头综合,http://tv.zzlag.top:9003/hls/3/index.m3u8$!自用源
-汕头综合,http://156.238.253.62:5555/tvbox/公众号好享生活小助手/广东代理源/汕头.php?id=st1$!自用源
-汕头经济,http://home.zackfair1993.xyz:8686/rtp/239.253.43.46:5146$!自用源
 
-揭阳综合,http://home.l-ht.cn:4000/rtp/239.77.0.229:5146$!自用源
-揭阳生活,http://home.l-ht.cn:4000/rtp/239.77.0.251:5146$!自用源
-揭阳综合,http://119.140.58.107:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$!自用源
-揭阳生活,http://119.140.58.107:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$!自用源
-揭阳综合,rtmp://rtmp-stjy.sobeylive.com/stjy2020/zhpd?sign=bf98b2873ad5403290a37d16569d7a06&t=639de420$!自用源
-揭阳综合,http://dslive.grtn.cn/jyzh/sd/live.m3u8$!自用源
+揭阳综合,http://183.33.57.204:8686/udp/239.77.0.229:5146$!自用源
+揭阳生活,http://183.33.57.204:8686/udp/239.77.0.251:5146$!自用源
 揭阳综合,http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8$!自用源
 揭阳生活,http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8$!自用源
+揭阳综合,http://home.l-ht.cn:4000/rtp/239.77.0.229:5146$!自用源
+揭阳生活,http://home.l-ht.cn:4000/rtp/239.77.0.251:5146$!自用源
 
 TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn$!自用源
 TVB无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn$!自用源
