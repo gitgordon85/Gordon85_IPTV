@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251122041032 +0800">
+<tv date="20251122070404 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6234,6 +6234,54 @@
 	<programme channel="潮州综合" start="20251122232000 +0800" stop="20251122235900 +0800">
 		<title lang="zh">民生直播室</title>
 	</programme>
+	<channel id="美亚电影">
+		<display-name lang="zh">美亚电影</display-name>
+	</channel>
+	<programme channel="美亚电影" start="20251122003500 +0800" stop="20251122022500 +0800">
+		<title lang="zh">烈日当空</title>
+	</programme>
+	<programme channel="美亚电影" start="20251122022500 +0800" stop="20251122035500 +0800">
+		<title lang="zh">朱丽叶与梁山伯</title>
+	</programme>
+	<programme channel="美亚电影" start="20251122035500 +0800" stop="20251122055500 +0800">
+		<title lang="zh">那一夜母亲是杀人犯</title>
+	</programme>
+	<programme channel="美亚电影" start="20251122055500 +0800" stop="20251122060000 +0800">
+		<title lang="zh">打工狂想曲</title>
+	</programme>
+	<programme channel="美亚电影" start="20251122060000 +0800" stop="20251122073000 +0800">
+		<title lang="zh">打工狂想曲</title>
+	</programme>
+	<programme channel="美亚电影" start="20251122073000 +0800" stop="20251122091000 +0800">
+		<title lang="zh">下一站天后</title>
+	</programme>
+	<programme channel="美亚电影" start="20251122091000 +0800" stop="20251122105500 +0800">
+		<title lang="zh">圣战风云</title>
+	</programme>
+	<programme channel="美亚电影" start="20251122105500 +0800" stop="20251122124000 +0800">
+		<title lang="zh">新扎师妹II美丽任务</title>
+	</programme>
+	<programme channel="美亚电影" start="20251122124000 +0800" stop="20251122142000 +0800">
+		<title lang="zh">功夫</title>
+	</programme>
+	<programme channel="美亚电影" start="20251122142000 +0800" stop="20251122154500 +0800">
+		<title lang="zh">人民英雄</title>
+	</programme>
+	<programme channel="美亚电影" start="20251122154500 +0800" stop="20251122174500 +0800">
+		<title lang="zh">听风者</title>
+	</programme>
+	<programme channel="美亚电影" start="20251122174500 +0800" stop="20251122192000 +0800">
+		<title lang="zh">爱作战</title>
+	</programme>
+	<programme channel="美亚电影" start="20251122192000 +0800" stop="20251122210000 +0800">
+		<title lang="zh">窃听风云</title>
+	</programme>
+	<programme channel="美亚电影" start="20251122210000 +0800" stop="20251122230000 +0800">
+		<title lang="zh">拆弹专家</title>
+	</programme>
+	<programme channel="美亚电影" start="20251122230000 +0800" stop="20251122235900 +0800">
+		<title lang="zh">追击8月15</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
@@ -6663,6 +6711,9 @@
 	<programme channel="黑莓动画" start="20251122075200 +0800" stop="20251122112300 +0800">
 		<title lang="zh">01_小马宝莉：我的可爱标志上</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251122112300 +0800" stop="20251122151500 +0800">
+		<title lang="zh">汪汪队立大功第3季01</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -6686,5 +6737,11 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251122093300 +0800" stop="20251122114600 +0800">
 		<title lang="zh">还是觉得你最好2</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251122114600 +0800" stop="20251122131900 +0800">
+		<title lang="zh">女汉子真爱公式</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251122131900 +0800" stop="20251122150500 +0800">
+		<title lang="zh">同喜</title>
 	</programme>
 </tv>
