@@ -964,6 +964,8 @@ https://live.catvod.com/live.php?id=hkphoenix_twn&token=ebb449c932d26f5066d0c510
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2$自用源
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
+http://gd.wsd.gd.cn:1698/hls/97/index.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
 http://106.53.99.30/tv/20250717.php?id=0024
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
 http://cdn.jdshipin.com/jisu.php?id=fhxg
@@ -1053,5 +1055,5 @@ http://live.iill.top/huya.php?id=11342421
 http://cfss.cc/cdn/hy/11352876.flv
 #EXTINF:-1 tvg-name="黄渤" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/黄渤.png" group-title="🎬电影频道",黄渤
 http://live.iill.top/huya.php?id=11601968
-#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合.png" group-title="🕘️更新时间",2025-11-22 23:53:32
+#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/潮州综合.png" group-title="🕘️更新时间",2025-11-23 03:01:37
 http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701$自用源
