@@ -13,6 +13,21 @@
 揭阳生活,http://gd.wsd.gd.cn:1698/hls/7/index.m3u8
 揭阳综合,http://183.33.57.204:8686/udp/239.77.0.229:5146$自用源
 揭阳综合,http://gd.wsd.gd.cn:1698/hls/6/index.m3u8
+广东卫视,http://go.bkpcp.top/mg/gdws
+广东卫视,http://pa.kuangdeng.top:8081/hls/17/index.m3u8
+广东卫视,http://gd.wsd.gd.cn:1698/hls/2/index.m3u8
+广东卫视,http://106.53.99.30/tv/api.php?id=gdws
+广东卫视,http://iptv.666230.xyz/iptv/sxg.php/gdwsH265_4000
+广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
+广东卫视,http://106.53.99.30/tv/jzb.php?id=gdws
+广东卫视,http://106.53.99.30/tv/20250717.php?id=0030
+广东卫视,http://cdn.jdshipin.com/jisu.php?id=gdws
+广东卫视,https://live.chinacert.cftest5.cn/mg/?id=608831231
+广东卫视,http://106.53.99.30/tv/gdcucc.php?id=27
+广东新闻,http://106.53.99.30/tv/gdcucc.php?id=28
+广东体育,http://gd.wsd.gd.cn:1698/hls/12/index.m3u8
+广东体育,http://106.53.99.30/tv/gdcucc.php?id=30
+大湾区卫视,https://live.chinacert.cftest5.cn/mg/?id=608917627
 
 📺央视频道,#genre#
 CCTV-1,http://go.bkpcp.top/mg/cctv1
@@ -269,7 +284,6 @@ CETV-2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226718/1.m
 CETV-2,http://iptv.666230.xyz/iptv/sxg.php/CETV-2_4000
 CETV-2,http://106.53.99.30/tv/20250717.php?id=0057
 CETV-2,https://live.chinacert.cftest5.cn/mg/?id=923287211
-CETV-3,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226722/1.m3u8
 CETV-4,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226724/1.m3u8
 CETV-4,http://iptv.666230.xyz/iptv/sxg.php/CETV-4H264_2000
 CETV-4,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
@@ -278,17 +292,6 @@ CETV-4,http://106.53.99.30/tv/20250717.php?id=0058
 CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 
 📡卫视频道,#genre#
-广东卫视,http://go.bkpcp.top/mg/gdws
-广东卫视,http://pa.kuangdeng.top:8081/hls/17/index.m3u8
-广东卫视,http://gd.wsd.gd.cn:1698/hls/2/index.m3u8
-广东卫视,http://106.53.99.30/tv/api.php?id=gdws
-广东卫视,http://iptv.666230.xyz/iptv/sxg.php/gdwsH265_4000
-广东卫视,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
-广东卫视,http://106.53.99.30/tv/jzb.php?id=gdws
-广东卫视,http://106.53.99.30/tv/20250717.php?id=0030
-广东卫视,http://cdn.jdshipin.com/jisu.php?id=gdws
-广东卫视,https://live.chinacert.cftest5.cn/mg/?id=608831231
-广东卫视,http://106.53.99.30/tv/gdcucc.php?id=27
 北京卫视,http://go.bkpcp.top/mg/bjws
 北京卫视,http://pa.kuangdeng.top:8081/hls/20/index.m3u8
 北京卫视,http://gd.wsd.gd.cn:1698/hls/38/index.m3u8
@@ -428,13 +431,6 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 江西卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226726/1.m3u8
 江西卫视,https://live.chinacert.cftest5.cn/mg/?id=783847495
 江西卫视,http://106.53.99.30/tv/gdcucc.php?id=62
-内蒙古卫视,http://106.53.99.30/tv/api.php?id=nmgws
-内蒙古卫视,http://iptv.666230.xyz/iptv/sxg.php/nmgws_4000
-内蒙古卫视,https://zby.130519.xyz/PLTV/11/224/3221226011/index.m3u8
-内蒙古卫视,http://106.53.99.30/tv/20250717.php?id=0053
-内蒙古卫视,http://cdn.jdshipin.com/jisu.php?id=nmgws
-内蒙古卫视,https://live.chinacert.cftest5.cn/zgst/?id=neimenggu
-内蒙古卫视,http://106.53.99.30/tv/gdcucc.php?id=76
 宁夏卫视,https://zby.130519.xyz/PLTV/11/224/3221226092/index.m3u8
 宁夏卫视,http://cdn.jdshipin.com/jisu.php?id=nxws
 宁夏卫视,http://106.53.99.30/tv/gdcucc.php?id=79
@@ -476,12 +472,6 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 天津卫视,https://live.chinacert.cftest5.cn/zgst/?id=tianjin
 天津卫视,http://106.53.99.30/tv/gdcucc.php?id=19
 天津卫视,http://106.53.99.30/tv/gdcucc.php?id=60
-西藏卫视,http://106.53.99.30/tv/api.php?id=xzws
-西藏卫视,http://iptv.666230.xyz/iptv/sxg.php/xzwsH264_2000
-西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221225767/index.m3u8
-西藏卫视,https://zby.130519.xyz/PLTV/11/224/3221226012/index.m3u8
-西藏卫视,http://106.53.99.30/tv/20250717.php?id=0055
-西藏卫视,http://106.53.99.30/tv/gdcucc.php?id=80
 
 🌊港·澳·台,#genre#
 翡翠台,https://live.catvod.com/iptv.php?id=owedlyam$自用源
@@ -576,4 +566,4 @@ CHC影迷电影,https://live.chinacert.cftest5.cn/mg/?id=952383261
 黄渤,http://cfss.cc/cdn/hy/11352876.flv
 
 🕘️更新时间,#genre#
-2025-11-22 10:18:37,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701$自用源
+2025-11-22 12:10:32,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701$自用源
