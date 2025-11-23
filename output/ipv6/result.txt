@@ -220,13 +220,14 @@ CCTV-13,http://gd.wsd.gd.cn:1698/hls/30/index.m3u8
 CCTV-13,https://hyf.serv00.net/飞哥.php?id=14
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13%20%E6%96%B0%E9%97%BB
 CCTV-13,http://58.19.180.108:9981/stream/channelid/876545399?profile=pass
+CCTV-13,http://106.53.99.30/tv/api.php?id=cctv13
 CCTV-13,http://iptv.666230.xyz/iptv/sxg.php/CCTV-xw_4000
 CCTV-13,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
+CCTV-13,http://106.53.99.30/tv/jzb.php?id=cctv13
 CCTV-13,http://106.53.99.30/tv/20250717.php?id=0014
 CCTV-13,http://cdn.jdshipin.com/jisu.php?id=cctv13
 CCTV-13,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226717/1.m3u8
 CCTV-13,https://live.chinacert.cftest5.cn/mg/?id=608807423
-CCTV-13,http://106.53.99.30/tv/cctv13.php
 CCTV-14,http://go.bkpcp.top/mg/cctv14
 CCTV-14,http://pa.kuangdeng.top:8081/hls/14/index.m3u8
 CCTV-14,http://gd.wsd.gd.cn:1698/hls/31/index.m3u8
@@ -447,7 +448,6 @@ CETV-4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4$自用源
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 翡翠台,http://cdn.jdshipin.com/jisu.php?id=fct
-翡翠台,http://106.53.99.30/tv/hk.php?id=fct
 明珠台,https://live.catvod.com/iptv.php?id=avt0u2vx$自用源
 明珠台,https://live.catvod.com/live.php?id=pearl_twn&token=030890dd06ae73203763acff14fb0c19a9879d7f205a10991f89783cedb196f8%3A1763709635%3AMTgzLjUwLjMyLjc1$自用源
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt$自用源
@@ -468,21 +468,19 @@ VIU,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2$自用源
 凤凰中文,http://cdn.jdshipin.com/jisu.php?id=fhzw$自用源
 凤凰中文,http://gd.wsd.gd.cn:1698/hls/96/index.m3u8
 凤凰中文,http://iptv.666230.xyz/iptv/sxg.php/test1_4000
+凤凰中文,http://106.53.99.30/tv/20250717.php?id=0022
 凤凰中文,http://cdn.jdshipin.com/jisu.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://106.53.99.30/tv/hk.php?id=fhzw
-凤凰中文,http://106.53.99.30/tv/hk.php?id=fhzw1
 凤凰资讯,https://live.catvod.com/iptv.php?id=k0zuckvv$自用源
 凤凰资讯,http://cdn.jdshipin.com/jisu.php?id=fhzx$自用源
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2$自用源
 凤凰资讯,http://cdn5.1678520.xyz/live/?id=fhzx$自用源
 凤凰资讯,http://gd.wsd.gd.cn:1698/hls/95/index.m3u8
 凤凰资讯,http://iptv.666230.xyz/iptv/sxg.php/test2_4000
+凤凰资讯,http://106.53.99.30/tv/20250717.php?id=0023
 凤凰资讯,http://cdn.jdshipin.com/jisu.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php
-凤凰资讯,http://106.53.99.30/tv/hk.php?id=fhzx
-凤凰资讯,http://106.53.99.30/tv/hk.php?id=fhzx1
 凤凰香港,https://live.catvod.com/iptv.php?id=02zgkad4$自用源
 凤凰香港,http://cdn.jdshipin.com/jisu.php?id=fhxg$自用源
 凤凰香港,https://live.catvod.com/live.php?id=hkphoenix_twn&token=ebb449c932d26f5066d0c51092fc0a40ea78c1b11c8f5c178c4a89436c6dc0c1%3A1763709635%3AMTgzLjUwLjMyLjc1$自用源
@@ -537,4 +535,4 @@ CHC影迷电影,https://live.chinacert.cftest5.cn/mg/?id=952383261
 黄渤,http://live.iill.top/huya.php?id=11601968
 
 🕘️更新时间,#genre#
-2025-11-23 05:49:32,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701$自用源
+2025-11-23 10:34:46,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701$自用源
