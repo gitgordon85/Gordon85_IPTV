@@ -65,3 +65,26 @@ jobs:
             git commit -m "Github Action Auto Updated"
             git push --force
           fi
+      - name: Mirror the Github organization repos to Gitee.
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: 'github/gitgordon85'    			
+          dst: 'gitee/gordon85'   
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}  
+          dst_token:  ${{ secrets.GITEE_TOKEN }}  
+          force_update: true
+          static_list: "Gordon85_IPTV"
+          account_type: user   		
+          debug: true
+      - name: Clean up GitHub output directory
+        run: |
+          # 完全删除并重新创建output目录
+          rm -rf output
+          mkdir -p output
+          
+          # 添加空文件确保目录被跟踪
+          touch output/.empty
+          
+          git add output/
+          git commit -m "Clean up output directory" || echo "No changes"
+          git push
