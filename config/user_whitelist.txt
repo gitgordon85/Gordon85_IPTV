@@ -1,0 +1,30 @@
+# 这是接口或订阅源的白名单，白名单内的接口或订阅源获取的接口将不会参与测速，优先排序至结果最前。
+# 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
+# This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
+# Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+https://raw.githubusercontent.com/mytv-android/BRTV-Live-M3U8/refs/heads/main/BRTV.m3u
+https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
+https://tv.iill.top/m3u/Gather
+
+https://github.com/q1017673817/iptvz/raw/refs/heads/main/%E7%BB%84%E6%92%AD_%E5%B9%BF%E4%B8%9C%E8%81%94%E9%80%9A.txt
+
+https://raw.githubusercontent.com/wind005/TVlive/refs/heads/main/%E4%BB%A3%E7%90%86%E6%BA%90/%E5%B9%BF%E8%A5%BF%E7%A7%BB%E5%8A%A8-dl.txt
+https://raw.githubusercontent.com/wind005/TVlive/refs/heads/main/%E4%BB%A3%E7%90%86%E6%BA%90/%E7%A6%8F%E5%BB%BA%E7%A7%BB%E5%8A%A8-dl.txt
+https://raw.githubusercontent.com/wind005/TVlive/refs/heads/main/%E4%BB%A3%E7%90%86%E6%BA%90/%E4%B8%8A%E6%B5%B7%E7%A7%BB%E5%8A%A8-dl.txt
+
+https://raw.githubusercontent.com/gitgordon85/Gordon85_IPTV/refs/heads/master/config/QWT.txt
+https://raw.githubusercontent.com/gitgordon85/Gordon85_IPTV/refs/heads/master/config/sztw
+https://iptv.laobaitv.net/?m3u=true
+
+https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+
+# http://39.134.67.108/PLTV/88888888/224/
+# http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/
+# http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
+# http://39.134.64.87:6610/PLTV/88888888/224/
+# http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
+http://106.53.99.30/tv/
+http://php.jdshipin.com/TVOD/
+web9916.w.computerqwq.cf/jzb.php?id=
+php.cqshushu.ggff.net/jzb.php?id=
+https://live.chinacert.cftest5.cn/
