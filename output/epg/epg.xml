@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251201042249 +0800">
+<tv date="20251201063930 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -6930,6 +6930,12 @@
 	<programme channel="黑莓动画" start="20251201081500 +0800" stop="20251201112700 +0800">
 		<title lang="zh">01_樱桃小丸子 第二季普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251201112700 +0800" stop="20251201115700 +0800">
+		<title lang="zh">01_初初宝贝儿歌第一季</title>
+	</programme>
+	<programme channel="黑莓动画" start="20251201115700 +0800" stop="20251201121600 +0800">
+		<title lang="zh">01_贝乐虎3D儿歌之保护身体</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -6947,5 +6953,8 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251201091000 +0800" stop="20251201110700 +0800">
 		<title lang="zh">我爱你！</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251201110700 +0800" stop="20251201123200 +0800">
+		<title lang="zh">妈妈的宝盒</title>
 	</programme>
 </tv>
