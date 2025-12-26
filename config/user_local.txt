@@ -2,8 +2,8 @@
 # 支持设置白名单：接口后添加$!
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $!自用源 after the interface
-潮州综合,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250701$!自用源
-潮州民生,http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20250701$!自用源
+潮州综合,http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20260101$!自用源
+潮州民生,http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20260101$!自用源
 
 揭阳综合,http://123.207.224.130:123/guangdong/jieyang.php?id=jyzh$!自用源
 揭阳生活,http://123.207.224.130:123/guangdong/jieyang.php?id=jysh$!自用源
